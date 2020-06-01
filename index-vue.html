@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+<head>
+    <title>Flex with vue</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+        .container {
+            width: 100%;
+            height: 100%;
+            overflow-x: hidden;
+            overflow-y: scroll;
+            perspective: 1px;
+            perspective-origin: 0 0;
+            background: url(css/bg.gif);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: end;
+            justify-content: space-around;
+        }
+
+        .parallax-child {
+            /*  transform-origin: 0 0;
+              transform: translateZ(-2px) scale(3);
+            */
+            margin: 50px 5px;
+            max-width: 350px;
+            position: relative;
+            flex-basis: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <div class="container">
+            <div class="parallax-child" v-for="index in 10" >
+                <h2>{{title}}</h2>
+                <p>{{message}}</p>
+                <img :src="pic" alt=""/>
+            </div>
+        </div>
+    </div>
+<script>
+        new Vue({
+            el:'#app',
+            data:{
+                pic:'images/pic.jpg',
+                message: 'Lorem ipsum dolor sit amet',
+                title: 'Duis te feugifacilisi',
+            },
+        })
+    </script>
+
+</body>
+</html>
