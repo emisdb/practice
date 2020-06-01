@@ -6,10 +6,10 @@ and open the template in the editor.
 -->
 <html>
 <head>
-    <title>Flex sample</title>
+    <title>Flex with vue</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <style>
         .container {
             width: 100%;
@@ -37,15 +37,25 @@ and open the template in the editor.
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="parallax-child" >
-            <h2>Duis te feugifacilisi</h2>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-                nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-                Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-                lobortis nisl ut aliquip ex ea commodo consequat.</p>
-            <img src="images/pic.jpg" alt=""/>
+    <div id="app">
+        <div class="container">
+            <div class="parallax-child" v-for="index in 10" >
+                <h2>{{title}}</h2>
+                <p>{{message}}</p>
+                <img :src="pic" alt=""/>
+            </div>
         </div>
-     </div>
+    </div>
+<script>
+        new Vue({
+            el:'#app',
+            data:{
+                pic:'images/pic.jpg',
+                message: 'Lorem ipsum dolor sit amet',
+                title: 'Duis te feugifacilisi',
+            },
+        })
+    </script>
+
 </body>
 </html>
