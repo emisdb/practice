@@ -1,0 +1,10 @@
+#my_display{
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    border: darkgrey inset 5px;
+    color: cadetblue;
+    background-color: lightgray;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+}
