@@ -17,6 +17,8 @@
 <div class="custom-notes"></div>
 <hr/>
 <div id="output"></div>
+<hr/>
+<div class="customer-notes"></div>
 
 <script type="text/html" id="custom-notes">
     <div class="alert alert-success alert-block">
@@ -27,6 +29,17 @@
         </div>
     </div>
 </script>
+<script type="text/html" id="customer-notes">
+    <% $.each(notes, function(i, note){ %>
+    <div class="alert alert-info">
+        <i class="icon-flag icon-30 pull-left"></i>
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <div class="important-note">
+            <p><%=note %></p>
+        </div>
+    </div>
+    <% }); %>
+</script>
 <script>
     let people = ['geddy', 'neil', 'alex'];
     let notes = ['wendy', 'cody', 'lute'];
@@ -36,19 +49,11 @@
     html=document.getElementById('custom-notes').innerHTML;
     // Vanilla JS:
     document.getElementsByClassName('custom-notes')[0].innerHTML = html;
+    txt=document.getElementById('customer-notes').innerHTML;
+    html = ejs.render(txt, {notes: notes});
+    document.getElementsByClassName('customer-notes')[0].innerHTML = html;
 </script>
 
-<script type="text/html" id="customer-notes">
-    <% $.each(notes, function(i, note){ %>
-    <div class="alert alert-block">
-        <i class="icon-flag icon-30 pull-left"></i>
-        <button type="button" class="close" data-dismiss="alert">&times;</button>
-        <div class="important-note">
-            <p><%=note %></p>
-        </div>
-    </div>
-    <% }); %>
-</script>
 
 </body>
 </html>
