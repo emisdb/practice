@@ -1,16 +1,43 @@
 var params ={
     size: 20,
-    color: 'green',
-    set : function(what){
+    red: 'green',
+    val : function(what){
         if(what=='size')
             return this.size
         else
             return this.color;
     },
-    test: function(obj){
-        test_func(obj)
+    debug: {
+        get : function(what){
+            if(what=='size')
+                return this.size
+            else
+                return this.color;
+        },
     }
-}
+ }
+ var teaser = {
+     size: 20,
+     red: 0,
+     green: 0,
+     blue: 0,
+     get fontsize(){
+        return this.size+'pt'
+     },
+         get color(){
+         var red = this.red
+         if (red>50) red=250
+         var green = this.green
+         if (green>50) green=250
+         var blue = this.blue
+         if (blue>50) blue=250
+         return "rgb("+red*5+","+green*5+","+blue*5+")"
+     },
+     sit: function (obj) {
+         obj.style.backgroundColor= this.color
+         obj.style.fontSize=this.fontsize
+     }
+ }
 var callNumber=0;
 function go_inc(obj)
 {

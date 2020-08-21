@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My test</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        function doit(obj){
+            obj.style.backgroundColor = params.set('color');
+            obj.innerHTML = obj.style.backgroundColor;
+        }
+        function doitt(obj){
+            let tf=test_func.bind(params)
+            tf(obj)
+        }
+        function doitTime(obj){
+            go_inc(obj)
+
+         }
+    </script>
+    <link rel="stylesheet" href="css/rates.css">
+</head>
+<body>
+<div onclick="doitTime(this)"> See it now</div>
+<div id="app">
+    <h1>Hello {{vuename}}</h1>
+    <label for="my_text" >Invitation</label>
+    <input name="my_text" type="text" v-on:input="chEv">
+    <div v-bind:title="message" v-on:click="cEv">
+    Hover your mouse over me for a few seconds
+    to see my dynamically bound title!
+  </div>
+
+</div>
+<svg class="footerList__icon" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10.7857 2.08036C10.6049 2.05357 9.98214 2 9.25893 2C7.74554 2 6.70759 2.92411 6.70759 4.6183V6.07813H5V8.06027H6.70759V13.1429H8.7567V8.06027H10.4576L10.7188 6.07813H8.7567V4.8125C8.7567 4.2433 8.91071 3.84821 9.73438 3.84821H10.7857V2.08036Z"/>
+</svg>
+<div id="experiment">
+<h1 onclick="teaser.sit(this)">For experiment</h1>
+    <a href="#" onclick="teaser.red++"><i class="fa fa-arrow-circle-up"></i></a>red<a href="#" onclick="teaser.red--"><i class="fa fa-arrow-circle-down"></i></a>
+    <a href="#" onclick="teaser.green++"><i class="fa fa-arrow-circle-up"></i></a>green<a href="#" onclick="teaser.green--"><i class="fa fa-arrow-circle-down"></i></a>
+    <a href="#" onclick="teaser.blue++"><i class="fa fa-arrow-circle-up"></i></a>blue<a href="#" onclick="teaser.blue--"><i class="fa fa-arrow-circle-down"></i></a>
+    <a href="#" onclick="teaser.size++"><i class="fa fa-arrow-circle-up"></i></a>size<a href="#" onclick="teaser.size--"><i class="fa fa-arrow-circle-down"></i></a>
+</div>
+<script>
+    new Vue({
+      el:'#app',
+      data:{
+          vuename:'there',
+          message: 'You loaded this page on ' + new Date().toLocaleString()
+      },
+      methods:{
+          'chEv': function(e){
+              this.vuename = e.target.value;
+          },
+          'cEv': function(e){
+              this.vuename = e.target.innerText;
+          }
+      }
+    })
+</script>
+</body>
+</html>

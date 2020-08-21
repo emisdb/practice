@@ -8,3 +8,9 @@
     text-decoration-style: wavy;
     text-transform: uppercase;
 }
+#experiment a{
+    padding:5px;
+}
+#experiment h1{
+    padding:5px;
+}

@@ -6,7 +6,7 @@
 'use strict';
 const http = require('http');
 const fs = require('fs');
-const html = fs.readFileSync('index.html', 'utf8');
+const html = fs.readFileSync('practice.html', 'utf8');
 const server = http.createServer(function(request, response){
    response.end(html);
 });
