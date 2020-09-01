@@ -26,9 +26,13 @@ body {
     display: -ms-flexbox; /* IE10 */
     display: flex;
     align-items: stretch;
-    justify-content: space-around;
+    justify-content: flex-start;
     flex-direction: column ;
 }
+.row-column label.row{
+    justify-content: flex-start;
+}
+
 .big {
     margin-top: 3px;
 }
