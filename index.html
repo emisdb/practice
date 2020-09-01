@@ -8,16 +8,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-<div class="row">
+
+<div class="row big">
     <div class="col-50">
         <div class="central container">
-        <h2>Привет!</h2>
-        <h3>Ты принял правльное решение поехать в Питер!</h3>
-        <h3>Уже придумал куда сходить?</h3>
+            <h2>Привет!</h2>
+            <h3>Ты принял правльное решение поехать в Питер!</h3>
+            <h3>Уже придумал куда сходить?</h3>
 
-        <h3>Если нет, ниразу не беда
-            - можно сейчас
-            Легко, Просто с Удовольствием!</h3>
+            <h3>Если нет, ниразу не беда
+                - можно сейчас
+                Легко, Просто с Удовольствием!</h3>
         </div>
     </div>
     <div class="col-50">
@@ -69,8 +70,8 @@
 
     </div>
 </div>
-<div class="row">
-    <div class="col-50">
+<div class="row big">
+    <div class="col-sized">
         <div class="container">
             <h2>[Первый] день:</h2>
             <ol>
@@ -84,58 +85,216 @@
                     50/50
                 </li>
             </ol>
-
-         </div>
-    </div>
-    <div class="col-50">
-        <div class="container">
             <ol>
                 <li>
-                    язык
+                    пеший маршрут
                 </li>
                 <li>
-                    количество человек
+                    автобус/такси
+                    <div class="notes">
+                        (увидеть больше - ехать дальше)
+                    </div>
                 </li>
-                <li>
-                    дети
-                    <ul>
-                        <li>
-                            &lt;5лет
-                        </li>
-                        <li>
-                            5-12 лет
-                        </li>
-                        <li>
-                            13-17 лет
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    в какой гостинице остановились?
-                </li>
-                <li>
-                    первый раз в питере?
-                </li>
-                <li>
-                    На сколько дней продумываем маршруты?
-                    <ul>
-                        <li>
-                            1
-                        </li>
-                        <li>
-                            2
-                        </li>
-                        <li>
-                            3
-                        </li>
-                    </ul>
-                </li>
-
             </ol>
+            <ol>
+                <li>
+                    <div class="row">
+                        <div class="col-50">
+                            точка старта
+                        </div>
+                        <div class="col-50">
+                            <input type="time" id="time_start" name="start" min="00:00" max="23:59" placeholder="08:00">
+                       </div>
+                    </div>
+                 </li>
+                <li>
+                    <div class="row">
+                        <div class="col-50">
+                            место финиша
+                        </div>
+                        <div class="col-50">
+                            <input type="time" id="time_finish" name="start" min="00:00" max="23:59" placeholder="08:00">
+                       </div>
+                    </div>
+                </li>
+            </ol>
+            <ul>
+                <li>
+                планируем что-нибудь на вечер?: <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="row big">
+    <div class="col-sized">
+        <div class="container">
+            <h2>Достопримечательности</h2>
+            <ul>
+                <li>
+                    Планируем заходить в музеи (без очереди)
+                    или просто наслаждаемся архитектурой ? :
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Прогулочные зоны интересуют?
+                    Нет, спасибо!:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Интересуют городские мероприятия?
+                    Да ну их !:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+    <div class="col-sized">
+        <div class="container">
+            <h2>Подвигаться - развеяться</h2>
+            <div class="row-column">
+                <h3>Выбери категории (пометь, что точно не понадобится!):</h3>
+                <label class="row">кораблики
+                    <input type="radio" checked="checked" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row"> панорамы / крыши
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row">бани / аквапарки / спа
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row">сегвэй (индивид.трансп.средство)
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row">карусели / зоо / аквариумы
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+            </div>
+         </div>
+
+    </div>
+    <div class="col-sized">
+        <div class="container">
+            <h2>Авто</h2>
+            <ul>
+                <li>
+                    Планируем заходить в музеи (без очереди)
+                    или просто наслаждаемся архитектурой ? :
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Прогулочные зоны интересуют?
+                    Нет, спасибо!:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Интересуют городские мероприятия?
+                    Да ну их !:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
         </div>
 
     </div>
 </div>
+<div class="row big">
+    <div class="col-sized">
+        <div class="container">
+            <h2>Музеи</h2>
+            <ul>
+                <li>
+                    Планируем заходить в музеи (без очереди)
+                    или просто наслаждаемся архитектурой ? :
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Прогулочные зоны интересуют?
+                    Нет, спасибо!:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Интересуют городские мероприятия?
+                    Да ну их !:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+        </div>
 
+    </div>
+    <div class="col-sized">
+        <div class="container">
+            <h2>Парки, сады</h2>
+            <div class="row-column">
+                <h3>Выбери категории (пометь, что точно не понадобится!):</h3>
+                <label class="row">кораблики
+                    <input type="radio" checked="checked" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row"> панорамы / крыши
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row">бани / аквапарки / спа
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row">сегвэй (индивид.трансп.средство)
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="row">карусели / зоо / аквариумы
+                    <input type="radio" name="radio">
+                    <span class="checkmark"></span>
+                </label>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-sized">
+        <div class="container">
+            <h2>Загород</h2>
+            <ul>
+                <li>
+                    Планируем заходить в музеи (без очереди)
+                    или просто наслаждаемся архитектурой ? :
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Прогулочные зоны интересуют?
+                    Нет, спасибо!:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    Интересуют городские мероприятия?
+                    Да ну их !:
+                    <input type="checkbox" id="myCheck" value=1>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
 </body>
 </html>
