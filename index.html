@@ -132,24 +132,45 @@
             <h2>Достопримечательности</h2>
             <ul>
                 <li>
-                    Планируем заходить в музеи (без очереди)
-                    или просто наслаждаемся архитектурой ? :
-                    <input type="checkbox" id="myCheck" value=1>
+                    <label class="row">
+                        <div class="col-75">
+                            Планируем заходить в музеи (без очереди)
+                            или просто наслаждаемся архитектурой ? :
+                        </div>
+                        <div class="col-25">
+                            <input type="checkbox" id="myCheck" value=1>
+                            <span class="checkmark"></span>
+                        </div>
+                    </label>
                 </li>
             </ul>
             <ul>
                 <li>
-                    Прогулочные зоны интересуют?
-                    Нет, спасибо!:
-                    <input type="checkbox" id="myCheck" value=1>
+                    <label class="row">
+                        <div class="col-75">
+                            Прогулочные зоны интересуют?
+                            Нет, спасибо!:
+                        </div>
+                        <div class="col-25">
+                            <input type="checkbox" id="myCheck" value=1>
+                            <span class="checkmark"></span>
+                        </div>
+                    </label>
                 </li>
             </ul>
             <ul>
                 <li>
-                    Интересуют городские мероприятия?
-                    Да ну их !:
-                    <input type="checkbox" id="myCheck" value=1>
-                </li>
+                    <label class="row">
+                        <div class="col-75">
+                            Интересуют городские мероприятия?
+                            Да ну их !:
+                        </div>
+                        <div class="col-25">
+                            <input type="checkbox" id="myCheck" value=1>
+                            <span class="checkmark"></span>
+                        </div>
+                    </label>
+               </li>
             </ul>
         </div>
 
@@ -187,30 +208,58 @@
         <div class="container">
             <h2>Авто</h2>
             <h3>Выбери категории (пометь, что точно не понадобится!):</h3>
-            <div class="row-column">
+             <div class="row-column">
                 <label class="row">
-                    <div class="col-75">кораблики</div>
-                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                    <div class="col-75"><h4>Ситибас</h4></div>
+                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75"> панорамы / крыши</div>
-                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                    <div class="col-75"><h4> персональная экскурсия</h4></div>
                 </label>
-                <label class="row">
-                    <div class="col-75">бани / аквапарки / спа</div>
-                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
-                </label>
-                <label class="row">
-                    <div class="col-75">сегвэй (индивид.трансп.средство)</div>
-                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
-                </label>
-                <label class="row">
-                    <div class="col-75">карусели / зоо / аквариумы</div>
-                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
-                </label>
-            </div>
+                <ul>
+                    <li>
+                        город
+                        <ul>
+                            <li>
+                                <label class="row">
+                                    <div class="col-75">сегвэй (индивид.трансп.средство)</div>
+                                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                                </label>
+                             </li>
+                            <li>
+                                <label class="row">
+                                    <div class="col-75">авто</div>
+                                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                                </label>
+                              </li>
+                        </ul>
+                    </li>
+                    <li>
+                        загород
+                        <ul>
+                            <li>
+                                <label class="row">
+                                    <div class="col-75">авто</div>
+                                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="row">
+                                    <div class="col-75">метеор</div>
+                                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="row">
+                                    <div class="col-75">такси</div>
+                                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                                </label>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+             </div>
         </div>
-
     </div>
 </div>
 <div class="row big">
@@ -218,25 +267,33 @@
         <div class="container">
             <h2>Музеи</h2>
             <h3>Выбери категории (пометь, что точно не понадобится!):</h3>
-            <div class="row-column">
+             <div class="row-column">
                 <label class="row">
-                    <div class="col-75">кораблики</div>
+                    <div class="col-75">Живопись-скульптура</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75"> панорамы / крыши</div>
+                    <div class="col-75">Научные</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">бани / аквапарки / спа</div>
+                    <div class="col-75">Краеведение, природа, религия</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">сегвэй (индивид.трансп.средство)</div>
+                    <div class="col-75">Военные</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">карусели / зоо / аквариумы</div>
+                    <div class="col-75">Техника</div>
+                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                </label>
+                <label class="row">
+                    <div class="col-75">Планеты</div>
+                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                </label>
+                <label class="row">
+                    <div class="col-75">Интерактив</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
             </div>
@@ -249,23 +306,19 @@
             <h3>Выбери категории (пометь, что точно не понадобится!):</h3>
             <div class="row-column">
                 <label class="row">
-                    <div class="col-75">кораблики</div>
+                    <div class="col-75">Городские пространства для взрослых</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75"> панорамы / крыши</div>
+                    <div class="col-75">Городские пространства для всей семьи</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">бани / аквапарки / спа</div>
+                    <div class="col-75">Парки для взрослых</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">сегвэй (индивид.трансп.средство)</div>
-                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
-                </label>
-                <label class="row">
-                    <div class="col-75">карусели / зоо / аквариумы</div>
+                    <div class="col-75">Парки для всей семьи</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
             </div>
@@ -276,25 +329,29 @@
         <div class="container">
             <h2>Загород</h2>
             <h3>Выбери категории (пометь, что точно не понадобится!):</h3>
-            <div class="row-column">
+             <div class="row-column">
                 <label class="row">
-                    <div class="col-75">кораблики</div>
+                    <div class="col-75">Péterhof (visite de Grand Palais et parc)</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75"> панорамы / крыши</div>
+                    <div class="col-75">Tsarskoïe Selo (Palais Catherine)</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">бани / аквапарки / спа</div>
+                    <div class="col-75">Pavlovsk (Palais)</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">сегвэй (индивид.трансп.средство)</div>
+                    <div class="col-75">Гатчина</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
                 <label class="row">
-                    <div class="col-75">карусели / зоо / аквариумы</div>
+                    <div class="col-75">Кронштадт</div>
+                    <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
+                </label>
+                <label class="row">
+                    <div class="col-75">Шлиссельбург</div>
                     <div class="col-25"><input type="radio" name="radio"><span class="checkmark"></span></div>
                 </label>
             </div>
