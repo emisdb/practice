@@ -22,42 +22,45 @@ body {
     */
     margin: 0 -16px;
 }
-.row-column{
+.row-column, .row_column{
     display: -ms-flexbox; /* IE10 */
     display: flex;
     align-items: stretch;
     justify-content: flex-start;
     flex-direction: column ;
 }
-.row-column label.row{
+.row-column label.row, .row_column label.row{
     justify-content: flex-start;
 }
 
 .big {
     margin-top: 3px;
 }
-.col-25 {
+.col-25, .col_25 {
     -ms-flex: 25%; /* IE10 */
     flex: 25%;
 }
 
-.col-50 {
+.col-50, .col_50 {
     -ms-flex: 50%; /* IE10 */
     flex: 50%;
     flex-grow: 1;
 }
 
-.col-75 {
+.col-75, .col_75 {
     -ms-flex: 75%; /* IE10 */
     flex: 75%;
 }
 
 .col-25,
 .col-50,
-.col-75 {
+.col-75,
+.col_25,
+.col_50,
+.col_75{
     padding: 0 16px;
 }
-.col-sized{
+.col-sized, .col_sized{
     flex-basis: 600px;
 }
 .container {
@@ -70,12 +73,17 @@ body {
 .central{
     text-align: center;
 }
+.central ul li{
+    text-align: left;
+    list-style: none;
+}
 .notes {
     font-size: .8em;
     font-style: oblique;
 }
 .container ol li{
     margin:2px;
+
 }
 h4{
     margin: 2px;
