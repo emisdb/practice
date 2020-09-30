@@ -21,7 +21,7 @@ class App {
        this.selectList.forEach(this.doItem,this);
     }
      doItem(item, index) {
-        if(item[1] == this.level) {
+        if(!(item[1].indexOf( this.level)<0)) {
             if(item[2].length > 0) {
                let obItem=new SelectItem(0,item);
                this.list.appendChild(obItem.element);

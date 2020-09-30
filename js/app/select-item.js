@@ -2,9 +2,10 @@ class SelectItem {
     constructor(itemtype, item_construct,itemname = 0){
         this.itemtype = itemtype;
         this.name = itemname;
-        if (itemtype == 0)
-            this.title = item_construct[2];
-        else {
+        this.value = item_construct[0];
+        this.title = item_construct[2];
+        if (itemtype != 0)
+         {
             this.title = item_construct[2];
             this.action = item_construct[1];
         }
@@ -29,7 +30,14 @@ class SelectItem {
                 this.element = createElement('li', {className: 'li-item',}, label);
                 break;
             case 2:
-                var opbox = createElement('input', { type: 'radio', className: 'optionbox', name: 'select'+ this.name, checked: this.action ? 1 : 0 });
+                var opbox = createElement('input', { type: 'radio', className: 'optionbox', name: 'select'+ this.name, checked: this.action ? 1 : 0, value: this.value });
+                var div0 = createElement('div', {className: 'col-75',}, this.title);
+                var div1 = createElement('div', {className: 'col-25',}, opbox);
+                var label = createElement('label', {className: 'row',}, div0, div1);
+                this.element = createElement('li', {className: 'li-item',}, label);
+                break;
+            case 3:
+                var opbox = createElement('input', { type: 'number', className: 'inputbox', name: 'number'+ this.name });
                 var div0 = createElement('div', {className: 'col-75',}, this.title);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
                 var label = createElement('label', {className: 'row',}, div0, div1);
