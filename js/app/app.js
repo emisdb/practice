@@ -22,14 +22,20 @@ class App {
     }
      doItem(item, index) {
         if(!(item[1].indexOf( this.level)<0)) {
-            if(item[2].length > 0) {
-               let obItem=new SelectItem(0,item);
-               this.list.appendChild(obItem.element);
-               this.tmplist=obItem.element.getElementsByTagName("UL").item(0);
-            }
             this.currenttype = item[3];
             this.currentid = item[0];
-            item[4].forEach(this.createItem,this);
+            if(this.currenttype == 4){
+                let obItem=new SelectItem(4,item);
+                this.list.appendChild(obItem.element);
+            }
+            else{
+                if(item[2].length > 0) {
+                   let obItem=new SelectItem(0,item);
+                   this.list.appendChild(obItem.element);
+                   this.tmplist=obItem.element.getElementsByTagName("UL").item(0);
+                }
+                item[4].forEach(this.createItem,this);
+            }
         }
      }
     createItem(item, index) {
