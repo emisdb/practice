@@ -88,3 +88,11 @@ body {
 h4{
     margin: 2px;
 }
+.mapsis
+{
+    height: 600px;
+    width: 800px;
+    /*position: absolute;*/
+    /*display:block;*/
+    /*margin: 5px 0;*/
+}

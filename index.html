@@ -7,12 +7,15 @@
         <link rel="stylesheet" href="css/styles.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<!--        <script src="https://api-maps.yandex.ru/2.1/?apikey=e46c6ff8-eed4-4d0a-ad07-ae2f1173c5f9&lang=ru_RU" type="text/javascript">-->
+        <script src="http://api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU&coordorder=longlat"></script>
     </head>
 
     <body>
     <div class="row big">
         <div class="col-50">
             <div class="central container">
+                <div class="mapsis" id="map"></div>
             </div>
         </div>
         <div class="col-50">
@@ -32,6 +35,24 @@
     <script src="js/app/select-item.js"></script>
     <script src="js/app/app.js"></script>
     <script src="js/app/index.js"></script>
+    <script type="text/javascript">
+        // Функция ymaps.ready() будет вызвана, когда
+        // загрузятся все компоненты API, а также когда будет готово DOM-дерево.
+        ymaps.ready(init);
+        function init(){
+            // Создание карты.
+            var myMap = new ymaps.Map("map", {
+                // Координаты центра карты.
+                // Порядок по умолчанию: «широта, долгота».
+                // Чтобы не определять координаты центра карты вручную,
+                // воспользуйтесь инструментом Определение координат.
+                center: [30.19, 59.94],
+                // Уровень масштабирования. Допустимые значения:
+                // от 0 (весь мир) до 19.
+                zoom: 13
+            });
+        }
+    </script>
 
     </body>
 </html>
