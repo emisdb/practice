@@ -10,7 +10,7 @@ class SelectItem {
         {
             this.action = item_construct[1];
         }
-        if (itemtype == 4)
+        if (itemtype == 3)
         {
             this.options = item_construct[4];
         }
@@ -41,14 +41,7 @@ class SelectItem {
                 var label = createElement('label', {className: 'row',}, div0, div1);
                 this.element = createElement('li', {className: 'li-item',}, label);
                 break;
-            case 3:
-                var opbox = createElement('input', { type: 'number', className: 'inputbox', name: 'number'+ this.name + this.value });
-                var div0 = createElement('div', {className: 'col-75',}, this.title);
-                var div1 = createElement('div', {className: 'col-25',}, opbox);
-                var label = createElement('label', {className: 'row',}, div0, div1);
-                this.element = createElement('li', {className: 'li-item',}, label);
-                break;
-            case 4:
+              case 3:
                 var opbox = createElement('select', {  className: 'selectbox', name: 'select'+ this.value });
                 this.tmp = opbox;
                 this.options.forEach((option) => {
@@ -57,6 +50,17 @@ class SelectItem {
                 })
                 var h4 = createElement('h4', {}, this.title);
                 var div0 = createElement('div', {className: 'col-75',}, h4);
+                var div1 = createElement('div', {className: 'col-25',}, opbox);
+                var label = createElement('label', {className: 'row',}, div0, div1);
+                this.element = createElement('li', {className: 'li-item',}, label);
+                break;
+            default:
+                var it_type='';
+                if (this.itemtype == 4 ) it_type ='number';
+                else if (this.itemtype == 5 ) it_type ='time';
+                else it_type ='text';
+                var opbox = createElement('input', { type: it_type, className: 'inputbox', name: 'ibox'+ this.name + this.value, placeholder:(this.itemtype == 5 )?'08:00':'', });
+                var div0 = createElement('div', {className: 'col-75',}, this.title);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
                 var label = createElement('label', {className: 'row',}, div0, div1);
                 this.element = createElement('li', {className: 'li-item',}, label);

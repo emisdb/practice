@@ -13,6 +13,7 @@ class App {
     }
 
     initialize() {
+        if(this.level>0) this.collectData();
         if(this.list.childElementCount>0){
             while( this.list.firstChild ){
                 this.list.removeChild( this.list.firstChild );
@@ -24,8 +25,8 @@ class App {
         if(!(item[1].indexOf( this.level)<0)) {
             this.currenttype = item[3];
             this.currentid = item[0];
-            if(this.currenttype == 4){
-                let obItem=new SelectItem(4,item);
+            if(this.currenttype == 3){
+                let obItem=new SelectItem(this.currenttype,item);
                 this.list.appendChild(obItem.element);
             }
             else{
@@ -42,6 +43,14 @@ class App {
         let obItem=new SelectItem(this.currenttype,item,this.currentid);
         this.tmplist.appendChild(obItem.element);
     }
-        update(){
+   collectData(){
+       var inputs = this.element.getElementsByTagName("input");
+       for (var i = 0; i < inputs.length; i++) {
+           console.log(inputs[i].name + ":" + inputs[i].type + ":" + inputs[i].value + ":" + inputs[i].checked);
+       }
+       var selects = this.element.getElementsByTagName("select");
+       for (var i = 0; i < selects.length; i++) {
+           console.log(selects[i].name + ":"  + ":" + selects[i].value );
+       }
     }
 }
