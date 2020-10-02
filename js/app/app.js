@@ -12,14 +12,17 @@ class App {
         this.initialize();
     }
 
-    initialize() {
-        if(this.level>0) this.collectData();
+    clearContainer() {
         if(this.list.childElementCount>0){
             while( this.list.firstChild ){
                 this.list.removeChild( this.list.firstChild );
             }
         }
-       this.selectList.forEach(this.doItem,this);
+    }
+        initialize() {
+        if(this.level>0) this.collectData();
+        this.clearContainer();
+        this.selectList.forEach(this.doItem,this);
     }
      doItem(item, index) {
         if(!(item[1].indexOf( this.level)<0)) {
