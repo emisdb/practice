@@ -71,18 +71,10 @@ class SelectItem {
         event.preventDefault();
         this.follow();
     }
-    showmap() {
-        event.preventDefault();
-        app.clearContainer();
-            var myMap = new ymaps.Map("map", {
-                center: [30.19, 59.94],
-               zoom: 13
-            });
-        }
 
     follow() {
         if(this.action == 1)
-            this.showmap();
+            app.showmap();
         else {
             app.level = this.action;
             app.initialize();

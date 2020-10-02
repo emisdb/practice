@@ -66,3 +66,11 @@ const app = new App(
         ],
     ]
 );
+app.hotels =[
+    {name:'Solo Sokos Palace Bridge',       latitude:59.945013, longtitudelatitude:30.292790, stars:5},
+    {name:'МФК «Горный»',                   latitude:59.941759, longtitudelatitude:30.230429, stars:4},
+    {name:'Solo Sokos Hotel Vasilievsky',   latitude:59.937301, longtitudelatitude:30.282406, stars:5},
+    {name:'Art Nuvo Palace',                latitude:59.945612, longtitudelatitude:30.258124, stars:4},
+    {name:'Courtyard by Marriott',          latitude:59.948717, longtitudelatitude:30.279405, stars:5},
+    {name:'Докланс Лайф',                   latitude:59.956985, longtitudelatitude:30.241910, stars:3},
+];

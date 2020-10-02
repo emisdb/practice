@@ -56,4 +56,21 @@ class App {
            console.log(selects[i].name + ":"  + ":" + selects[i].value );
        }
     }
+    showmap() {
+        app.clearContainer();
+        var myMap = new ymaps.Map("map", {
+            center: [30.25, 59.94],
+            zoom: 12
+        });
+        for (let hotel in this.hotels) {
+            let myPlacemark = new ymaps.Placemark([hotel.latitude,hotel.longtitude], {
+                balloonContent: hotel.name,
+                iconContent: hotel.name}, {
+                preset: "islands#circleDotIcon",
+                iconColor: '#ce6767'
+            });
+            myMap.geoObjects.add(myPlacemark);
+        }
+    }
+
 }
