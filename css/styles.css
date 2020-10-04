@@ -3,6 +3,7 @@ body {
     font-family: Arial;
     font-size: 17px;
     padding: 8px;
+    background: url(../images/header.jpg) no-repeat center top;
 }
 
 * {
@@ -69,6 +70,7 @@ body {
     border: 1px solid lightgrey;
     border-radius: 3px;
     height: 100%;
+    opacity: .8;
 }
 .central{
     text-align: center;
@@ -95,4 +97,18 @@ h4{
     /*position: absolute;*/
     /*display:block;*/
     /*margin: 5px 0;*/
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: solid #757575 1px;
+    text-align: center;
+}
+.footer h2{
+    margin: 0 auto;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase;
 }

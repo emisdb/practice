@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>MOTU project</title>
+        <link rel="stylesheet" href="css/animation.css">
         <link rel="stylesheet" href="css/styles.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -13,12 +14,12 @@
 
     <body>
     <div class="row big">
-        <div class="col-50">
+        <div class="col-50 animated slideInLeft">
             <div class="central container">
                 <div class="mapsis" id="map"></div>
             </div>
         </div>
-        <div class="col-50">
+        <div class="col-50 animated slideInRight">
             <div class="central container">
                 <main id="app">
                     <header>
@@ -30,6 +31,9 @@
                 </main>
             </div>
         </div>
+    </div>
+    <div class="footer">
+        <h2>ПЛАТФОРМА #MOTU</h2>
     </div>
     <script src="js/app/dom.js"></script>
     <script src="js/app/select-item.js"></script>
