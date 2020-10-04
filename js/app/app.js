@@ -58,19 +58,25 @@ class App {
     }
     showmap() {
         app.clearContainer();
-        var myMap = new ymaps.Map("map", {
+        let myMap = new ymaps.Map("map", {
             center: [30.25, 59.94],
             zoom: 12
         });
-        for (let hotel in this.hotels) {
-            let myPlacemark = new ymaps.Placemark([hotel.latitude,hotel.longtitude], {
-                balloonContent: hotel.name,
-                iconContent: hotel.name}, {
+        myMap.controls.add('zoomControl', {right: '5px', top: '50px'});
+        let arr= new ymaps.GeoObjectCollection();
+        for (var i=0; i<this.hotels.length; i++) {
+            let plm =new ymaps.Placemark(
+                [this.hotels[i].longtitude ,this.hotels[i].latitude],
+                {
+                balloonContent: this.hotels[i].name,
+                iconContent: this.hotels[i].name.slice(0,2),
+                },
+                {
                 preset: "islands#circleDotIcon",
                 iconColor: '#ce6767'
             });
-            myMap.geoObjects.add(myPlacemark);
-        }
+            myMap.geoObjects.add(plm);       }
+
     }
 
 }
