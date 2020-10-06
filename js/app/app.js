@@ -26,27 +26,11 @@ class App {
     }
      doItem(item, index) {
         if(!(item[1].indexOf( this.level)<0)) {
-            this.currenttype = item[3];
-            this.currentid = item[0];
-            if(this.currenttype == 3){
-                let obItem=new SelectItem(this.currenttype,item);
+                 let obItem=new SelectItem(item[3],item);
                 this.list.appendChild(obItem.element);
             }
-            else{
-                if(item[2].length > 0) {
-                   let obItem=new SelectItem(0,item);
-                   this.list.appendChild(obItem.element);
-                   this.tmplist=obItem.element.getElementsByTagName("UL").item(0);
-                }
-                item[4].forEach(this.createItem,this);
-            }
-        }
-     }
-    createItem(item, index) {
-        let obItem=new SelectItem(this.currenttype,item,this.currentid);
-        this.tmplist.appendChild(obItem.element);
-    }
-   collectData(){
+      }
+    collectData(){
        var inputs = this.element.getElementsByTagName("input");
        for (var i = 0; i < inputs.length; i++) {
            console.log(inputs[i].name + ":" + inputs[i].type + ":" + inputs[i].value + ":" + inputs[i].checked);
