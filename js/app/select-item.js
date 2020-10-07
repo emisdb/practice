@@ -39,7 +39,7 @@ class SelectItem {
                 break;
             case 1:
                 var icon = createElement('i', {className: 'fa fa-arrow-circle-right'});
-                var link = createElement('a', {href: '#', className: 'select-item', onclick: this.handleFollow}, icon);
+                var link = createElement('a', {href: '#', className: 'select-item', data:item[1], onclick: this.handleFollow}, icon);
                 this.action = item[1];
                 var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, link);
@@ -71,14 +71,14 @@ class SelectItem {
     }
     handleFollow(event) {
         event.preventDefault();
-        this.follow();
+        this.follow(event.currentTarget.data);
     }
 
-    follow() {
-        if(this.action == 1)
+    follow(action) {
+        if(action == 1)
             app.showmap();
         else {
-            app.level = this.action;
+            app.level = action;
             app.initialize();
         }
 
