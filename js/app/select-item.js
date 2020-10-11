@@ -21,6 +21,7 @@ class SelectItem {
             var div1 = createElement('div', {className: 'col-25',}, ul);
             var label = createElement('label', {className: 'row',}, div0, div1);
             this.element = createElement('li', {className: 'li-item',}, label);
+            ul.addEventListener('change',function(){app.selection[this.value] = ul.value})
         }
         else {
             var ul = createElement('ul', {});
@@ -39,7 +40,7 @@ class SelectItem {
                 break;
             case 1:
                 var icon = createElement('i', {className: 'fa fa-arrow-circle-right'});
-                var link = createElement('a', {href: '#', className: 'select-item', data:item[1], onclick: this.handleFollow}, icon);
+                var link = createElement('a', {href: '#', className: 'select-item', data:[item[0],item[1]], onclick: this.handleFollow}, icon);
                 this.action = item[1];
                 var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, link);
@@ -52,12 +53,14 @@ class SelectItem {
                                                     name: 'select'+ this.value, checked: item[1] ? 1 : 0,
                                                     value: item[0]});
                 opbox.addEventListener('change',this.createValue(this.value,item[0]))
-    var div0 = createElement('div', {className: 'col-75',}, item[2]);
+                if(item[1]) app.selection[this.value] = item[0];
+                var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
                 var label = createElement('label', {className: 'row',}, div0, div1);
                 return createElement('li', {className: 'li-item',}, label);
                 break;
               case 3:
+                if(item[1]) app.selection[this.value] = item[0];
                 return createElement('option',{ value: item[0], selected: item[1]}, item[2]);
                 break;
             default:
@@ -66,6 +69,7 @@ class SelectItem {
                 else if (this.itemtype == 5 ) it_type ='time';
                 else it_type ='text';
                 var opbox = createElement('input', { type: it_type, className: 'inputbox', name: 'ibox'+ this.name + this.value, placeholder:(this.itemtype == 5 )?'08:00':'', });
+ //               opbox.addEventListener('change',this.createValue(this.value,item[0]))
                 var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
                 var label = createElement('label', {className: 'row',}, div0, div1);
@@ -82,7 +86,8 @@ class SelectItem {
     }
     handleFollow(event) {
         event.preventDefault();
-        this.follow(event.currentTarget.data);
+        app.selection[this.value] = event.currentTarget.data[0];
+        this.follow(event.currentTarget.data[1]);
     }
 
     follow(action) {
