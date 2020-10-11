@@ -47,8 +47,12 @@ class SelectItem {
                 return createElement('li', {className: 'li-item',}, label);
                 break;
             case 2:
-                var opbox = createElement('input', { type: 'radio', className: 'optionbox', name: 'select'+ this.value, checked: item[1] ? 1 : 0, value: item[0] });
-                var div0 = createElement('div', {className: 'col-75',}, item[2]);
+                var opbox = createElement('input', { type: 'radio',
+                                                    className: 'optionbox',
+                                                    name: 'select'+ this.value, checked: item[1] ? 1 : 0,
+                                                    value: item[0]});
+                opbox.addEventListener('change',this.createValue(this.value,item[0]))
+    var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
                 var label = createElement('label', {className: 'row',}, div0, div1);
                 return createElement('li', {className: 'li-item',}, label);
@@ -68,6 +72,13 @@ class SelectItem {
                 return createElement('li', {className: 'li-item',}, label);
                 break;
         }
+    }
+    createValue(vari, vali) {
+        var closure = function(){
+             app.selection[vari] =vali;
+        }
+        return closure;
+
     }
     handleFollow(event) {
         event.preventDefault();

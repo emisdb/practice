@@ -20,7 +20,7 @@ class App {
         }
     }
         initialize() {
-        if(this.level>0) this.collectData();
+//        if(this.level>0) this.collectData();
         this.clearContainer();
         this.selectList.forEach(this.doItem,this);
     }
