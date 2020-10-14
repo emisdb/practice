@@ -20,8 +20,7 @@ class App {
         }
     }
         initialize() {
-//        if(this.level>0) this.collectData();
-        this.clearContainer();
+       this.clearContainer();
         this.selectList.forEach(this.doItem,this);
     }
      doItem(item, index) {
@@ -30,16 +29,7 @@ class App {
                 this.list.appendChild(obItem.element);
             }
       }
-    collectData(){
-       var inputs = this.element.getElementsByTagName("input");
-       for (var i = 0; i < inputs.length; i++) {
-           console.log(inputs[i].name + ":" + inputs[i].type + ":" + inputs[i].value + ":" + inputs[i].checked);
-       }
-       var selects = this.element.getElementsByTagName("select");
-       for (var i = 0; i < selects.length; i++) {
-           console.log(selects[i].name + ":"  + ":" + selects[i].value );
-       }
-    }
+
     showmap() {
         app.clearContainer();
         let myMap = new ymaps.Map("map", {

@@ -21,7 +21,7 @@ class SelectItem {
             var div1 = createElement('div', {className: 'col-25',}, ul);
             var label = createElement('label', {className: 'row',}, div0, div1);
             this.element = createElement('li', {className: 'li-item',}, label);
-            ul.addEventListener('change',function(){app.selection[this.value] = ul.value})
+            ul.addEventListener('change',this.setSelectValue(this.value,ul))
         }
         else {
             var ul = createElement('ul', {});
@@ -52,7 +52,7 @@ class SelectItem {
                                                     className: 'optionbox',
                                                     name: 'select'+ this.value, checked: item[1] ? 1 : 0,
                                                     value: item[0]});
-                opbox.addEventListener('change',this.createValue(this.value,item[0]))
+                opbox.addEventListener('change',this.setValue(this.value,item[0]))
                 if(item[1]) app.selection[this.value] = item[0];
                 var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
@@ -69,7 +69,7 @@ class SelectItem {
                 else if (this.itemtype == 5 ) it_type ='time';
                 else it_type ='text';
                 var opbox = createElement('input', { type: it_type, className: 'inputbox', name: 'ibox'+ this.name + this.value, placeholder:(this.itemtype == 5 )?'08:00':'', });
- //               opbox.addEventListener('change',this.createValue(this.value,item[0]))
+               opbox.addEventListener('change',this.setBoxValue(this.value,item[0],opbox))
                 var div0 = createElement('div', {className: 'col-75',}, item[2]);
                 var div1 = createElement('div', {className: 'col-25',}, opbox);
                 var label = createElement('label', {className: 'row',}, div0, div1);
@@ -77,12 +77,26 @@ class SelectItem {
                 break;
         }
     }
-    createValue(vari, vali) {
+    setSelectValue(vari,ul) {
+        var select =ul;
         var closure = function(){
-             app.selection[vari] =vali;
+            app.selection[vari] =select.value;
         }
         return closure;
-
+    }
+    setBoxValue(vari,subvari,box) {
+        var select =box;
+        var closure = function(){
+            if(app.selection[vari] == undefined) app.selection[vari] =[];
+            app.selection[vari][subvari] =select.value;
+        }
+        return closure;
+    }
+    setValue(vari, vali) {
+        var closure = function(){
+            app.selection[vari] =vali;
+        }
+        return closure;
     }
     handleFollow(event) {
         event.preventDefault();

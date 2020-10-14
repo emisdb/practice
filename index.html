@@ -13,9 +13,28 @@
     </head>
 
     <body>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2>Selection result:</h2>
+            </div>
+            <div class="modal-body" id="myModalContent">
+             </div>
+            <div class="modal-footer">
+                <h3>MOTU</h3>
+            </div>
+        </div>
+
+    </div>
+
     <div class="row big">
         <div class="col-50 animated slideInLeft">
             <div class="central container">
+                <h1 class="slideInLeft animated">Платформа для умного туризма</h1>
                 <div class="mapsis" id="map"></div>
             </div>
         </div>
@@ -33,11 +52,12 @@
         </div>
     </div>
     <div class="footer">
-        <h2 onclick = "alert(app.selection)">ПЛАТФОРМА #MOTU</h2>
+        <h2><a href="#" id="myBtn" >ПЛАТФОРМА #MOTU</a></h2>
     </div>
     <script src="js/app/dom.js"></script>
     <script src="js/app/select-item.js"></script>
     <script src="js/app/app.js"></script>
     <script src="js/app/index.js"></script>
+    <script src="js/index.js"></script>
     </body>
 </html>
