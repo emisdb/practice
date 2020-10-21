@@ -75,6 +75,12 @@ body {
 .central{
     text-align: center;
 }
+.central-map{
+    text-align: center;
+    margin:auto;
+    transform: translateY(20%);
+    opacity: .9;
+}
 .central ul li{
     text-align: left;
     list-style: none;
@@ -97,6 +103,11 @@ h4{
     /*position: absolute;*/
     /*display:block;*/
     /*margin: 5px 0;*/
+}
+
+.maxmapsis {
+    width: 100% !important;
+    height: 100% !important;
 }
 .footer {
     position: fixed;

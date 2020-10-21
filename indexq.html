@@ -1,107 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Parallax sample</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MOTU project</title>
+        <link rel="stylesheet" href="css/animation.css">
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<!--        <script src="https://api-maps.yandex.ru/2.1/?apikey=e46c6ff8-eed4-4d0a-ad07-ae2f1173c5f9&lang=ru_RU" type="text/javascript">-->
+        <script src="https://api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU&coordorder=longlat"></script>
+    </head>
 
-    <style>
-        .container {
-            width: 100%;
-            height: 100%;
-            overflow-x: hidden;
-            overflow-y: scroll;
-            perspective: 1px;
-            perspective-origin: 0 0;
-            background: url(css/bg.gif);
-            display: flex;
-            /*flex-wrap: wrap;*/
-            align-items: stretch;
-        }
+    <body>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
 
-        .parallax-child {
-            /*  transform-origin: 0 0;
-              transform: translateZ(-2px) scale(3);
-            */
-            margin: 50px 5px;
-            max-width: 350px;
-            position: relative;
-        }
-    </style>
-</head>
-<body>
-<div class="container">
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
-        <img src="images/pic.jpg" alt=""/>
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
-
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat., quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat., quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
-
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
-
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
-
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
-
-    </div>
-    <div class="parallax-child" >
-        <h2>Duis te feugifacilisi</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem
-            nonummy nibh euismod tincidunt ut lacreet dolore magna aliguam erat volutpat.
-            Ut wisis enim ad minim veniam, quis nostrud exerci tution ullamcorper suscipit
-            lobortis nisl ut aliquip ex ea commodo consequat.</p>
-        <img src="images/pic.jpg" alt=""/>
+        <!-- Modal content -->
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close">&times;</span>
+                <h2>Selection result:</h2>
+            </div>
+            <div class="modal-body" id="myModalContent">
+             </div>
+            <div class="modal-footer" id="myModalFooter">
+                <h3>MOTU</h3>
+            </div>
+        </div>
 
     </div>
 
-
-</div>
-</body>
+    <div class="row big">
+        <div class="col-50 animated slideInLeft">
+            <div class="central container">
+                <h1 class="slideInLeft animated">Платформа для умного туризма</h1>
+                <div class="mapsis" id="map"></div>
+            </div>
+        </div>
+        <div class="col-50 animated slideInRight">
+            <div class="central container">
+                <main id="app">
+                    <header>
+                        <h2>Привет!</h2>
+                        <h3>Ты принял правльное решение поехать в Питер!</h3>
+                    </header>
+                    <ul id="select-list">
+                    </ul>
+                </main>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <h2><a href="#" id="myBtn" >ПЛАТФОРМА #MOTU</a></h2>
+    </div>
+    <script src="js/app/dom.js"></script>
+    <script src="js/app/select-item.js"></script>
+    <script src="js/app/app.js"></script>
+    <script src="js/app/index.js"></script>
+    <script src="js/index.js"></script>
+    </body>
 </html>

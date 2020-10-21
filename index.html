@@ -31,33 +31,27 @@
 
     </div>
 
-    <div class="row big">
-        <div class="col-50 animated slideInLeft">
-            <div class="central container">
-                <h1 class="slideInLeft animated">Платформа для умного туризма</h1>
-                <div class="mapsis" id="map"></div>
-            </div>
-        </div>
-        <div class="col-50 animated slideInRight">
-            <div class="central container">
-                <main id="app">
-                    <header>
-                        <h2>Привет!</h2>
-                        <h3>Ты принял правльное решение поехать в Питер!</h3>
-                    </header>
-                    <ul id="select-list">
-                    </ul>
-                </main>
-            </div>
-        </div>
+    <div class="central-map container mapsis" id="map">
     </div>
     <div class="footer">
         <h2><a href="#" id="myBtn" >ПЛАТФОРМА #MOTU</a></h2>
     </div>
-    <script src="js/app/dom.js"></script>
-    <script src="js/app/select-item.js"></script>
-    <script src="js/app/app.js"></script>
-    <script src="js/app/index.js"></script>
     <script src="js/index.js"></script>
+    <script type="text/javascript">
+
+        ymaps.ready(map_init);
+        function map_init() {
+
+            let myMap = new ymaps.Map("map", {
+                center: [30.25, 59.94],
+                zoom: 12
+            });
+            myMap.controls.add('zoomControl', {right: '5px', top: '50px'});
+            var element = document.getElementById("map");
+            element.classList.toggle("maxmapsis");
+            myMap.container.fitToViewport();
+        }
+
+    </script>
     </body>
 </html>
