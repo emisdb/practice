@@ -1,4 +1,6 @@
-
+html,body {
+    height:100%;
+}
 body {
     font-family: Arial;
     font-size: 17px;
@@ -78,7 +80,7 @@ body {
 .central-map{
     text-align: center;
     margin:auto;
-    transform: translateY(20%);
+    /*transform: translateY(20%);*/
     opacity: .9;
 }
 .central ul li{
@@ -106,8 +108,17 @@ h4{
 }
 
 .maxmapsis {
-    width: 100% !important;
-    height: 100% !important;
+    width: 100%;
+    height: 100%;
+}
+.header {
+    position: fixed;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    width: 100%;
+    border-bottom: solid #757575 1px;
+    text-align: center;
 }
 .footer {
     position: fixed;
@@ -118,14 +129,14 @@ h4{
     border-top: solid #757575 1px;
     text-align: center;
 }
-.footer h2{
+.footer h2, .header h2{
     margin: 0 auto;
     padding: 10px 0;
     text-align: center;
     text-transform: uppercase;
     text-shadow: #a2a2a2 2px 2px;
 }
-.footer a {
+.footer a, .header a {
     display: block;
     color: #727272;
     text-align: center;

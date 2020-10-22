@@ -31,9 +31,12 @@
 
     </div>
 
-    <div class="central-map container mapsis" id="map">
+    <div class="central-map container maxmapsis growUp" id="map">
     </div>
-    <div class="footer">
+    <div class="header fadeInDown">
+        <h2><a href="#" id="myMenu" >ПЛАТФОРМА #MOTU</a></h2>
+    </div>
+    <div class="footer fadeInUp">
         <h2><a href="#" id="myBtn" >ПЛАТФОРМА #MOTU</a></h2>
     </div>
     <script src="js/index.js"></script>
@@ -44,12 +47,14 @@
 
             let myMap = new ymaps.Map("map", {
                 center: [30.25, 59.94],
-                zoom: 12
+                zoom: 14,
             });
             myMap.controls.add('zoomControl', {right: '5px', top: '50px'});
             var element = document.getElementById("map");
-            element.classList.toggle("maxmapsis");
-            myMap.container.fitToViewport();
+//            element.classList.toggle("maxmapsis");
+
+            var map = document.getElementById("map");
+            map.addEventListener("animationend", ()=>{myMap.container.fitToViewport();});
         }
 
     </script>
