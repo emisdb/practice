@@ -20,12 +20,12 @@
         <div class="modal-content">
             <div class="modal-header">
                 <span class="close">&times;</span>
-                <h2>Selection result:</h2>
+                <h4>Selection result:</h4>
             </div>
             <div class="modal-body" id="myModalContent">
              </div>
             <div class="modal-footer" id="myModalFooter">
-                <h3>MOTU</h3>
+                <h4>MOTU</h4>
             </div>
         </div>
 
@@ -45,16 +45,15 @@
         ymaps.ready(map_init);
         function map_init() {
 
-            let myMap = new ymaps.Map("map", {
-                center: [30.25, 59.94],
-                zoom: 14,
-            });
-            myMap.controls.add('zoomControl', {right: '5px', top: '50px'});
             var element = document.getElementById("map");
-//            element.classList.toggle("maxmapsis");
-
             var map = document.getElementById("map");
-            map.addEventListener("animationend", ()=>{myMap.container.fitToViewport();});
+            map.addEventListener("animationend", ()=>{
+                let myMap = new ymaps.Map("map", {
+                    center: [30.25, 59.94],
+                    zoom: 14,
+                });
+                myMap.controls.add('zoomControl', {right: '5px', top: '50px'});
+                myMap.container.fitToViewport();});
         }
 
     </script>

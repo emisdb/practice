@@ -17,10 +17,26 @@ function emptyLi(ii){
 }
 btn.onclick = function() {
     var prev =0;
-    var mycontent = '<ol start="1">' + '<li>mem</li> '+ '</ol>';
+    var mycontent = '<ol start="0">' + app.selection.map((item,i) => {
+        var arr ="";
+        if(i>prev+1) arr+=emptyLi(i-prev-1);
+        arr +=  '<li>';
+        if(Array.isArray(item)) {
+            var pprev =0;
+            arr += '<ol  start="0">' + item.map((it,ii)=>{
+                 var arri = "";
+                 if(ii>pprev+1) arri+=emptyLi(ii-pprev-1);
+                 pprev = ii;
+                 arri += '<li>'+it+'</li>';
+                 return arri;}).join('') +'</ol>';
+         }else{ arr += item; }
+        arr += '</li>';
+        prev=i;
+        return arr;}).join('') + '</ol>';
     var myplace = document.getElementById("myModalContent");
     myplace.innerHTML =mycontent;
     var myplace = document.getElementById("myModalFooter");
+    myplace.innerHTML =JSON.stringify(app.selection);
     modal.style.display = "block";
 }
 

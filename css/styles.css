@@ -1,5 +1,5 @@
 html,body {
-    height:100%;
+    height:98%;
 }
 body {
     font-family: Arial;
@@ -79,8 +79,7 @@ body {
 }
 .central-map{
     text-align: center;
-    margin:auto;
-    /*transform: translateY(20%);*/
+    margin: 5px auto -5px;
     opacity: .9;
 }
 .central ul li{
@@ -119,6 +118,7 @@ h4{
     width: 100%;
     border-bottom: solid #757575 1px;
     text-align: center;
+    box-shadow: #a2a2a2 2px 3px  5px;
 }
 .footer {
     position: fixed;
@@ -128,6 +128,7 @@ h4{
     width: 100%;
     border-top: solid #757575 1px;
     text-align: center;
+    box-shadow: #a2a2a2 2px -3px 5px;
 }
 .footer h2, .header h2{
     margin: 0 auto;
@@ -173,7 +174,7 @@ h4{
 }
 /* Modal Header */
 .modal-header {
-    padding: 2px 16px;
+    padding: 2px 6px;
     background-color: #83cfff;
     color: white;
 }
@@ -183,7 +184,7 @@ h4{
 
 /* Modal Footer */
 .modal-footer {
-    padding: 2px 16px;
+    padding: 2px 6px;
     background-color: #83cfff;
     color: white;
 }
@@ -193,7 +194,7 @@ h4{
     position: relative;
     background-color: #fefefe;
     margin: auto;
-    padding: 20px;
+    padding: 4px;
     border: 1px solid #888;
     width: 80%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
