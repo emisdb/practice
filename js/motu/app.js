@@ -17,7 +17,7 @@ class App {
         for (var i=0; i<this.hotels.length; i++) {
             const label = this.hotels[i].name.slice(0,2);
             const name = this.hotels[i].name;
-            list += "<tr><td>" + label + "</td><td><a href='#'>" + name + "</a></td></tr>";
+            list += "<tr class='" + (i%2?"odd":"even")+ "' onmouseover='app.omover(this)' onmouseout='app.omout(this)' ><td>" + label + "</td><td><a href='#'>" + name + "</a></td></tr>";
             let plm =new ymaps.Placemark(
                 [this.hotels[i].longtitude ,this.hotels[i].latitude],
                 {
@@ -25,12 +25,27 @@ class App {
                 iconContent: label,
                 },
                 {
-                preset: "islands#circleDotIcon",
-                iconColor: '#ce6767'
+                preset: "twirl#darkblueIcon",
             });
+            this.hotels[i].mark =plm;
             this.map.geoObjects.add(plm);
         }
         mm.innerHTML = list + "</table>";
+
+    }
+    omover(tr){
+        let e=document.querySelector("#myResult");
+        e.innerHTML = this.hotels[tr.rowIndex].name;
+        var geoO=this.hotels[tr.rowIndex].mark;
+//        geoO.options.set("iconColor", 'ff66ff');
+        geoO.options.set('preset', 'twirl#nightDotIcon');
+
+    }
+    omout(tr){
+        let e=document.querySelector("#myResult");
+        e.innerHTML = "";
+        var geoO=this.hotels[tr.rowIndex].mark;
+        geoO.options.set('preset', 'twirl#darkblueIcon');
 
     }
 

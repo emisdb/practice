@@ -119,6 +119,7 @@ h4{
     border-bottom: solid #757575 1px;
     text-align: center;
     box-shadow: #a2a2a2 2px 3px  5px;
+    display: flex;
 }
 .footer {
     position: fixed;
@@ -159,7 +160,15 @@ h4{
     padding: 4px;
     text-align: left;
 }
-
+tr.odd{
+    background-color: rgba(240, 240, 190, 0.5);
+}
+tr.even{
+    background-color: rgba(240, 240, 190, 0.8);
+}
+tr.odd:hover, tr.even:hover{
+    background-color: rgba(240, 240, 190, 0.2);
+}
 .header div table{
     background-color: rgba(240, 240, 190, 0.5);
 }
