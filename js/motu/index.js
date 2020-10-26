@@ -35,3 +35,7 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
+
+document.addEventListener('DOMContentLoaded', function(){
+
+});

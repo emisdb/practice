@@ -145,6 +145,29 @@ h4{
     text-decoration: none;
     font-size: 17px;
 }
+.header div{
+    text-align: left;
+    padding: 4px 16px;
+    text-decoration: none;
+    font-size: 12pt;
+}
+.header div td:first-child{
+    padding-right: 4px;
+    font-weight: bold;
+}
+.header div td a{
+    padding: 4px;
+    text-align: left;
+}
+
+.header div table{
+    background-color: rgba(240, 240, 190, 0.5);
+}
+.header div ul{
+    list-style: none;
+    margin: 4px;
+    /*opacity: 0;*/
+}
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */
