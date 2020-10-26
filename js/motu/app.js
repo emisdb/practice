@@ -7,7 +7,7 @@ class App {
             center: [30.25, 59.943],
             zoom: 14
         });
-        this.map.controls.add('zoomControl', {right: '5px', top: '50px'});
+        this.map.controls.add('zoomControl', {right: '5px', bottom: '50px'});
     }
     setHotels(hotels){
         this.hotels =hotels;
