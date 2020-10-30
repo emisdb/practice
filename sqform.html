@@ -38,16 +38,36 @@
             <div class="third" id="sq-cvv"></div>
             <div class="third" id="sq-postal-code"></div>
             <button id="sq-creditcard" class="button-credit-card" onclick="onGetCardNonce(event)">Pay $1.00</button>
-        </div> <!-- end #form-container -->
-    <script type="text/javascript">
-        const idempotency_key = '12131213121312';
+           <div class="form">
+                <pre id="result">
+
+                </pre>
+               <button  class="button-credit-card" onclick="onGetBook()">Google books</button>
+           </div> <!-- end #form-container -->
+       </div> <!-- end #form-container -->
+     <script type="text/javascript">
+        function onGetBook() {
+             fetch('https://www.googleapis.com/books/v1/volumes?q=maxim&skobtsov')
+                .then((response) => {
+                    return response.json();
+                })
+                .then((data) => {
+                    let result = document.querySelector('#result');
+                    var record = "<ol>";
+                    for( i=0; i<data.items.length;i++){
+                        record += '<li>' + data.items[i].volumeInfo.title + '</li>';
+
+                    }
+                    result.innerHTML = record + "</ol>";
+//                    result.innerHTML = JSON.stringify(data);
+                });
+        }
+            const idempotency_key = uuidv4();
         // Create and initialize a payment form object
         const paymentForm = new SqPaymentForm({
             // Initialize the payment form elements
 
             //TODO: Replace with your sandbox application ID
-            applicationId: "xxx",
-            locationID : "yyy",
             inputClass: 'sq-input',
             autoBuild: false,
             // Customize the CSS for SqPaymentForm iframe elements
