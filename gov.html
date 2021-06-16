@@ -19,20 +19,9 @@
 
 <script>
     function loadDoc() {
+        settings = getSettings();
 
-        var settings = {
-            "async": true,
-            "crossDomain": true,
-            "url": "http://data.gov.spb.ru/api/v1/datasets/",
-            "method": "GET",
-            "headers": {
-                "authorization": "Token 3324b73cef0fd5446be3556ec298e707eccfe995",
-                "cache-control": "no-cache",
-                "postman-token": "fd02a556-0154-6806-02ea-983d7fb2560a"
-            }
-        }
-
-        $.ajax(settings).done(function (response) {
+         $.ajax(settings).done(function (response) {
             document.getElementById("demo").innerHTML = response;
         });
     }
