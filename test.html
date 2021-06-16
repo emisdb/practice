@@ -37,6 +37,7 @@ and open the template in the editor.
     </style>
 </head>
 <body>
+<div id="result"></div>
 <div class="container">
     <div class="parallax-child" >
         <h2>Duis te feugifacilisi</h2>
@@ -109,5 +110,36 @@ and open the template in the editor.
 
 
 </div>
+<script>
+    function sun(arg,...dats){
+        let rest = "";
+        for(let i=0; i<dats.length; i++)
+            rest += `<h2>${dats[i]}</h2>`;
+        return rest;
+    }
+    var data = [[1,2],[3,4]]
+    let result = document.querySelector("#result");
+    data=data.map(function(ele){
+        ele.indexOf(ele)});
+    result.innerHTML = sun(...data);
+    const pos =['flat','side','skew'];
+    const disp = new Object(
+        {
+            form: 'narrow',
+            pos: 2,
+            state: true,
+            work: function(){
+                if(this.state){
+                    console.log("closed window")
+                } else {
+                    console.log("open eindow")
+                }
+            }
+        }
+    );
+    const first = Object.create(disp);
+
+
+</script>
 </body>
 </html>
