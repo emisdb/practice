@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('America/Sao_Paulo');
+date_default_timezone_set('America/Chicago');
 setlocale(LC_MONETARY, 'en_US');
 return array(
   // 'language' => 'pt_BR',
