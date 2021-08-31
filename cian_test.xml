@@ -2,11 +2,450 @@
 <feed>
   <feed_version>2</feed_version>
   <object>
+    <Category>roomSale</Category>
+    <ExternalId>415945</ExternalId>
+    <Description>Комната находится в тихой трёхкомнатной квартире, соседи - одна семья, не молодые люди. Места общего пользования в отличном состоянии, всегда в чистоте и порядке. Окна комнаты выходят на Малую Зеленину улицу, которая практически пешеходная. Комната продаётся в прямой продаже.</Description>
+    <Address>Санкт-Петербург г. Петроградский Адмирала Лазарева Наб.  д.20</Address>
+    <CadastralNumber/>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>3</RoomsCount>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <RoomArea>16.5</RoomArea>
+    <TotalArea>87.9</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <KitchenArea>9.3</KitchenArea>
+    <SeparateWcsCount>1</SeparateWcsCount>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <BuildYear>1959</BuildYear>
+      <CeilingHeight>2.92</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>2300000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <SaleType>free</SaleType>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-907-17-41</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-907-17-41</Phone>
+      <Email>lgary@inbox.ru</Email>
+      <FirstName>Герман</FirstName>
+      <LastName>Алексахин</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415950</ExternalId>
+    <Description>Продается просторная комната квадратной формы в историческом доме 1864 года постройки. В 1964 году был произведен капитальный ремонт.&#13;
+В комнате три окна, два из них находятся в непосредственной близости от брэндмаурной стены лицевого корпуса, поэтому не используются. Третье окно выходит на соседний не застроенный участок, таким образом открывается вид на набережную реки Фонтанки.&#13;
+Адекватные соседи, чистая парадная. В квартале завершена реконструкция Никольского рынка, в 2025 году в пешей доступности планируется открытие станции метро Театральная.  &#13;
+Собственность более пяти лет. &#13;
+Просмотры в удобное для вас время по предварительной договоренности.</Description>
+    <Address>Санкт-Петербург г. Адмиралтейский Набережная Крюкова Канала  д.24 Б</Address>
+    <CadastralNumber/>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>5</RoomsCount>
+    <FlatRoomsCount>5</FlatRoomsCount>
+    <RoomArea>18.7</RoomArea>
+    <TotalArea>96</TotalArea>
+    <FloorNumber>3</FloorNumber>
+    <KitchenArea>12</KitchenArea>
+    <Building>
+      <FloorsCount>4</FloorsCount>
+    </Building>
+    <BargainTerms>
+      <AgentBonus>
+        <Value>50000</Value>
+        <Currency>rur</Currency>
+      </AgentBonus>
+      <Price>2250000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-330-68-20</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-330-68-20</Phone>
+      <Email>Futurekir@gmail.com</Email>
+      <FirstName>Кирилл</FirstName>
+      <LastName>Козырев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415965</ExternalId>
+    <Description>Светлая,уютная комната в историческом центре города,5 минут пешком от станции метро "Площадь Восстания." Стеклопакет, евроремонт, окна в тихий двор,высокие потолки.В квартире есть кладовка,два санузла,два входа(черный ход из кухни). В квартире чисто,маленьких детей нет.Спокойные,адекватные соседи.В парадной недавно сделан ремонт,установлены видеокамеры,есть домофон.Парковка.Во дворе есть зона отдыха.Школа,детский сад,магазины,сбербанк в шаговой доступности.&#13;
+Будет отличным приобретением для людей,желающих жить в самом центре Северной столицы.Также,благодаря отличной инфраструктуре,подходит для инвестиций(арендаторы находятся быстро).Возможна продажа всей квартиры.Ипотека возможна. Звоните,отвечу на любые вопросы. Документы готовы для сделки,отказы получены.</Description>
+    <Address>Санкт-Петербург г. Центральный Полтавская ул.  д.5/29</Address>
+    <CadastralNumber>78:31:0151503:2251</CadastralNumber>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>10</RoomsCount>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <RoomArea>17.4</RoomArea>
+    <TotalArea>259.9</TotalArea>
+    <FloorNumber>3</FloorNumber>
+    <KitchenArea>15.9</KitchenArea>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <BuildYear>1883</BuildYear>
+      <CeilingHeight>3.4</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>1950000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-217-88-57</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-217-88-57</Phone>
+      <Email>ir_bystrova@mail.ru</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Быстрова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415967</ExternalId>
+    <Description> Комната в историческом центре города,5 минут пешком от станции метро "Площадь Восстания". Окна на улицу,высокие потолки с лепниной.Благодаря близости инженерных коммуникаций есть возможность перепланировки под студию.В квартире есть кладовка,два санузла,два входа(черный ход из кухни). Чисто,маленьких детей нет.Спокойные,адекватные соседи.В парадной недавно сделан ремонт,установлены видеокамеры,есть домофон.Парковка.Во дворе есть зона отдыха.Школа,детский сад,магазины,сбербанк в шаговой доступности. Будет отличным приобретением для людей,желающих жить в самом центре Северной столицы.Также,благодаря отличной инфраструктуре,подходит для инвестиций(арендаторы находятся быстро).Возможна продажа всей квартиры.Ипотека возможна. Звоните,отвечу на любые вопросы.Документы готовы для сделки,отказы получены.</Description>
+    <Address>Санкт-Петербург г. Центральный Полтавская ул.  д.5/29</Address>
+    <CadastralNumber>78:31:0151503:2251</CadastralNumber>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>10</RoomsCount>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <RoomArea>20.2</RoomArea>
+    <TotalArea>259.9</TotalArea>
+    <FloorNumber>3</FloorNumber>
+    <KitchenArea>15.9</KitchenArea>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <CeilingHeight>3.4</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>1950000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-217-88-57</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-217-88-57</Phone>
+      <Email>ir_bystrova@mail.ru</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Быстрова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415980</ExternalId>
+    <Description>Светлая комната в ПП, просторная кухня, малонаселенная квартира</Description>
+    <Address>Санкт-Петербург г. Адмиралтейский Подольская ул.  д.45</Address>
+    <CadastralNumber/>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>4</RoomsCount>
+    <FlatRoomsCount>4</FlatRoomsCount>
+    <RoomArea>11</RoomArea>
+    <TotalArea>102</TotalArea>
+    <FloorNumber>5</FloorNumber>
+    <KitchenArea>9</KitchenArea>
+    <Building>
+      <FloorsCount>6</FloorsCount>
+      <CeilingHeight>3</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>1550000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-973-93-43</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-973-93-43</Phone>
+      <Email>marnik.07@mail.ru</Email>
+      <FirstName>Марина</FirstName>
+      <LastName>Кондратьева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415993</ExternalId>
+    <Description>Обжитой район,садики,школы,детские площадки,Окей в шаговой доступности.Зеленый двор. есть возможность сдавать эту комнату сособственникам еще 1 комнаты в этой квартире ( как происходит уже много лет) причина продажи - покупка однушки. не встречка . продаемся в прямой продаже &#13;
+</Description>
+    <Address>Санкт-Петербург г. Московский Космонавтов пр.  д.50  корпус 3 а</Address>
+    <CadastralNumber/>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>3</RoomsCount>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <RoomArea>21</RoomArea>
+    <TotalArea>70</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <KitchenArea>9</KitchenArea>
+    <Building>
+      <FloorsCount>12</FloorsCount>
+    </Building>
+    <BargainTerms>
+      <Price>2500000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(981)-120-21-10</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(981)-120-21-10</Phone>
+      <Email>bushnevskiy@gmail.com</Email>
+      <FirstName>Кирилл</FirstName>
+      <LastName>Бушневский</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415994</ExternalId>
+    <Description>Комнаты в историческом центре города,5 минут пешком от станции метро "Площадь Восстания". Окна на улицу и во двор,высокие потолки с лепниной.Благодаря близости инженерных коммуникаций есть возможность перепланировки под студию.В квартире есть кладовка,два санузла,два входа(черный ход из кухни). Чисто,маленьких детей нет.Спокойные,адекватные соседи.В парадной недавно сделан ремонт,установлены видеокамеры,есть домофон.Парковка.Во дворе есть зона отдыха.Школа,детский сад,магазины,сбербанк в шаговой доступности. Будет отличным приобретением для людей,желающих жить в самом центре Северной столицы.Также,благодаря отличной инфраструктуре,подходит для инвестиций(арендаторы находятся быстро).Ипотека возможна. Звоните,отвечу на любые вопросы.Документы готовы для сделки,отказы получены.</Description>
+    <Address>Санкт-Петербург г. Центральный Полтавская ул.  д.5/29</Address>
+    <CadastralNumber>78:31:0151503:2251</CadastralNumber>
+    <RoomsForSaleCount>2</RoomsForSaleCount>
+    <RoomsCount>10</RoomsCount>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <RoomArea>20.2+17.4</RoomArea>
+    <TotalArea>259.9</TotalArea>
+    <FloorNumber>3</FloorNumber>
+    <KitchenArea>15.9</KitchenArea>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <BuildYear>1897</BuildYear>
+      <CeilingHeight>3.4</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>3900000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-217-88-57</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-217-88-57</Phone>
+      <Email>ir_bystrova@mail.ru</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Быстрова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>415996</ExternalId>
+    <Description>Прямая продажа комнаты в малонаселенной квартире со всеми удобствами. Соседи две женщины старше 70 лет. Письма-уведомления о продаже комнаты соседи получили. Состояние комнаты и мест общего пользования хорошее. В стоимость комнаты входит мебель и бытовая техника. </Description>
+    <Address>Санкт-Петербург г. Петроградский Барочная ул.  д.2 А</Address>
+    <CadastralNumber>78:07:0003201:2158</CadastralNumber>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>4</RoomsCount>
+    <FlatRoomsCount>4</FlatRoomsCount>
+    <RoomArea>13.4</RoomArea>
+    <TotalArea>136.7</TotalArea>
+    <FloorNumber>3</FloorNumber>
+    <KitchenArea>21.9</KitchenArea>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <BuildYear>1899</BuildYear>
+      <CeilingHeight>3.62</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>1800000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-216-58-70</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-216-58-70</Phone>
+      <Email>bush.a.m@yandex.ru</Email>
+      <FirstName>Александр</FirstName>
+      <LastName>Бушневский</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>416003</ExternalId>
+    <Description> Хорошее место расположение , метро рядом. Недалеко сквер .Чистая парадная .В квартире сделано три студии ,Ванной , туалетом и кухней пользуется еще один сосед . Легко сделать студию , комната большая и квадратная , два окна .отказы в работе , легкая встречная покупка .</Description>
+    <Address>Санкт-Петербург г. Петроградский Стрельнинская ул.  д.10</Address>
+    <CadastralNumber>78:07:0003103:3094</CadastralNumber>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>5</RoomsCount>
+    <FlatRoomsCount>5</FlatRoomsCount>
+    <RoomArea>22.60</RoomArea>
+    <TotalArea>131.6</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <KitchenArea>12.5</KitchenArea>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <BuildYear>1903</BuildYear>
+      <CeilingHeight>2.8</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>2600000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-903-78-28</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-903-78-28</Phone>
+      <Email>nataly_dd@mail.ru</Email>
+      <FirstName>Наталья</FirstName>
+      <LastName>Малышева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>416001</ExternalId>
+    <Description> Продаём комнату общ.пл.21,3 кв.м, жилая 15,6 кв.м в кирпичном доме, вход с улицы, 2 лифта, застеклённая лоджия, вид из окна — городские пейзажи.  Воспитанные, спокойные соседи. Места общего пользования поддерживаются в чистом, аккуратном состоянии. &#13;
+         В квартире всё есть для комфортного проживания: мебель, холодильник, стиральная  машина, светло и тепло.&#13;
+         Есть вся необходимая инфраструктура для жизни: благоустроенный двор, лёгкая автопарковка, магазины на любой вкус - «Пятёрочка», «Дикси», «Азбука Вкуса», «ВкусВилл», развлекательный центр «Шкиперский Молл», пекарни, салоны красоты, 10 мин.пешком до метро «Приморская». Просторный микрорайон со своей набережной на Васильевском Острове. &#13;
+         Встречная покупка, 1 собственник (более 10 лет).&#13;
+         Показы в любое разумное время!</Description>
+    <Address>Санкт-Петербург г. Василеостровский Нахимова ул.  д.1</Address>
+    <CadastralNumber>78:06:0220102:1723</CadastralNumber>
+    <RoomsForSaleCount>1</RoomsForSaleCount>
+    <RoomsCount>18</RoomsCount>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <RoomArea>15.6</RoomArea>
+    <TotalArea>529.4</TotalArea>
+    <FloorNumber>6</FloorNumber>
+    <KitchenArea>21.8</KitchenArea>
+    <Building>
+      <FloorsCount>10</FloorsCount>
+      <BuildYear>1973</BuildYear>
+      <CeilingHeight>2.5</CeilingHeight>
+    </Building>
+    <BargainTerms>
+      <Price>3599000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-650-01-53</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-650-01-53</Phone>
+      <Email>tatyana7vlasova@gmail.com</Email>
+      <FirstName>Татьяна</FirstName>
+      <LastName>Власова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <Category>roomSale</Category>
+    <ExternalId>416002</ExternalId>
+    <Description>Продаются в прямой продаже две комнаты в трехкомнатной квартире. Удачное расположение в исторической части города в доме-памятнике. Тихие соседи без вредных привычек. В дальнейшем возможно расселение.</Description>
+    <Address>Санкт-Петербург г. Центральный Дегтярная ул.  д.31</Address>
+    <CadastralNumber/>
+    <RoomsForSaleCount>2</RoomsForSaleCount>
+    <RoomsCount>3</RoomsCount>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <RoomArea/>
+    <TotalArea>61</TotalArea>
+    <FloorNumber>3</FloorNumber>
+    <KitchenArea>10</KitchenArea>
+    <Building>
+      <FloorsCount>5</FloorsCount>
+      <BuildYear>1911</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>4000000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-234-35-59</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-234-35-59</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-234-35-59</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-234-35-59</Phone>
+      <Email>shalaevairina68@yandex.ru</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Шалаева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
     <Category>flatSale</Category>
     <ExternalId>817164</ExternalId>
     <Description>Отличная планировка. Окна на 3 стороны: на 6-ю Советскую три окна и эркер, два окна во двор и два окна в зелёный, открытый двор в сторону Греческого проспекта. Две фановых трубы в противоположных частях квартиры. Балки металлические-годится под ипотеку любого Банка. Можно поделить на две полноценных квартиры по 90 кв м.  1 этаж НЕ жилой. Сам дом-"Особнячок в переулочке"-сам по себе. Отделка фасада-керамика, не требует ремонта. Рядом Некрасовский сад, две гимназии №155 и №166. Большой концертный зал и Некрасовский рынок в шаговой доступности. Квартира хорошая, удобная во всех отношениях. Встречку присматривали уже.</Description>
     <Address>Санкт-Петербург г. Центральный Советская 6 ул.  д.4</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:31:0001425:2108                                             </CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>5</FlatRoomsCount>
@@ -15,16 +454,14 @@
     <LivingArea>136</LivingArea>
     <KitchenArea>14.4</KitchenArea>
     <AllRoomsArea>+15+24+26+33+38</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1908</BuildYear>
       <CeilingHeight>3.45</CeilingHeight>
-      <Series>Старый фонд</Series>
     </Building>
     <BargainTerms>
-      <Price>20000</Price>
+      <Price>20000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -49,7 +486,7 @@
 &#13;
 </Description>
     <Address>Санкт-Петербург г. Адмиралтейский Декабристов ул.  д.62-64</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>6</FlatRoomsCount>
@@ -58,16 +495,14 @@
     <LivingArea>135</LivingArea>
     <KitchenArea>25</KitchenArea>
     <AllRoomsArea>+33+30+26+20+16+20</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>6</FloorsCount>
       <BuildYear>1911</BuildYear>
       <CeilingHeight>3.5</CeilingHeight>
-      <Series>Старый фонд</Series>
     </Building>
     <BargainTerms>
-      <Price>26900</Price>
+      <Price>26900000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -91,7 +526,7 @@
     <ExternalId>818465</ExternalId>
     <Description>Большая открытая терраса ПРИМЫКАЕТ ТОЛЬКО К НАШЕЙ КВАРТИРЕ. окна на 2 стороны. одна квартира на этаже. можно приобрести второй этаж. на этой квартире работают 2 агента -  расселим быстро.</Description>
     <Address>Санкт-Петербург г. Центральный Лиговский пр.  д.83</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:31:0001047:2259</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>6</FlatRoomsCount>
@@ -100,16 +535,14 @@
     <LivingArea>66.4</LivingArea>
     <KitchenArea>13.8</KitchenArea>
     <AllRoomsArea>+12.3+15.5+21.3+17.3+14.1+14.1</AllRoomsArea>
-    <CombinedWcsCount>2</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>3</FloorsCount>
       <BuildYear>1879</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>Старый фонд с КР</Series>
     </Building>
     <BargainTerms>
-      <Price>15500</Price>
+      <Price>15500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -129,7 +562,7 @@
     <ExternalId>818705</ExternalId>
     <Description>Красивый дом. Просторная,светлая,солнечная квартира! Простая встречка.Никольский собор.Фонтанка!Красногвардейский мост на пересечении Крюкова канала и канала Грибоедова! Живописное место в самом центре города!</Description>
     <Address>Санкт-Петербург г. Адмиралтейский Макаренко пер.  д.4</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -137,18 +570,15 @@
     <FloorNumber>3</FloorNumber>
     <LivingArea>69.7</LivingArea>
     <KitchenArea>14.6</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+25.7+23.4+20.6</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>4</FloorsCount>
       <BuildYear>1882</BuildYear>
       <CeilingHeight>3.43</CeilingHeight>
-      <Series>Старый фонд</Series>
     </Building>
     <BargainTerms>
-      <Price>19000</Price>
+      <Price>19000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -168,7 +598,7 @@
     <ExternalId>818980</ExternalId>
     <Description>Продается  отличная квартира 2-х этажного кирпичного дома на ул. Чернецкое.Заезжай и живи. Две комнаты смежные, одна раздельная. Санузел раздельный. Центральный водопровод, отопление, канализация, газ. Горячее водоснабжение эл. бойлер. На доме в 2018 году полностью заменена кровля, установлены новые водостоки. Село Колчаново находится в центральной части Волховского района, в излучине на правом берегу реки Сясь. По окраине села проходит автодорога А114 соединяющая С- Петербург и Вологду. В 16 км. проходит трасса Кола , от съезда на КАД до с. Колчаново 130км. В шаговой доступности от дома 300м река Сясь, ж/д станция Колчаново, автобусные остановки, магазины Магнит , Район , строительная база. Экологически чистый район грибы, ягоды, охота, рыбалка.Заезжай и живи.Возможен торг ждем на просмотры</Description>
     <Address>Ленинградская обл. Волховский р-н Колчаново пос.  д.77</Address>
-    <RoomType>both</RoomType>
+    <CadastralNumber>47:10:008221001:61</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -181,10 +611,10 @@
       <FloorsCount>2</FloorsCount>
       <BuildYear>1969</BuildYear>
       <CeilingHeight>2.55</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>1800</Price>
+      <Price>1800000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -205,7 +635,7 @@
     <Description>Отличная квартира с качественным дизайнерским, но не навязчивым ремонтом, и можно добавить вашей индивидуальности. &#13;
 Все материалы: плитка и дубовая паркетная доска ведущих фирм привезены из Италии. Общедомовая очистка воды и воздуха, индивидуальная регулировка температуры, теплые полы в ванной комнате и душевой. Сантехника в стадии установки. Лоджия 6,5 метра с отоплением пола и остекленный балкон-оранжерея. Дом 2010 года хорош во всех отношениях: качественно, дорого, представительно. Двухуровневый паркинг, просторные лифты "KLEEMANN", роскошный представительский зал для жильцов и прочее. В квартире никто не проживал. Дом в тихом месте исторического центра города, видна водная гладь.</Description>
     <Address>Санкт-Петербург г. Петроградский Ждановская ул.  д.29</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:07:0003155:77</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -213,19 +643,15 @@
     <FloorNumber>5</FloorNumber>
     <LivingArea>46</LivingArea>
     <KitchenArea>36</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+22+24</AllRoomsArea>
-    <CombinedWcsCount>2</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>2010</BuildYear>
       <CeilingHeight>3.25</CeilingHeight>
-      <Series>Индивидуальный проект</Series>
     </Building>
     <BargainTerms>
-      <Price>29000</Price>
+      <Price>29000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -245,7 +671,7 @@
     <ExternalId>819103</ExternalId>
     <Description>УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ В ПРЯМОЙ ПРОДАЖЕ. Индивидуальная планировка.Квартира 2х уровневая  с застеклённой лоджией(15 кв.м.) Квартира идеальна для тех, КТО ХОЧЕТ ЖИТЬ В ПРЕСТИЖНОМ РАЙОНЕ ГОРОДА с развитой инфраструктурой(10 мин.пешком метро Пионерская), при этом в ФАКТИЧЕСКИ ОТДЕЛЬНОМ ДОМЕ ( таунхаус), окружённым зеленью. Дом особой конфигурации со своим входом в квартиру и ПАРКОВКОЙ на 1 машину рядом со входом. Над квартирой есть чердачное помещение, в котором при желании можно сделать мансарду( примерно на 40 кв. метров). Дом кирпичный 1988г. постройки. Подходит под любую ипотеку. Собственники взрослые.Собственность более 5 лет. Торг уместен. </Description>
     <Address>Санкт-Петербург г. Приморский Коломяжский пр.  д.32</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:34:0410901:3490</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -253,17 +679,13 @@
     <FloorNumber>2</FloorNumber>
     <LivingArea>47</LivingArea>
     <KitchenArea>7</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+25+12+10</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>2</FloorsCount>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>17000</Price>
+      <Price>17000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -287,7 +709,7 @@
     <ExternalId>819119</ExternalId>
     <Description>Предлагается к продаже квартира в шаговой доступности от станций метро Владимирская и Достоевская. Есть места для парковки автомобилей в закрытом дворе.</Description>
     <Address>Санкт-Петербург г. Центральный Достоевского ул.  д.28</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:31:0001050:2047</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -296,16 +718,15 @@
     <LivingArea>13</LivingArea>
     <KitchenArea>7.7</KitchenArea>
     <AllRoomsArea>+13+9.1</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>4</FloorsCount>
       <BuildYear>1840</BuildYear>
       <CeilingHeight>2.73</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>6300</Price>
+      <Price>6300000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -325,7 +746,7 @@
     <ExternalId>819121</ExternalId>
     <Description>Красивый дом.Парадная с ремонтом и красивой печью и стеклопакетами. Метро пл.Ал.Невского 12мин пешком.Большая детская площадка.Невская ратуша-для прогулок, отдыха и для деловых походов. До Невы 6 мин пешком.направо великолепный разводной мост Ал.Невского.Ал.Невская лавра.налево самый красивый в городе разводной мост Петра Великого(или Большеохтинский мост).рядом Овсянниковский сад с детской площадкой.рядом Церковь Шестоковской Иконы Божьей Матери ("малиновый звон на заре,"не рано-в 10 утра). Люди,живущие рядом с Храмом,обычно долгожители.</Description>
     <Address>Санкт-Петербург г. Центральный Кирилловская ул.  д.6</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:31:0001458:2468</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>4</FlatRoomsCount>
@@ -334,15 +755,13 @@
     <LivingArea>65</LivingArea>
     <KitchenArea>13.6</KitchenArea>
     <AllRoomsArea>+22.0+15.4+12.9+14.7</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <CeilingHeight>3.38</CeilingHeight>
-      <Series>Старый фонд</Series>
     </Building>
     <BargainTerms>
-      <Price>11990</Price>
+      <Price>11990000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -362,7 +781,7 @@
     <ExternalId>819138</ExternalId>
     <Description>ПП. Продается четырехкомнатная квартира в пешей доступности от метро ПР.Ветеранов. Тихий зеленый двор, чистая парадная. Подходит под ипотеку, показываем полную стоимость в договоре. Выполнен свежий ремонт в сан.узле, полностью заменены трубы, установлены новые счетчики, новые батареи. Новые обои в двух комнатах и коридоре. </Description>
     <Address>Санкт-Петербург г. Кировский Танкиста Хрустицкого ул.  д.27</Address>
-    <RoomType>both</RoomType>
+    <CadastralNumber>78:15:0008437:5639</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>4</FlatRoomsCount>
@@ -371,14 +790,12 @@
     <LivingArea>37.6</LivingArea>
     <KitchenArea>5.2</KitchenArea>
     <AllRoomsArea>+15.8+8.6+5.9+7.3</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
-      <Series>Хрущевка</Series>
     </Building>
     <BargainTerms>
-      <Price>5600</Price>
+      <Price>5600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -398,7 +815,7 @@
     <ExternalId>819203</ExternalId>
     <Description>Квартира двух-сторонняя в хорошем состоянии. Комнаты изолированные. Стеклопакеты. Во дворе детский садик с логопедом и бассейном, школа. Рядом Лента,Верный, Фитнесхаус с бассейном, парк Есенина, Ледовый дворец. Торг в пределах разумного.</Description>
     <Address>Санкт-Петербург г. Невский Большевиков пр.  д.5</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber> 78:12:0006310:38</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -407,15 +824,14 @@
     <LivingArea>37</LivingArea>
     <KitchenArea>9.6</KitchenArea>
     <AllRoomsArea>+10+15+12</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1973</BuildYear>
-      <Series>504Д серия</Series>
     </Building>
     <BargainTerms>
-      <Price>7150</Price>
+      <Price>7150000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -438,6 +854,7 @@
 Район тихий,спокойный.со сложившейся инфраструктурой,магазины,школы,детские сады-все рядом.&#13;
 Просмотры-в удобное для Вас время по выходным,в будни-с 18 часов.Несложная встречная покупка.</Description>
     <Address>Санкт-Петербург г. Выборгский Егоровой Жени ул.  д.4  корпус 3</Address>
+    <CadastralNumber>78:36:0005502:2821</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -446,16 +863,14 @@
     <LivingArea>17.4</LivingArea>
     <KitchenArea>8</KitchenArea>
     <AllRoomsArea/>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>12</FloorsCount>
       <BuildYear>1985</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>137 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>5300</Price>
+      <Price>5300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -480,7 +895,7 @@
 В собственности более пяти лет, один взрослый собственник, никто не прописан, подходит под ипотеку.&#13;
 Просмотры в удобное для вас время по предварительной записи.</Description>
     <Address>Санкт-Петербург г. Московский Витебский пр.  д.33  корпус 3</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:14:0007646:9570</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -488,18 +903,15 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>26.5</LivingArea>
     <KitchenArea>5.3</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+17.9+8.6</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1964</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>Монол.Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>5790</Price>
+      <Price>5790000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -525,7 +937,7 @@
 - 1 собственник более 5 лет&#13;
   ВСТРЕЧКА ПОДОБРАНА!</Description>
     <Address>Санкт-Петербург г. Московский Новоизмайловский пр.  д.38  корпус 2</Address>
-    <RoomType>combined</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -534,13 +946,12 @@
     <LivingArea>29</LivingArea>
     <KitchenArea>6</KitchenArea>
     <AllRoomsArea/>
-    <CombinedWcsCount>1</CombinedWcsCount>
     <Building>
       <FloorsCount>5</FloorsCount>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>5600</Price>
+      <Price>5600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -560,7 +971,7 @@
     <ExternalId>819479</ExternalId>
     <Description>Квартира в доме 121-й гатчинской серии в приемлемом жилом состоянии. Вполне чистая и ухоженная. Можно въехать и жить, и постепенно заниматься улучшением качества состояния квартиры. Лоджия застеклена по-деревянному. Инфраструктура вся присутствует. Маршрутки от метро и к метро ходят каждые 5 минут, в пути минут 10-15, и стоят дешевле общественного транспорта. Продажа с простой встречной покупкой - квартира возле определённой станции метро - подберём быстро. Собственность много больше пяти лет.  </Description>
     <Address>Колпинский р-н Металлострой пос. Полевая ул.  д.3</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:37:0017414:3429</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -568,18 +979,15 @@
     <FloorNumber>10</FloorNumber>
     <LivingArea>27.5</LivingArea>
     <KitchenArea>8.8</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+15.9+11.6</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>10</FloorsCount>
       <BuildYear>1993</BuildYear>
       <CeilingHeight>2.63</CeilingHeight>
-      <Series>121(Гатчинская)</Series>
     </Building>
     <BargainTerms>
-      <Price>5300</Price>
+      <Price>5300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -599,6 +1007,7 @@
     <ExternalId>819382</ExternalId>
     <Description>Балки металлические. 2 входа. Легко делится на 3 квартиры: две-парадный вход и одна со двора. Лучший дом, лучшее место на Петроградке. Всё в шаговой доступности. СтоИм в программе РКК. Живут в квартире далеко не все. Многие будут брать просто деньги. Пробуем через торги.</Description>
     <Address>Санкт-Петербург г. Петроградский Каменноостровский пр.  д.26/28</Address>
+    <CadastralNumber>78:07:003074:2924</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>6</FlatRoomsCount>
@@ -607,16 +1016,14 @@
     <LivingArea>238</LivingArea>
     <KitchenArea>25</KitchenArea>
     <AllRoomsArea>+28+31+27+13+17+13+10+18+14+27+25+15</AllRoomsArea>
-    <CombinedWcsCount>4</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>6</FloorsCount>
       <BuildYear>1910</BuildYear>
       <CeilingHeight>3.8</CeilingHeight>
-      <Series>Старый фонд</Series>
     </Building>
     <BargainTerms>
-      <Price>49000</Price>
+      <Price>49000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -636,7 +1043,7 @@
     <ExternalId>819396</ExternalId>
     <Description>Продается 4-х комнатная квартира, в шаговой доступности от ст. м. Василеостровская. Дом с  кап. ремонтом 1957 года, перекрытия металлические балки с деревянным наполнением, железобетон.   Тихий, спокойный двор, свое парковочное место во дворе. Парадная чистая, ухоженная, широкая лестница. Над квартирой технический этаж, частично переоборудован под мастерскую художника. Новая крыша. Квартира удобной планировки, несущих стен нет, есть возможность сделать перепланировку. Вид из окон на Малый проспект. Подходит под ипотеку. Легкая встречка, квартира меньшей площади в этом районе. Ждём на просмотр.</Description>
     <Address>Санкт-Петербург г. Василеостровский Линия 6 В.О.  д.51</Address>
-    <RoomType>both</RoomType>
+    <CadastralNumber>78:06:0002025:3176</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>4</FlatRoomsCount>
@@ -645,16 +1052,14 @@
     <LivingArea>60.8</LivingArea>
     <KitchenArea>9</KitchenArea>
     <AllRoomsArea>+18.4+12.9+15+14.5</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>4</FloorsCount>
       <BuildYear>1870</BuildYear>
       <CeilingHeight>3.3</CeilingHeight>
-      <Series>Старый фонд с КР</Series>
     </Building>
     <BargainTerms>
-      <Price>12500</Price>
+      <Price>12500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -685,7 +1090,7 @@
 (ИКЕА, АЩАН. ОБИ и др.)&#13;
 Просмотры по предварительной договоренности.</Description>
     <Address>Санкт-Петербург г. Невский Народная ул.  д.50</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:12:0006344:6483</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -694,15 +1099,14 @@
     <LivingArea>15.7</LivingArea>
     <KitchenArea>6.8</KitchenArea>
     <AllRoomsArea>+15</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1963</BuildYear>
-      <Series>Блочный</Series>
     </Building>
     <BargainTerms>
-      <Price>4500</Price>
+      <Price>4500000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -722,7 +1126,7 @@
     <ExternalId>819419</ExternalId>
     <Description>Продаем 2-комнатную квартиру с удобной планировкой, в кирпично-монолитном доме 2000 года постройки в 5 минутах пешком от метро Пионерская. Все окна во двор ( тихая), с застекленным балконом. Два входа в парадную, со двора и с улицы. Большая удобная прихожая с встроенным шкафом-купе, просторная спальня и уютная гостиная, кухня оборудованная бытовой техникой. Один собственник, прямая продажа, возможна ипотека. В доме хорошее ТСЖ, консьерж, чистая парадная. Все для жизни - рядом с домом. Прекрасная транспортная доступность: до центра города 15 мин. на транспорте, в нескольких минутах ходьбы расположены две станции метро, до съезда на ЗСД можно добраться за 10 минут на автомобиле. Показы по предварительной договоренности.</Description>
     <Address>Санкт-Петербург г. Приморский Поликарпова алл.  д.2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:34:0410703:8058</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -730,18 +1134,15 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>52.7</LivingArea>
     <KitchenArea>14.7</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+30.3+22.4</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>18</FloorsCount>
       <BuildYear>2000</BuildYear>
       <CeilingHeight>2.75</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>13300</Price>
+      <Price>13300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -761,7 +1162,7 @@
     <ExternalId>819422</ExternalId>
     <Description>Дом построен в 2001 году. Квартира с хорошим ремонтом, дополнительно к площади квартиры - застекленная лоджия 2,1 кв.м, площадь увеличивается до 44,3 кв. м. Окна квартиры выходят на реку Новая - красивый вид. В доме ТСЖ, территория вокруг дома закрытая, видеонаблюдение, консьерж. Несмотря, что 1 этаж - квартира очень теплая, подвал сухой и теплый. В квартире  большая прихожая - холл квадратной формы  9,2 кв.м. со встроенным шкафом (входит в стоимость), комната с альковом, из комнаты - выход на лоджию, стеклопакеты на всех окнах, в комнате потолок натяжной, в ванной, кухне и туалете - потолок подвесной, в ванной и туалете на стенах современный кафель, а на полу - напольная плитка, плита - электрическая панель, кухня остается, ванна - чугунная, поменены все стояки, есть водяные счетчики. Собственность с 2001 года (со дня постройки), 1 собственник. Срочно! Документы готовы. Встречка найдена в прямой продаже.</Description>
     <Address>Санкт-Петербург г. Кировский Ген. Симоняка ул.  д.14</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:15:0844102:1359</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -769,18 +1170,15 @@
     <FloorNumber>1</FloorNumber>
     <LivingArea>18.6</LivingArea>
     <KitchenArea>10.8</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18.6</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>10</FloorsCount>
       <BuildYear>2001</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>600.11 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>5300</Price>
+      <Price>5300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -804,7 +1202,7 @@
     <ExternalId>819423</ExternalId>
     <Description>В продаже 4-х комнатная квартира oбщей площaдью 86 кв.м c мeбeлью и бытoвoй тeхникой, центpaльный вoдoпровoд и канализация, центральная гopячая вoда, 4 кoмнaты (17+8+12+12) куxня 12 м2, окна cтеклoпaкеты , центральное отопление , камин , пoдвал с высотой потолка 2 м ,веpaндa, зeмeльный учaсток 5 соток , огород, фруктовый сад, гараж на 2 автомобиля, баня. Дом находится в живописном месте, в окружении сосен, недалеко от реки ,кругом леса, много озер, хорошее место для грибников, рыболовов и охотников. Возможна ипотека любого банка.</Description>
     <Address>Псковская обл. Себежский р-н Идрица пос.  д.70</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>60:22:020407:0006:1377-А:1</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>4</FlatRoomsCount>
@@ -813,16 +1211,15 @@
     <LivingArea>49</LivingArea>
     <KitchenArea>12</KitchenArea>
     <AllRoomsArea>+17+12+12+8</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>1</FloorsCount>
       <BuildYear>2002</BuildYear>
       <CeilingHeight>2.8</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>2800</Price>
+      <Price>2800000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -846,7 +1243,7 @@
     <ExternalId>819424</ExternalId>
     <Description>двухсторонняя квартира с хорошим ремонтом, в развивающемся современном микрорайоне Всеволожского района, до метро Ладожская 20-25 минут на социальных автобусах 531, 532, 533 и маршрутках (остановка в 2-х минутах ходьбы),  5 минут автобусом до Колтушского озера и парка Института физиологии им. И.П.Павлова, конно-спортивной школы, Ледовой арены, около дома большое количество магазинов, сбербанк, салоны красоты, аптеки, комбинированный детский сад возле дома, школа  - 2 остановки автобусом, МФЦ (в 2-х остановках). Квартира в отличном состоянии, стеклопакеты на окнах, современный качественный кафель в ванной и туалете, застекленная лоджия, большой квадратный холл 12 кв.м. Площадь комнат: 18+14+12. Собственность 20 лет, 1 собственник. Квартира свободная.</Description>
     <Address>Ленинградская обл. Всеволожский р-н Старая дер. Верхняя ул.  д.16</Address>
-    <RoomType>both</RoomType>
+    <CadastralNumber>47:09:0110001:5031</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -854,18 +1251,15 @@
     <FloorNumber>5</FloorNumber>
     <LivingArea>44</LivingArea>
     <KitchenArea>8.5</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18+14+12</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1992</BuildYear>
       <CeilingHeight>2.65</CeilingHeight>
-      <Series>600.11 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>6500</Price>
+      <Price>6500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -889,7 +1283,7 @@
     <ExternalId>819434</ExternalId>
     <Description>В продаже пятикомнатная квартира в самом центре исторического Петербурга, в одном из самых красивых мест города. Рядом Летний сад, Цирк. Квартира расположена в дворовой части дома, очень тихо. Окна квартиры выходят в тихий закрытый двор. В квартире выполнен поверхностный косметический ремонт, можно заехать и жить. Возможна ипотека любого банка.</Description>
     <Address>Санкт-Петербург г. Центральный Гангутская ул.  д.6</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:31:0001105:1181</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>5</FlatRoomsCount>
@@ -898,16 +1292,15 @@
     <LivingArea>58.5</LivingArea>
     <KitchenArea>11</KitchenArea>
     <AllRoomsArea>+8+18+12+11+9.5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1846</BuildYear>
       <CeilingHeight>2.8</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>12000</Price>
+      <Price>12000000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -931,7 +1324,7 @@
     <ExternalId>819438</ExternalId>
     <Description>Кирпич-Монолит (2020г.п.)жилой комплекс "Философия на Московской" класса Комфорт+, застройщик SetlCity.Здание построено по монолитной технологии, с вентилируемыми фасадами из керамогранитной плитки и панелей красного лицевого кирпича.Облик здания дополняет бежевые, кирпично-красные и графито-серые окна, с энергосберегающим остеклением SunGuard с защитой от ультрафиолета. Окна выходят на юго-восток, застекленный балкон из кухни, отделка цвета "Шоколад", совмещенный сан узел, продольно расположена ванна.Вход с улицы. На первом этаже отведена площадь под коммерческие помещения и детский сад.  Видеонаблюдение по периметру и внутри дома. Закрытый двор с детскими , игровыми и спортивными площадками. Для парковки предусмотрена наземная и подземная парковка.В двух мин супермаркеты : Пятерочка,Полушка. Торговые центры Московский, Эврика. Ближе к Пулковскому шоссе две школы. Рядом Пулковский парк, три церкви.Выезд на КАД ,ЗСД  в трех километрах от дома.Пешком 20 мин метро Московская,торг.</Description>
     <Address>Санкт-Петербург г. Московский Предпортовый 1 прд.  д.13  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:14:0007558:4687</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -939,17 +1332,14 @@
     <FloorNumber>6</FloorNumber>
     <LivingArea>15</LivingArea>
     <KitchenArea>10</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+15</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>12</FloorsCount>
       <CeilingHeight>2.8</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>7100</Price>
+      <Price>7100000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -978,7 +1368,7 @@
 Прямая продажа, один совершеннолетний собственник, более 5 лет в собственности.&#13;
  </Description>
     <Address>Санкт-Петербург г. Красносельский Партизана Германа ул.  д.41</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -986,16 +1376,13 @@
     <FloorNumber>7</FloorNumber>
     <LivingArea>42</LivingArea>
     <KitchenArea>6.5</KitchenArea>
-    <LoggiasCount>2</LoggiasCount>
     <AllRoomsArea/>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
-      <Series>504Д серия</Series>
     </Building>
     <BargainTerms>
-      <Price>6550</Price>
+      <Price>6550000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1015,7 +1402,7 @@
     <ExternalId>819445</ExternalId>
     <Description>Продается 3-х комнатная квартира в Кирпичном доме 1973 г.п.серии 1-528кп10 модифицированный. Состояние квартиры нормальное, можно заезжать и жить, по необходимости делать ремонт. В двух комнатах есть встроенные шкафы по паспорту 0,8 и 1,2 кв.м, в коридоре две антресоли. Из окна виден детский садик, чуть дальше школа, есть детская площадка, много зелени </Description>
     <Address>Санкт-Петербург г. Невский Октябрьская наб.  д.122  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:12:0006357:5691</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -1024,16 +1411,15 @@
     <LivingArea>36.9</LivingArea>
     <KitchenArea>4.9</KitchenArea>
     <AllRoomsArea>+11.3+10.6+15</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1973</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>6500</Price>
+      <Price>6500000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1059,7 +1445,7 @@
 санузел смежный.&#13;
 Встречная покупка, более 5-ти лет в собственности.</Description>
     <Address>Санкт-Петербург г. Кировский Ветеранов пр.  д.95  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1068,14 +1454,12 @@
     <LivingArea>27.4</LivingArea>
     <KitchenArea>8.5</KitchenArea>
     <AllRoomsArea>+17.9+9.5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>6700</Price>
+      <Price>6700000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1095,7 +1479,7 @@
     <ExternalId>819452</ExternalId>
     <Description>Предлагается к первой продаже благоустроенная квартира, расположенная в одном из самых экологически чистых районов города. квартира расположена на 9-ом этаже 16-ти этажного дома кирпично-монолитного дома комфорт-класса с современными высокоскоростными лифтами. В ванной комнате,на кухне и на застекленном балконе оборудованы полы с подогревом.В маленькой комнате пол - кварц-виниловая плитка, в коридоре,на кухне и балконе - керамогранит. Во всей квартире установлены натяжные потолки. Кухонный гарнитур со встроенной бытовой техникой остается при продаже.</Description>
     <Address>Санкт-Петербург г. Приморский Туристская ул.  д.20  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1103,16 +1487,14 @@
     <FloorNumber>9</FloorNumber>
     <LivingArea>30.5</LivingArea>
     <KitchenArea>12.6</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+12.5+18</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
     <Building>
       <FloorsCount>16</FloorsCount>
       <BuildYear>2013</BuildYear>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>9800</Price>
+      <Price>9800000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1140,7 +1522,7 @@
     <ExternalId>819453</ExternalId>
     <Description>Продам студию  в Балтийской жемчужине, ЖК комфорт-класса  "Море-1" от застройщика Setl City. Один взрослый собственник,  квартира без обременений. Встречная покупка. Окна на южную сторону.</Description>
     <Address>Санкт-Петербург г. Красносельский Адмирала Трибуца  д.7</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:40:0008339:5209</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>9</FlatRoomsCount>
@@ -1148,17 +1530,14 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>18.1</LivingArea>
     <KitchenArea>18.1</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18.1</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>19</FloorsCount>
       <BuildYear>2013</BuildYear>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>4500</Price>
+      <Price>4500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1178,7 +1557,7 @@
     <ExternalId>819482</ExternalId>
     <Description>Кирпич-Монолит, 2020г.п.ЖК (Философия на Московском) от Setel Sity.Евроремонт. Окна и вход со двора . Выход с балкона из кухни. Санузел совмещен. Отделка цвета (Ваниль), пол ламинат. Закрытая территория, дизайн проект оформления с детскими, спортивными площадками. Парковка наземная и подземный паркинг . Развитая инфраструктура в пешей доступности: школы, детские сады, различные магазины,аптеки, кафе, рестораны, отделения почты,банки.В 15 минутах пешком Пулковский парк.Удобный выезд на КАД, ЗСД. Собственность.Документы получены.Свободна. Торг.    </Description>
     <Address>Санкт-Петербург г. Московский Предпортовый 1 прд.  д.13  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:14:0007558:4227</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1186,18 +1565,15 @@
     <FloorNumber>7</FloorNumber>
     <LivingArea>17</LivingArea>
     <KitchenArea>10</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+17</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>12</FloorsCount>
       <BuildYear>2020</BuildYear>
       <CeilingHeight>2.76</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>6800</Price>
+      <Price>6800000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1217,7 +1593,7 @@
     <ExternalId>819459</ExternalId>
     <Description>Продается 3-х комнатная 2-х сторонняя квартира с изолированными комнатами у метро, площадь комнат (17,7+14,5+11,5), есть холл 13 кв.м, кухня 8,2 кв.м, дополнительно к площади - застекленная лоджия, квартира в отличном состоянии, в 2-х комнатах - паркетная доска на полу, пол в квартире утеплен, в ванной - кафель, поменены батареи, окна утеплены по шведской технологии, кухня остается. Дом стоит во дворах: тихо, вокруг зеленая зона, под окнами дома никто не ходит, т.к. сделан газон с высоким кустарником, квартира светлая. До метро Ленинский проспект 4 минуты пешком, район - обжитой - в наличии вся инфраструктура: Торговый Центр "Французский бульвар" с магазином Перекресток, рядом школы, д/сады, сбербанк, поликлиники, магазины. Собственность 15 лет, 2 собственника. Возможен обмен: 2-х комнатная квартира в Московском р-не плюс доплата.</Description>
     <Address>Санкт-Петербург г. Кировский Новаторов бул.  д.21  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:15:0008404:7305</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -1225,18 +1601,15 @@
     <FloorNumber>1</FloorNumber>
     <LivingArea>43.7</LivingArea>
     <KitchenArea>8.2</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+17.7+14.5+11.5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>8</FloorsCount>
       <BuildYear>1993</BuildYear>
       <CeilingHeight>2.65</CeilingHeight>
-      <Series>600.11 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>8800</Price>
+      <Price>8800000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1263,7 +1636,7 @@
 &#13;
 </Description>
     <Address>Санкт-Петербург г. Выборгский Просвещения пр.  д.32  корпус 1</Address>
-    <RoomType>both</RoomType>
+    <CadastralNumber>78:36:0005504:4215</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -1271,18 +1644,20 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>43.5</LivingArea>
     <KitchenArea>8.3</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+11-13.7-18.8</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>10</FloorsCount>
       <BuildYear>1986</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>600.11 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>9000</Price>
+      <AgentBonus>
+        <Value>20000</Value>
+        <Currency>rur</Currency>
+      </AgentBonus>
+      <Price>9000000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1306,7 +1681,7 @@
     <ExternalId>819463</ExternalId>
     <Description>высокий первый этаж. одна квартира на этаже. помещение на лестничной площадке 2.56 наше. прямая продажа. квартира требует ремонта, торговаться можно на всю сумму, необходимую для ремонта квартиры. мы это понимаем. под нами полуподвал.</Description>
     <Address>Санкт-Петербург г. Центральный Садовая ул.  д.11</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:06:0002061:1220</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -1315,16 +1690,14 @@
     <LivingArea>44.8</LivingArea>
     <KitchenArea>7.7</KitchenArea>
     <AllRoomsArea>+17.9+15.3+11.6</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1904</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Старый фонд</Series>
     </Building>
     <BargainTerms>
-      <Price>11000</Price>
+      <Price>11000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1348,7 +1721,7 @@
 &#13;
 </Description>
     <Address>Санкт-Петербург г. Красногвардейский Ириновский пр.  д.23</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:11:0006113:3635</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -1356,18 +1729,16 @@
     <FloorNumber>9</FloorNumber>
     <LivingArea>44</LivingArea>
     <KitchenArea>10</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+16+16+12</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1982</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>137 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>8500</Price>
+      <Price>8500000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1387,7 +1758,7 @@
     <ExternalId>819494</ExternalId>
     <Description>Продается в прямой продаже квартира в кирпичном доме 2013 года постройки с подземным гаражом,  с видом на Лахтинский разлив, Юнтоловский заповедник, башню Газпрома, с комнатой площадью 20,5 кв. м (при личном замере). Дополнительно к площади квартиры - застекленная лоджия-балкон 5,9 кв.м на кухню и комнату, что увеличивает площадь квартиры до 42-43 кв.м. Квартира с отличным ремонтов, в комнате и прихожей - на полу ламинат, на кухне и в санузле на полу керамогранитная плитка, натяжные потолки. На площадке квартира расположена в отдельном отсеке, также на площадке есть большое помещение для велосипедов и колясок, в парадной - консьерж. Вокруг - отличная инфраструктура: во дворе - детский сад, рядом гимназия, поликлиника, магазины, в шаговой доступности парк 300-летия СПб, вдоль Лахтинского разлива расположены детские площадки, беговые дорожки, спортивные снаряды. В шаговой доступности есть инженерно-технологическая школа, курируемая Газпромом, МФЦ, ТРЦ Меркурий, Олимпийские надежды, ледовый зал, строится метро Туристская, до метро Беговая 15 минут пешком, в близком расположении транспортная развязка с выездом на ЗСД и КАД, до метро Старая деревня - 7 минут на автобусе. Собственность - более 5 лет, 1 собственник, никто не прописан, квартира свободная, по желанию можем оставить мебель.</Description>
     <Address>Санкт-Петербург г. Приморский Туристская ул.  д.20  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:34:0415902:15652</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1395,18 +1766,15 @@
     <FloorNumber>12</FloorNumber>
     <LivingArea>20.5</LivingArea>
     <KitchenArea>9.6</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+20.5</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>16</FloorsCount>
       <BuildYear>2013</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>7300</Price>
+      <Price>7300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1439,6 +1807,7 @@
 ламинат. Заменены трубы, сантехника.&#13;
 Прямая продажа, совершеннолетний собственник.</Description>
     <Address>Санкт-Петербург г. Кировский Ветеранов пр.  д.109  корпус 1</Address>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1446,16 +1815,15 @@
     <FloorNumber>7</FloorNumber>
     <LivingArea>17.4</LivingArea>
     <KitchenArea>7.4</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea/>
-    <SeparateWcsCount>1</SeparateWcsCount>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1996</BuildYear>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>5800</Price>
+      <Price>5800000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1475,7 +1843,7 @@
     <ExternalId>819546</ExternalId>
     <Description>Продается в прямой продаже уютная,аккуратная однокомнатная квартира в самом экологически чистом районе Санкт-Петербурга.Прямая продажа,свободна,никто не прописан,подходит под ипотеку,стеклопакеты,торг</Description>
     <Address>Санкт-Петербург г. Красносельский Пограничника Гарькавого ул.  д.16  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:40:0008472:4665</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1484,15 +1852,14 @@
     <LivingArea>18</LivingArea>
     <KitchenArea>5</KitchenArea>
     <AllRoomsArea>+18</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>3890</Price>
+      <Price>3890000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1512,7 +1879,7 @@
     <ExternalId>819483</ExternalId>
     <Description>Прекрасная двухкомнатная квартира индивидуальной планировки в престижном месте Петроградского райоа с чудесным панорамным видом на Васильевский остров,мост Бетанкура,башню Гапромсити и Петроградскую сторону.Рядом яхтклуб и места престижного городского отдыха,развитая инфраструктура.Отличное качество строительства.Прямая продажа.Есть собственное место в паркинге(одно из лучших).</Description>
     <Address>Санкт-Петербург г. Петроградский Петровский пр.  д.5  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:07:00031:2335</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1520,18 +1887,15 @@
     <FloorNumber>9</FloorNumber>
     <LivingArea>49.3</LivingArea>
     <KitchenArea>10</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+26.1+23.2</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>10</FloorsCount>
       <BuildYear>2019</BuildYear>
       <CeilingHeight>3</CeilingHeight>
-      <Series>Индивидуальный проект</Series>
     </Building>
     <BargainTerms>
-      <Price>19300</Price>
+      <Price>19300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1551,7 +1915,7 @@
     <ExternalId>819487</ExternalId>
     <Description>Прямая продажа! Хороший ремонт! Предлагается к продаже замечательная двухкомнатная квартира с хорошим ремонтом. Квартира расположена на втором этаже добротного панельного дома 137-ой серии 1990 года постройки. До ближайшей станции метро - Комендантский проспект - 4 остановки, много общественного транспорта. Пешком - 20 минут. Район благоустроенный и озеленённый, обжитой. В шаговой доступности находятся школы, детские сады, медицинские учреждения, много магазинов. Квартира удачной планировки - изолированные комнаты, большая кухня, раздельный санузел, просторная прихожая. Ремонт в квартире произведён с использованием качественных материалов. Натяжные потолки во всех помещениях. В целом квартира выглядит очень светлой, привлекательной и уютной. Окна выходят на восток, установлены хорошие двухкамерные стеклопакеты. Произведена замена батарей отопления, в квартире очень тепло. Вход в квартиру через большой тамбур на 4 квартиры - есть много места для хранения всего необходимого. Вход в парадную - со стороны красивого благоустроенного двора с большой зоной для прогулок и отдыха. Приглашаем на просмотр квартиры в удобное для вас время! </Description>
     <Address>Санкт-Петербург г. Приморский Авиаконструкторов пр.  д.18  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:34:0413401:4072</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1560,16 +1924,15 @@
     <LivingArea>27.5</LivingArea>
     <KitchenArea>8.4</KitchenArea>
     <AllRoomsArea>+17+10.5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>12</FloorsCount>
       <BuildYear>1990</BuildYear>
       <CeilingHeight>2.56</CeilingHeight>
-      <Series>137 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>7990</Price>
+      <Price>7990000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1589,7 +1952,7 @@
     <ExternalId>819488</ExternalId>
     <Description>Продам просторную двухкомнатную квартиру в элитном жилом комплексе ЖК ''Классика''. В квартире выполнен качественный ремонт в цену входит вся необходимая техника и мебель. Две застекленные теплые лоджии, подогрев полов, гардеробная, хозяйственный блок с шкафами и стиральной машиной. Парковка в закрытом охраняемом дворе, есть детская площадка, детский садик на территории, кафе, магазины, школа йоги и т.д.</Description>
     <Address>Санкт-Петербург г. Петроградский Глухая Зеленина ул.  д.2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:07:0003198:1365</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1597,18 +1960,15 @@
     <FloorNumber>2</FloorNumber>
     <LivingArea>33.2</LivingArea>
     <KitchenArea>17</KitchenArea>
-    <BalconiesCount>2</BalconiesCount>
     <AllRoomsArea>+21.7+11.5</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>2010</BuildYear>
       <CeilingHeight>3.06</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>27000</Price>
+      <Price>27000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1630,7 +1990,7 @@
 Отличная транспортная доступность-выезд на КАД и ЗСД, аэропорт Пулково 10 минут на машине. Рядом расположены торговые комплексы  Континент, Лето, Pulkovo Outlet Village и крупные магазины Окей, Метро и Лента в 5-минутной доступности.&#13;
 БЕЗ ОБРЕМЕНЕНИЙ. ОДИН СОБСТВЕННИК. ПРЯМАЯ ПРОДАЖА. ВСЕ ДОКУМЕНТЫ ГОТОВЫ. </Description>
     <Address>Санкт-Петербург г. Московский Дунайский пр.  д.14  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:14:0007686:3197</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1638,18 +1998,15 @@
     <FloorNumber>3</FloorNumber>
     <LivingArea>16.5</LivingArea>
     <KitchenArea>9.7</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+16.5</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>25</FloorsCount>
       <BuildYear>2015</BuildYear>
       <CeilingHeight>2.75</CeilingHeight>
-      <Series>Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>7600</Price>
+      <Price>7600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1669,7 +2026,7 @@
     <ExternalId>819497</ExternalId>
     <Description>К продаже предлагается 2 к.кв в Пушкине, ул.Красносельское шоссе 65,3(5) этажного,кирпичного дома.Общая площадь 50,6 м,жилая 17,6 м (балкон) +12,3 м.,изолированные комнаты,санузел раздельный,кухня 6,5.Две кладовки,двухсторонняя,светлая квартира,юго-запад,детская площадка во дворе,развитая инфраструктура,рядом Баболовский парк. Двое собственников,встречная покупка подобрана.Торг.</Description>
     <Address>Пушкинский р-н Пушкин г. Красносельское шоссе  д.65 А</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:42:0018247:3792</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1677,18 +2034,15 @@
     <FloorNumber>3</FloorNumber>
     <LivingArea>29.9</LivingArea>
     <KitchenArea>6.5</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+17.60.12.30</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1974</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Брежневка</Series>
     </Building>
     <BargainTerms>
-      <Price>6100</Price>
+      <Price>6100000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1708,7 +2062,7 @@
     <ExternalId>819498</ExternalId>
     <Description>Продаем 2-комнатную квартиру с удобной планировкой, в кирпично-монолитном доме 2000 года постройки в 5 минутах пешком от метро Пионерская. Все окна во двор ( тихая), с застекленным балконом. Два входа в парадную, со двора и с улицы. Большая удобная прихожая с встроенным шкафом-купе, просторная спальня и уютная гостиная, кухня оборудованная бытовой техникой. Один собственник, прямая продажа, возможна ипотека. В доме хорошее ТСЖ, консьерж, чистая парадная. Все для жизни - рядом с домом. Прекрасная транспортная доступность: до центра города 15 мин. на транспорте, в нескольких минутах ходьбы расположены две станции метро, до съезда на ЗСД можно добраться за 10 минут на автомобиле. Показы по предварительной договоренности.</Description>
     <Address>Санкт-Петербург г. Приморский Коломяжский пр.  д.26</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1716,17 +2070,14 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>53</LivingArea>
     <KitchenArea>15</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea/>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>18</FloorsCount>
       <BuildYear>2000</BuildYear>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>13300</Price>
+      <Price>13300000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1754,6 +2105,7 @@
 совершеннолетние собственники, более 5 лет в собственности.&#13;
 </Description>
     <Address>Санкт-Петербург г. Кировский Ветеранов пр.  д.87</Address>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1761,16 +2113,13 @@
     <FloorNumber>8</FloorNumber>
     <LivingArea>18</LivingArea>
     <KitchenArea>10</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea/>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>12</FloorsCount>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>5750</Price>
+      <Price>5750000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1796,6 +2145,7 @@
 радиаторы отопления.&#13;
 Встречная покупка, совершеннолетний собственник, более 5 лет в собственности.</Description>
     <Address>Санкт-Петербург г. Кировский Ветеранов пр.  д.99</Address>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1804,14 +2154,12 @@
     <LivingArea>18</LivingArea>
     <KitchenArea>6.3</KitchenArea>
     <AllRoomsArea/>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>4600</Price>
+      <Price>4600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1833,7 +2181,7 @@
 &#13;
 </Description>
     <Address>Санкт-Петербург г. Невский Подвойского ул.  д.17</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -1842,16 +2190,15 @@
     <LivingArea>28</LivingArea>
     <KitchenArea>7</KitchenArea>
     <AllRoomsArea>+18+10</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1973</BuildYear>
       <CeilingHeight>2.55</CeilingHeight>
-      <Series>504 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>7000</Price>
+      <Price>7000000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1875,7 +2222,7 @@
     <ExternalId>819513</ExternalId>
     <Description>3 станции метро в шаговой доступности, до Невы 15 - 20 минут пешком. Исторический центр. В доме поменяны стояки, газовые трубы, батареи с регулированием...Торг возможен...  </Description>
     <Address>Санкт-Петербург г. Адмиралтейский Фонтанки р. наб.  д.103</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:32:0001059:1527</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>4</FlatRoomsCount>
@@ -1884,15 +2231,14 @@
     <LivingArea>73</LivingArea>
     <KitchenArea>11</KitchenArea>
     <AllRoomsArea>+13+19+23+18</AllRoomsArea>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>6</FloorsCount>
       <BuildYear>1911</BuildYear>
       <CeilingHeight>3.25</CeilingHeight>
-      <Series>Старый фонд с КР</Series>
     </Building>
     <BargainTerms>
-      <Price>13700</Price>
+      <Price>13700000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1916,7 +2262,7 @@
     <ExternalId>819516</ExternalId>
     <Description>Отличное предложение в историческом районе Санкт-Петербурга, в городе военно-морскрой славы, с чистым воздухом, в окружении Финского залива. Добротная квартира в кирпичном теплом доме! Бельэтаж. Комната большая с гардеробной(можно зонировать по своему усмотрению), вместительная кухня, раздельный санузел в кафеле, просторная прихожая, плюс почти 2 кв/м тамбур только ваш, соседей по этажу нет. Чистая парадная, всегда ухоженная, благоустроенная придомовая территория. Отличное место расположение дома. Много зелени, Кронверкский канал, хорошие места для прогулок и отдыха, детский городок, спортивная площадка. Рядом остановки общественного транспорта, магазин "Пятёрочка" - в доме, до центра Кронштадта 10 минут пешком. Один собственник, обременений нет. Встречный вариант подобран.</Description>
     <Address>Кронштадтский р-н Кронштадт г. Кронштадтское шоссе  д.8</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:34:0010216:3016</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1925,16 +2271,15 @@
     <LivingArea>19.4</LivingArea>
     <KitchenArea>7.3</KitchenArea>
     <AllRoomsArea>+19.4</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>7</FloorsCount>
       <BuildYear>1986</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>4890</Price>
+      <Price>4890000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1954,7 +2299,7 @@
     <ExternalId>819517</ExternalId>
     <Description>Предлагается к продаже уютная и светлая однокомнатная Квартира в ЖК «Весна» на 11 этаже с приятным видом на город и лоджией 3,56 квм. До ст. м. Улица Дыбенко 20 мин. пешком. В обжитом районе со всем необходимым для жизни, магазины, аптеки, кафе, рестораны, пекарни, школы, детские сады все в пешей доступности. При продаже остаётся кухонная мебель. Прямая продажа, один взрослый собственник, никто не прописан</Description>
     <Address>Ленинградская обл. Всеволожский р-н Кудрово дер. Пражская ул.  д.12</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -1962,18 +2307,16 @@
     <FloorNumber>11</FloorNumber>
     <LivingArea>16</LivingArea>
     <KitchenArea>9.34</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+16</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>14</FloorsCount>
       <BuildYear>2018</BuildYear>
       <CeilingHeight>2.7</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>5300</Price>
+      <Price>5300000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -1993,7 +2336,7 @@
     <ExternalId>819521</ExternalId>
     <Description>Немецкий коттедж 1949г.п. Двух комнатная квартира односторонняя, смежно изолированная комнаты(21.9+9.7)Комната 21.9 с альковом и эркерам. Окна выходят на улицу.Туалет с ванной смежные с окном. Есть место для гардеробной.Пол паркет. Высота потолков 3(три) метра.Требует ремонта.  Вход со двора. Чистая парадная с видео наблюдением всего четыре квартиры. Парковка во дворе.Развитая инфраструктура.В пешей доступности 2 детских садика,школа 608, школа социальных гуманитариев. Молвинский сад,Парк Екатерингоф, театр кукол господина Пежо. Магазины: Пятерочка, Перекресток, Кировский универмаг.  13 мин пешком до станции метро Нарвская </Description>
     <Address>Санкт-Петербург г. Кировский Промышленная ул.  д.34</Address>
-    <RoomType>both</RoomType>
+    <CadastralNumber>78:15:0008021:1208</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2002,16 +2345,14 @@
     <LivingArea>32</LivingArea>
     <KitchenArea>5.5</KitchenArea>
     <AllRoomsArea>+22+10</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>1949</BuildYear>
       <CeilingHeight>3</CeilingHeight>
-      <Series>Коттедж</Series>
     </Building>
     <BargainTerms>
-      <Price>6500</Price>
+      <Price>6500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2031,7 +2372,7 @@
     <ExternalId>819522</ExternalId>
     <Description>Предлагаю ухоженную, уютную и  светлую квартиру. Комнаты изолированные, раздельный санузел, что немаловажно, если в квартире проживают более 2х человек. Произведен и закончен! свежий, качественный ремонт. Квартира очень теплая, т.к ниже, в сухом подвале расположена бойлерная. Большое количество светильников во всех помещениях позволяет  менять освещение под настроение. Использование пастельных и натуральных цветов при отделке создает в квартире умиротворяющую и гармоничную атмосферу. В квартиру хочется возвращаться! Чистая парадная в ухоженном доме, УПК работает без нареканий. Большой зеленый двор с оборудованными детской и спортивной площадками, во дворе находятся детский сад и школа. Близость метро, торговых и развлекательных центров, больших и маленьких магазинов, спортивных комплексов и кинотеатров добавляет ценности объекту. У нас прямая продажа, покажем в договоре купли-продажи полную стоимость. Звоните, покажем и расскажем!</Description>
     <Address>Санкт-Петербург г. Невский Товарищеский пр.  д.26  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:13:0007308:3779</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -2044,10 +2385,11 @@
       <FloorsCount>5</FloorsCount>
       <BuildYear>1970</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Брежневка</Series>
     </Building>
     <BargainTerms>
-      <Price>7100</Price>
+      <Price>7100000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2067,7 +2409,7 @@
     <ExternalId>819525</ExternalId>
     <Description>Монолит, прямая продажа, двух сторонняя,балкон 3,8 застекленный, вход на балкон с комнаты.Окна выходят на юго-восток.Совмещенный санузел.Прихожая 9,8. Пол ламинат. Видеонаблюдение в лифте по периметру дома, в парадной есть колясочная.Наземная парковка. Во дворе  спортивная и детская площадка.Напротив дома остановка муниципального и  коммерческого транспорта.Развитая инфраструктура в благоустроенном районе.Собственность, свободна.</Description>
     <Address>Ленинградская обл. Ломоносовский р-н Новогорелово пос. Десантника Вадима Чугунова бул.  д.10/6</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -2075,18 +2417,15 @@
     <FloorNumber>11</FloorNumber>
     <LivingArea>14</LivingArea>
     <KitchenArea>10</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+14</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>16</FloorsCount>
       <BuildYear>2021</BuildYear>
       <CeilingHeight>2.75</CeilingHeight>
-      <Series>Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>5600</Price>
+      <Price>5600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2107,7 +2446,7 @@
     <Description>Доходный Дом К.Х. Кельдаля . Красивейший дом в 10 минутах от метро Гостиный двор расположен на Австрийской площади . Окна трех комнат выходят на площадь. Парадная со двора , двор чистый .В парадной лифт.&#13;
 Свободная продажа. Документы готовы . Показываем в договоре полную стоимость. Квартира двухсторонняя. </Description>
     <Address>Санкт-Петербург г. Петроградский Каменноостровский пр.  д.13  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:07:0003052:211</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>4</FlatRoomsCount>
@@ -2116,16 +2455,15 @@
     <LivingArea>71.8</LivingArea>
     <KitchenArea>12.3</KitchenArea>
     <AllRoomsArea>+12.9+19.20+22.30+ 17.40+</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1903</BuildYear>
       <CeilingHeight>3.45</CeilingHeight>
-      <Series>Старый фонд с КР</Series>
     </Building>
     <BargainTerms>
-      <Price>19800</Price>
+      <Price>19800000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2145,7 +2483,7 @@
     <ExternalId>819528</ExternalId>
     <Description>Продается хорошая трех-комнатная квартира. Без балкона. Первая продажа. Приватизация 2015 года. Опека. Встречная покупка. Торг в пределах разумного.</Description>
     <Address>Санкт-Петербург г. Красносельский Петергофское шос.  д.5  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:40:0008309:4963</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -2154,15 +2492,15 @@
     <LivingArea>46.3</LivingArea>
     <KitchenArea>6.3</KitchenArea>
     <AllRoomsArea>+13.2+15.1+18</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1978</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>Корабль</Series>
     </Building>
     <BargainTerms>
-      <Price>7050</Price>
+      <Price>7050000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2184,7 +2522,7 @@
 &#13;
 </Description>
     <Address>Ленинградская обл. Всеволожский р-н Сертолово пгт. Пограничная ул.  д.4  корпус 2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>47:08:0103002:4841</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>9</FlatRoomsCount>
@@ -2193,16 +2531,15 @@
     <LivingArea>16</LivingArea>
     <KitchenArea>3</KitchenArea>
     <AllRoomsArea>+16</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>4</FloorsCount>
       <BuildYear>2019</BuildYear>
       <CeilingHeight>2.7</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>3100</Price>
+      <Price>3100000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2226,7 +2563,7 @@
     <ExternalId>819531</ExternalId>
     <Description>Прямая продажа! Заселяйся и живи! Предлагается к продаже просторная, светлая, тёплая и очень уютная квартира в благоустроенном спальном районе недалеко от центра Санкт-Петербурга. Квартира расположена на 6-м этаже добротного панельного дома 606-ой серии 1975-го года постройки. Квартира действительно является очень просторной. В ней есть большая прихожая, в которую без проблем встанет гардеробный шкаф, место под кладовку, раздельный санузел, хорошие комнаты, кухня, и просто огромная - 8,9 кв.м. - застеклённая лоджия, которую при желании можно использовать, как третью комнату. Общая площадь квартиры указана с учётом реальной площади лоджии. Отделка квартиры выполнена в светлых тонах. Квартира не требует ремонта. Санузел полностью выложен кафельной плиткой, есть счётчики водоснабжения. На окнах квартиры установлены качественные двухкамерные стеклопакеты. Окна квартиры выходят в тихий, благоустроенный двор. Шум с улицы совершенно не  мешает. Дом ЖСК, отчасти благодаря этому в доме чистая парадная и хорошие соседи. Рядом с домом много места для парковки, есть интересная детская площадка. В шаговой доступности детский сад, школа, медицинские учреждения, разнообразные магазины и торговые центры обжитого и озеленённого Красногвардейского района. До ближайшей станции метро - Ладожская - около 10 минут на транспорте, до Невского проспекта - чуть больше. В целом данная квартира является отличным вариантом для комфортного проживания. Просмотр квартиры по договорённости, в удобное время. Обращайтесь, пожалуйста!</Description>
     <Address>Санкт-Петербург г. Красногвардейский Передовиков ул.  д.29  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:11:0006112:6756</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2234,18 +2571,15 @@
     <FloorNumber>6</FloorNumber>
     <LivingArea>31.9</LivingArea>
     <KitchenArea>8</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18.3+13.6</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>14</FloorsCount>
       <BuildYear>1979</BuildYear>
       <CeilingHeight>2.55</CeilingHeight>
-      <Series>606 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>7700</Price>
+      <Price>7700000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2266,7 +2600,7 @@
     <Description>Отличная солнечная двухкомнатная квартира в зеленом районе.Между станциями метро "Ломоносовская " (15 минут пешком) и "Пролетарская". Квартира с окнами на две стороны, дом в зеленом дворе, парк "Куракина дача" 5 минут пешком, в радиусе пол километра работают 5 школ и 6 детских садов, взрослая и детская поликлиники, торговые центры и множество магазинов.&#13;
   В квартире сделан свежий ремонт, поменяны трубы, новые счетчики для воды, двухфазный электросчетчик. Очень чисто и уютно. На окнах решетки.Мебель в подарок!Звоните! Ольга. Торг!</Description>
     <Address>Санкт-Петербург г. Невский Бабушкина ул.  д.101  корпус 2 Ю</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:12:0007144:4693</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2275,16 +2609,15 @@
     <LivingArea>27.9</LivingArea>
     <KitchenArea>7.2</KitchenArea>
     <AllRoomsArea>+11.8+16.1</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1960</BuildYear>
       <CeilingHeight>2.65</CeilingHeight>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>5900</Price>
+      <Price>5900000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2304,7 +2637,7 @@
     <ExternalId>819535</ExternalId>
     <Description>Предлагается к продаже уютная квартира с изящным и качественным ремонтом.  На окнах произведена замена стеклопакетов на многокамерные, установлены новые радиаторы. Квартира готова к проживанию и продаётся полностью с новой мебелью. Район с развитой инфраструктурой детские сады, школы, магазины, рынок Юнона. От 10 до 20 минут езды до метро Ленинский пр., Автово, Кировский завод. Один взрослый собственник, документы готовы.</Description>
     <Address>Санкт-Петербург г. Красносельский Казакова Марш. ул.  д.72  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2317,10 +2650,11 @@
       <FloorsCount>20</FloorsCount>
       <BuildYear>2018</BuildYear>
       <CeilingHeight>2.75</CeilingHeight>
-      <Series>Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>10000</Price>
+      <Price>10000000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2340,7 +2674,7 @@
     <ExternalId>819536</ExternalId>
     <Description>Район с развитой инфраструктурой, удачная локация дома: три станции метро в 5-ти минутах транспортом. Рядом расположен парк, ТРК. Все необходимое для жизни в шаговой доступности. Квартира с современным ремонтом, в комнате выделена зона для сна. Пол: ламинат, плитка. Встроенная кухня с бытовой техникой(холодильник, посудомоечная машина, плита) входит в стоимость квартиры. Один взрослый собственник. Подходит под любые виды субсидий.</Description>
     <Address>Санкт-Петербург г. Калининский Луначарского пр.  д.88  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:10:0005543:5598</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -2348,18 +2682,16 @@
     <FloorNumber>2</FloorNumber>
     <LivingArea>18.7</LivingArea>
     <KitchenArea>7</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18.7</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1974</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>504Д серия</Series>
     </Building>
     <BargainTerms>
-      <Price>5990</Price>
+      <Price>5990000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2387,7 +2719,7 @@
 Прямая продажа, два совершеннолетних собственника.&#13;
 </Description>
     <Address>Санкт-Петербург г. Красносельский Партизана Германа ул.  д.18  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -2398,10 +2730,10 @@
     <AllRoomsArea>+17.5+13.2+11.7</AllRoomsArea>
     <Building>
       <FloorsCount>9</FloorsCount>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>6250</Price>
+      <Price>6250000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2431,7 +2763,7 @@
 К метро пр.Ветеранов 15 мин.транспортом.&#13;
 Прямая продажа, один совершеннолетний собственник!</Description>
     <Address>Санкт-Петербург г. Красносельский Ветеранов пр.  д.115</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2439,15 +2771,13 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>30.8</LivingArea>
     <KitchenArea>8.3</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+17+13.8</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
     <Building>
       <FloorsCount>9</FloorsCount>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>7550</Price>
+      <Price>7550000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2467,7 +2797,7 @@
     <ExternalId>819541</ExternalId>
     <Description>Предлагается к продаже уютная 2-комнатная квартира с хорошим ремонтом и встроенной гардеробной. Пол в прихожей и на кухне - керамогранит, в комнатах- паркет. В санузле и ванной- плитка и немецкая сантехника,теплые полы. Окна выходят в тихий. зеленый двор, рядом вся необходимая инфраструктура, большой выбор школ и детских садиков. магазинов и торговых центров. Удобный выезд в центр города. хорошая транспортная доступность. Откроется станция метро в пяти минутах ходьбы от дома. В наличии придомовая парковка.</Description>
     <Address>Санкт-Петербург г. Красносельский Казакова Марш. ул.  д.32</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:40:0008304:12504</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2475,17 +2805,14 @@
     <FloorNumber>7</FloorNumber>
     <LivingArea>31.9</LivingArea>
     <KitchenArea>7.2</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+15.70+16.20</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>16</FloorsCount>
       <BuildYear>1986</BuildYear>
-      <Series>137 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>7200</Price>
+      <Price>7200000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2505,7 +2832,7 @@
     <ExternalId>819542</ExternalId>
     <Description>Квартира -студия с отличным ремонтом.Застекленный балкон, вся мебель остается покупателю. Развитая инфраструктура.Хорошее расположение-5 минут до транспортной развязки и ст.м. Девяткино. В собственности 5 лет.Один собственник. </Description>
     <Address>Ленинградская обл. Всеволожский р-н Мурино пос. Охтинская аллея  д.4</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>47:07:0722001:17539</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>9</FlatRoomsCount>
@@ -2513,18 +2840,15 @@
     <FloorNumber>17</FloorNumber>
     <LivingArea>17</LivingArea>
     <KitchenArea>5</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+17</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>21</FloorsCount>
       <BuildYear>2015</BuildYear>
       <CeilingHeight>2.8</CeilingHeight>
-      <Series>Монол.Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>3950</Price>
+      <Price>3950000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2544,7 +2868,7 @@
     <ExternalId>819543</ExternalId>
     <Description>Прямая продажа! Квартира не требует ремонта! Заселяйся и живи!!! Предлагается к продаже светлая и просторная, тёплая и очень уютная трёхкомнатная квартира с изолированными комнатами и лоджией. Удобное расположение и хорошая транспортная доступность. До станции метро "Проспект Ветеранов" 20 минут, до будущей станции "Юго-Западная" - 5 минут пешком!!! Район с развитой инфраструктурой: во дворе детский сад, недалеко школа и медицинские учреждения, много сетевых магазинов. В пешей доступности парки "Александрино" и "Полежаевский". В доме чистая парадная и ухоженная придомовая территория. Много места для парковки автомобилей. В просторном дворе есть интересная детская площадка. Квартира двухсторонняя, окна выходят во двор, шум с проспекта абсолютно не слышен. На окнах установлены качественные двухкамерные стеклопакеты. Имеются просторная лоджия, кладовка и антресоли. Квартира не требует дополнительных вложений. Кухонная и другая мебель (шкафы, кровати) могут остаться в квартире. Документы в порядке, обременений не имеется. Приглашаем на просмотр в удобное для Вас время!</Description>
     <Address>Санкт-Петербург г. Кировский Жукова Марш. пр.  д.34  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:15:0008301:4443</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -2552,18 +2876,16 @@
     <FloorNumber>5</FloorNumber>
     <LivingArea>44</LivingArea>
     <KitchenArea>6</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18+14+12</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1976</BuildYear>
       <CeilingHeight>2.6</CeilingHeight>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>7490</Price>
+      <Price>7490000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2589,7 +2911,7 @@
 &#13;
 </Description>
     <Address>Санкт-Петербург г. Адмиралтейский Красуцкого ул.  д.3м</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -2597,18 +2919,15 @@
     <FloorNumber>7</FloorNumber>
     <LivingArea>10.58</LivingArea>
     <KitchenArea>23.83</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+10.58</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>16</FloorsCount>
       <BuildYear>2019</BuildYear>
       <CeilingHeight>2.8</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>11500</Price>
+      <Price>11500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2628,7 +2947,7 @@
     <ExternalId>819547</ExternalId>
     <Description>Продается отличная студия с качественной отделкой! Застекленная лоджия! Собственность получена! </Description>
     <Address>Санкт-Петербург г. Красногвардейский Муринская дор.  д.10  корпус 3</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>9</FlatRoomsCount>
@@ -2636,18 +2955,15 @@
     <FloorNumber>5</FloorNumber>
     <LivingArea>13</LivingArea>
     <KitchenArea>5</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+13</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>25</FloorsCount>
       <BuildYear>2021</BuildYear>
       <CeilingHeight>2.7</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>3600</Price>
+      <Price>3600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2666,6 +2982,7 @@
     <ExternalId>819548</ExternalId>
     <Description>Предлагается к продаже уютная квартира, расположенная в зеленом, благоустроенном районе с развитой инфраструктурой. В квартире произведен косметический ремонт.</Description>
     <Address>Санкт-Петербург г. Невский Дальневосточный пр.  д.46/28</Address>
+    <CadastralNumber>78:12:0006301:8041</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2673,17 +2990,15 @@
     <FloorNumber>2</FloorNumber>
     <LivingArea>27</LivingArea>
     <KitchenArea>7</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+17+10</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1970</BuildYear>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>5900</Price>
+      <Price>5900000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2711,7 +3026,7 @@
     <ExternalId>819549</ExternalId>
     <Description>Продается уютная, теплая, светлая двухкомнатная квартира в зеленом микрорайоне Кировского р-на. В пешей доступности лесопарк Александрино, рядом все необходимое, хорошее транспортное сообщение, в непосредственной близости от дома находятся разнообразные магазины, торговый центр, с кинотеатром и кафе. Дом расположен в центре благоустроенного зеленого микрорайона. В квартире произведен качественный ремонт. </Description>
     <Address>Санкт-Петербург г. Кировский Солдата Корзуна ул.  д.13</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2720,15 +3035,13 @@
     <LivingArea>27.7</LivingArea>
     <KitchenArea>6.1</KitchenArea>
     <AllRoomsArea>+18.9+8.8</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <BuildYear>1968</BuildYear>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>5600</Price>
+      <Price>5600000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2748,7 +3061,7 @@
     <ExternalId>819550</ExternalId>
     <Description>Продается просторнвя квартира с интересной планировкой в доме-памятнике в самом центре Петербурга с оборудованным вторым этажом. Дом входит в комплекс исторических зданий Главного дворцового управления, построенных в 1812-1826 г. архитекторами Шарлемань Л.И. и Пильниковым Г.П. в силе классицизм. Рядом с домом- метро Чернышевская, набережная Невы, Таврический сад, Оранжерея. В пешей доступности-многие достопримечательности города ( Летний сад, Марсово поле,  храм Спас на крови, Михайловский замок, Русский музей и т.д.), а также лучшие школы и гимназии Петербурга. Вся инфраструктура-магазины, кафе, рестораны, спортивные комплексы, поликлиники и мед.центры. Окна комнаты 22 м. и кухни выходят в большой, зеленый двор  с зонами отдыха и детской площадкой. Имеются парковочные места. В квартире установлены ст/пакеты, счетчики воды, заменены трубы водопровода и отопления. На втором этаже-две комнаты 8,0 и 5,0 метров., расположенные над кухней и прихожей. В доме в 2012-2016 г. был произведен капитальный ремонт с заменой систем водоснабжения, канализации, отопления и электроснабжения. а также покраска дома. Встречная покупке-однокомнатная в центре. Возможен обмен. Чистая история, в собственности одной семьи -много лет.</Description>
     <Address>Санкт-Петербург г. Центральный Захарьевская ул.  д.14 В</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2757,15 +3070,14 @@
     <LivingArea>42.6</LivingArea>
     <KitchenArea>7</KitchenArea>
     <AllRoomsArea>+22.1+20.5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>5</FloorsCount>
       <CeilingHeight>5</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>17800</Price>
+      <Price>17800000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2785,7 +3097,7 @@
     <ExternalId>819551</ExternalId>
     <Description>Прямая продажа квартиры-студии,очень удачной планировки,в популярном Выборгском р-не,по конкурентной цене.Рядом выезд на КАД и ЗСД.Развитая инфраструктура,прекрасная организация дворовых территорий,все очень красиво и современно.</Description>
     <Address>Санкт-Петербург г. Выборгский Парголово, Толубеевский прд.  д.24  корпус 1</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:36:0013101:39769</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>9</FlatRoomsCount>
@@ -2793,17 +3105,14 @@
     <FloorNumber>14</FloorNumber>
     <LivingArea>13.85</LivingArea>
     <KitchenArea>4.65</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+13.85</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>street</WindowsViewType>
     <Building>
       <FloorsCount>28</FloorsCount>
       <BuildYear>2020</BuildYear>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>4000</Price>
+      <Price>4000000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2823,7 +3132,7 @@
     <ExternalId>819553</ExternalId>
     <Description>Прямая продажа . Качественные металлопластиковые окна . Кухонная мебель остаётся покупателю . Рядом детская и взрослые поликлиники, школа, детсад, торговый центр, магазины. Очень развитая инфраструктура района. Удобная транспортная развязка. Чистая парадная . Все документы готовы . Возможна ипотека любого банка.</Description>
     <Address>Санкт-Петербург г. Московский Звездная ул.  д.8 164</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:14:0007679:3305</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -2831,18 +3140,16 @@
     <FloorNumber>8</FloorNumber>
     <LivingArea>18</LivingArea>
     <KitchenArea>9</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+18</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1968</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Кирпичный</Series>
     </Building>
     <BargainTerms>
-      <Price>5400</Price>
+      <Price>5400000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2866,7 +3173,7 @@
     <ExternalId>819555</ExternalId>
     <Description>Продаётся студия с отделкой в ЖК Pulse от лучшего застройщика города SetlGroup. Рядом с набережной. Удобная локация, до центра города около 7 минут езды, примерно столько же до выезда на КАД. Ближайшие станции метро Улица Дыбенко и Проспект Большевиков. Жилой комплекс станет частью нового квартала, где все продумано с точки зрения комфорта. Детский сад расположен между 1 и 2 корпусом. Сетевые продуктовые магазины откроются в ближайшие месяцы. Придомовая территория свободна от машин и закрыта по периметру. Здесь создана комфортная и безопасная среда для беззаботных игр и отдыха детей и взрослых: детские площадки в эко стиле и зеленые уединенные зоны. Территория двора, а также детских площадок, входных групп, холлов и паркингов находится под круглосуточным видеонаблюдением . Квартира с полной отделкой, кафельной плиткой в санузлах, сантехникой, в комнате и прихожей постелен ламинат, установлены межкомнатные и входная металлическая дверь. Приточно-вытяжная вентиляция, розетка на лоджии! Дом заселён . Возможна ипотека банка ВТБ .</Description>
     <Address>Санкт-Петербург г. Невский Октябрьская наб.  д.34  корпус 4</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>9</FlatRoomsCount>
@@ -2874,17 +3181,15 @@
     <FloorNumber>3</FloorNumber>
     <LivingArea>18</LivingArea>
     <KitchenArea>3</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+18</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>15</FloorsCount>
       <CeilingHeight>2.7</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>4150</Price>
+      <Price>4150000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2908,7 +3213,7 @@
     <ExternalId>819556</ExternalId>
     <Description>Приглашаем на просмотр уютной, полностью готовой для проживания квартиры в малоэтажном жилом комплексе "Всеволожский Штиль". Квартира светлая, просторная и очень удачной планировки - все помещения обладают сравнительно большой площадью: комната 18,3 кв.м., кухня 10,9 кв.м., прихожая 5,9 кв.м., санузел 4,0 кв.м. Также имеются гардеробная и остеклённый балкон. Окна квартиры выходят на юго-восток, на парковую зону. Установлены качественные стеклопакеты. В квартире выполнен свежий, хороший ремонт с использованием качественных материалов. После ремонта в квартире практически никто не проживал. Квартира полностью укомплектована мебелью и бытовой техникой. Возможно приобретение парковочного места в крытом паркинге, расположенного на первом этаже жилого комплекса. ЖК "Всеволожский Штиль" находится в микрорайоне Бернгардовка города Всеволожска, в шаговой доступности от одноимённой железнодорожной станции и совсем недалеко от шоссе Дорога Жизни. Расположение жилого комплекса является довольно удобным, позволяющим без проблем различными способами добраться как до центра Всеволожска, так и до Санкт-Петербурга. Благоустройство территории комплекса предполагает прогулочные зоны на берегу искусственного ручья, протекающего между домами по центральной аллее. Сам комплекс находится вдали от магистрали в сосновой роще, что гарантирует свежий воздух и благоприятные условия для прогулок. Территория ЖК "Всеволожский Штиль" является закрытой, охраняемой. Не откладывайте на завтра - звоните прямо сейчас!!! Мы готовы ответить на все интересующие вас вопросы.</Description>
     <Address>Ленинградская обл. Всеволожский р-н Всеволожск г. Большой пр.  д.31</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>1</FlatRoomsCount>
@@ -2916,18 +3221,15 @@
     <FloorNumber>2</FloorNumber>
     <LivingArea>18.3</LivingArea>
     <KitchenArea>10.9</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+18.3</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>4</FloorsCount>
       <BuildYear>2020</BuildYear>
       <CeilingHeight>2.75</CeilingHeight>
-      <Series>Кирп.Монолит</Series>
     </Building>
     <BargainTerms>
-      <Price>4790</Price>
+      <Price>4790000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2947,7 +3249,7 @@
     <ExternalId>819558</ExternalId>
     <Description>Прямая продажа квартиры. В квартире никто не проживает и никто не зарегистрирован. Окна квартиры выходят в большой открытый двор. Требуется ремонт.</Description>
     <Address>Санкт-Петербург г. Фрунзенский Славы пр.  д.64 А</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:13:0007417:9787</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2955,18 +3257,15 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>29.1</LivingArea>
     <KitchenArea>6.1</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+20.1+9.0</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1967</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>5500</Price>
+      <Price>5500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -2986,7 +3285,7 @@
     <ExternalId>819559</ExternalId>
     <Description>Продается светлая, теплая двухсторонняя квартира. Сделан качественный ремонт для себя в 2020 году, металлическая входная дверь и металлическая дверь в тамбуре. стеклопакеты. современная кафельная плитка в санузле. Зеленый двор с детской площадкой. Много места для парковки автомобиля. Инфраструктура вся рядом. Школы, детсады. </Description>
     <Address>Санкт-Петербург г. Красногвардейский Энергетиков пр.  д.30  корпус 1 А</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber>78:11:0006040:3286</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -2994,18 +3293,15 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>30.5</LivingArea>
     <KitchenArea>6.2</KitchenArea>
-    <BalconiesCount>1</BalconiesCount>
     <AllRoomsArea>+13+17.5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
       <BuildYear>1966</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>606 серия</Series>
     </Building>
     <BargainTerms>
-      <Price>6490</Price>
+      <Price>6490000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -3025,7 +3321,7 @@
     <ExternalId>819560</ExternalId>
     <Description>Продается 2-х комнатная квартира в ЖК комфорт класса "Серебряные ключи", в шаговой доступности метро Проспект Славы. В квартире сделан качественный ремонт, просторная кухня гостиная с выходом на лоджию, уютная спальня и  детская комната с выходом на лоджию. Из окон открывается панорама на Парк Героев-пожарных с пятью прудами и дорожками для прогулок, отдыха с детьми или занятий спортом. Два собственника, больше пяти лет в собственности, ипотека Газпромбанка. Показы по договоренности. </Description>
     <Address>Санкт-Петербург г. Фрунзенский Бухарестская Мал. ул.  д.2</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -3033,16 +3329,14 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>33.2</LivingArea>
     <KitchenArea>9.3</KitchenArea>
-    <LoggiasCount>2</LoggiasCount>
     <AllRoomsArea>+16.4+16.8</AllRoomsArea>
-    <CombinedWcsCount>1</CombinedWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>18</FloorsCount>
-      <Series>Монол.Панельный</Series>
     </Building>
     <BargainTerms>
-      <Price>9600</Price>
+      <Price>9600000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -3062,6 +3356,7 @@
     <ExternalId>819561</ExternalId>
     <Description> Тёплая, светлая двусторонняя квартира. Требует ремонта. Хороший вид из окон. Чистый отремонтированный подъезд. Фасад дома после ремонта. Рассмотрим ипотеки, субсидии, мат.капитал и т.д.  </Description>
     <Address>Санкт-Петербург г. Фрунзенский Софийская ул.  д.32  корпус 1</Address>
+    <CadastralNumber>78:13:0007417:6204</CadastralNumber>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>3</FlatRoomsCount>
@@ -3069,16 +3364,14 @@
     <FloorNumber>4</FloorNumber>
     <LivingArea>45</LivingArea>
     <KitchenArea>9</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+17.3+15.3+12.4</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yardAndStreet</WindowsViewType>
     <Building>
       <FloorsCount>9</FloorsCount>
-      <Series>Блочный</Series>
     </Building>
     <BargainTerms>
-      <Price>7000</Price>
+      <Price>7000000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -3102,7 +3395,7 @@
     <ExternalId>819562</ExternalId>
     <Description>Продается замечательная квартира - солнечная и теплая с видом на Финский залив и парк 300-летия. Санузел в кафеле. В ванной установлена хорошая качественная душевая кабина. Комнаты удачной планировки - есть возможность зонирования. В большой комнате натяжной потолок. Во всей квартире и лоджии установлены стеклопакеты. Кухня остаётся, остальная мебель по желанию. Квартира рекламируется в двух агентствах: ООО "ГЦН" - 1 собственник, владеющий 4/6 доли квартиры; агнтство Адвекс - 2 собственника, владеющие по 1/6 квартиры. Между агентствами и сособственниками есть договоренности о совместной продаже. </Description>
     <Address>Санкт-Петербург г. Приморский Приморский пр.  д.163</Address>
-    <RoomType>separate</RoomType>
+    <CadastralNumber/>
     <IsApartments>0</IsApartments>
     <IsPenthouse>0</IsPenthouse>
     <FlatRoomsCount>2</FlatRoomsCount>
@@ -3110,18 +3403,15 @@
     <FloorNumber>12</FloorNumber>
     <LivingArea>29</LivingArea>
     <KitchenArea>10.1</KitchenArea>
-    <LoggiasCount>1</LoggiasCount>
     <AllRoomsArea>+11.5+17. 5</AllRoomsArea>
-    <SeparateWcsCount>1</SeparateWcsCount>
-    <WindowsViewType>yard</WindowsViewType>
     <Building>
       <FloorsCount>16</FloorsCount>
       <BuildYear>1997</BuildYear>
       <CeilingHeight>2.5</CeilingHeight>
-      <Series>Индивидуальный проект</Series>
     </Building>
     <BargainTerms>
-      <Price>10500</Price>
+      <Price>10500000</Price>
+      <Currency>rur</Currency>
     </BargainTerms>
     <Phones>
       <PhoneSchema>
@@ -3135,5 +3425,1125 @@
       <FirstName>Светлана</FirstName>
       <LastName>Богданова</LastName>
     </SubAgent>
+  </object>
+  <object>
+    <ExternalId>84401</ExternalId>
+    <Description>ж/д Назия. Останавливается "Ласточка." Свет без ограничений. Огорожен, оборудован въезд шириной 7 метров, ворота, электрическая колонка с питьевой водой. Нет соседей: с одной стороны пожарный водоём, с другой соседский огород. На север Ладожское озеро. На юг в получасе ходьбы большое озеро с рыбой. Богатый лес. Садоводство с1988 года. Магазины любые круглый год. Фермерское молоко, сметана, творог. Ладожская и Мурманская рыба разная и в любом виде. </Description>
+    <Address>Ленинградская обл. Кировский р-н Назия пос.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>0</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>350000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-923-84-70</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-923-84-70</Phone>
+      <Email>man9305@yandex.ru</Email>
+      <FirstName>Наталья</FirstName>
+      <LastName>Щетинина</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84530</ExternalId>
+    <Description>СНТ"Чайко", продаётся участок с домом, дом - бревенчатый сруб, привезён из Новгородской обл. и обшит вагонкой, сейчас  в процессе реконструкции - пристроена веранда из пеноблоков, подготовлены к установке стеклопакеты, есть недоделанная мансарда; пару лет назад были проблемы с фундаментом, поднимали дом, и основательно укрепляли и подливали бетоном фундамент (работы не скрытые, результат по фундаменту виден); печь кирпичная (требуется ремонт - просел фундамент печи); колодец во дворе с питьевой водой, за участком лес, сделан дренаж, есть сарай (можно использовать как  времянку), широкий заезд на участок, тихое место, дорога по трассе "Скандинавия" до Огоньков, потом на Первомайское.&#13;
+Продаём по цене земли, так как пару лет уже не используем (есть дом в Новгородской обл.). Документы все готовы. В садоводстве бдительная охрана, хозяйственный председатель. Есть магазин, спортивная площадка. Также, в посёлке есть люди, которые проживают круглогодично.&#13;
+</Description>
+    <Address>Ленинградская обл. Выборгский р-н Чайка дер.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <TotalArea>35</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <BargainTerms>
+      <Price>1099000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-907-17-41</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-907-17-41</Phone>
+      <Email>lgary@inbox.ru</Email>
+      <FirstName>Герман</FirstName>
+      <LastName>Алексахин</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84570</ExternalId>
+    <Description>Земля сельхоз назначения 4.02 га. Расстояние от Санкт-Петербурга (автобус от пр. Обуховской обороны) 125 км. Время в пути 1 ч 35 мин. На участке 100 кубометров леса, имеется разрешение на спил.Рядом посёлок Новая Деревня.Живописное место. В 7 минутах ходьбы река Вуокса. В этих местах популярна охота и рыбалка. К участку подходит дорога. До курорта Игора 35-40 минут.</Description>
+    <Address>Ленинградская обл. Приозерский р-н Новая Деревня дер.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>0</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>4200000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(953)-340-82-50</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(812)-575-52-13</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(953)-340-82-50</Phone>
+      <Email>mart-kot10@yandex.ru</Email>
+      <FirstName>Александр</FirstName>
+      <LastName>Мартыненко</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84573</ExternalId>
+    <Description>Продается отличный участок в поселке городского типа Палкино. В поселке есть все как для постоянного проживания, так и для отдыха. Школа, детсад, поликлиника, больница, почта, сбербанк, школа. Торг </Description>
+    <Address>Псковская обл. Палкинский р-н Палкино пгт.  д.11</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>0</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>150000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(953)-165-35-50</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(953)-165-35-50</Phone>
+      <FirstName>Елена</FirstName>
+      <LastName>Черепанова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84612</ExternalId>
+    <Description>Озерки.В продаже отличный участок.Дом+ 12 соток в Выборгском районе С-Петербурга.Месторасположение Озерки и метро Удельная в пешей доступности, соответственно вся инфраструктура тоже В нескольких минутах пешком красивейшие Суздальские озёра и парк Сосновка.Очень живописное место.Частный дом.Все коммуникации,центральное отопление.Меридиальная улица в исторических районах Озерки и Шувалово.Рядом метро Озерки,700 метров.Железнодорожная платформа Озерки- около 350 м.Движение наземного общественного транспорта по улице отсутствует.Рядом все заведения по 50 направлениям(медицина,красота,бытовые и коммерческие услуги и многое др.)</Description>
+    <Address>Санкт-Петербург г. Выборгский</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>120</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>30000000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(952)-365-65-50</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(952)-365-65-50</Phone>
+      <Email>sv.balmysheva@mail.ru</Email>
+      <FirstName>Светлана</FirstName>
+      <LastName>Балмышева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84613</ExternalId>
+    <Description>Электрический столб рядом с участком. Сухой, ровный, с плодородной землёй. Фундамент ленточный ширина 40 см, высота 80 см, мало заглублённый, бетон заводской М350,наполнитель-щебень гранитный, арматура стекловолоконная (композитная). Фундамент годится под любые стены: кирпич, блоки, каркас, бревно, брус.....сэндвич-панели? или монолит? что-то ещё? Просмотры в любое время. по дарению.</Description>
+    <Address>Ленинградская обл. Всеволожский р-н Углово пос.</Address>
+    <CadastralNumber>47:07:0953002:0090</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>1000000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-923-84-70</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-923-84-70</Phone>
+      <Email>man9305@yandex.ru</Email>
+      <FirstName>Наталья</FirstName>
+      <LastName>Щетинина</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84684</ExternalId>
+    <Description>Продается земельный участок площадью 1,2 га в Карелии на берегу залива Найсмери Ладожского озера. &#13;
+Земли сельскохозяйственного назначения, ИЖС, ЛПХ.&#13;
+Участок в границах посёлка Ласанен.&#13;
+Панорамный вид на озеро. Рядом расположены леса, полные ягод и грибов.&#13;
+Участок обладает правильной формой и ровным рельефом. Он находится на небольшой возвышенности, на солнечной стороне.&#13;
+От границы участка до берега залива 50 метров. Место великолепно подойдёт для постоянного проживания, отдыха, рыбалки и охоты.&#13;
+Коммуникации: подведена дорога, электричество, пробурена скважина.&#13;
+Расстояние от Санкт-Петербурга 180 км по Приозерскому шоссе и 60 км от города Сортавала, до границы с Финляндией 30 км.&#13;
+&#13;
+Прямая продажа от собственника без комиссии.&#13;
+Документы готовы.</Description>
+    <Address>Карелия Лахденпохский р-н Ласанен пос.</Address>
+    <CadastralNumber>10:12:0051302:660</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>19950000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-320-46-96</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-320-46-96</Phone>
+      <Email>stellatkach@inbox.ru</Email>
+      <FirstName>Стелла</FirstName>
+      <LastName>Ткач</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84628</ExternalId>
+    <Description>Уникальное предложение! Огромный участок в живописнейшем месте в 50 метрах от высокого берега реки Тихвинки.&#13;
+В 1,5 км от участка новый шлюз с пешеходным движением и знаменитый Тихвинский монастырь.&#13;
+Идеальное место для ресторанного комплекса или базы отдыха.&#13;
+&#13;
+По документам на земельный участок:&#13;
+Категория земель: земли населённых пунктов&#13;
+Разрешённое использование: для сельскохозяйственного производства (при необходимости разрешённое использование можно изменить на необходимое: ИЖС, строительство коттеджного комплекса, базы отдыха и тд)&#13;
+В июле 2019 года  территория участка включена в границу города Тихвин.&#13;
+По Генеральному плану города Тихвин участок относится к функциональной зоне Ж2:&#13;
+зона Ж2 - зона застройки малоэтажными и среднеэтажными жилыми домами.&#13;
+&#13;
+Рельф участка - ровное поле, не закустарено&#13;
+Въезд на участок с улицы Римского-Корсакова:&#13;
+вдоль реки справа (против течения) наезженная грунтовка эксплуатируется круглый год.&#13;
+В 1 км от участка проходит Вологодская трасса.&#13;
+Слева от въезда - жилые частные дома.&#13;
+В 1км от участка, через реку:&#13;
+стадион, спортивный комплекс, лыжедром, городской пляж, городские микрорайоны.&#13;
+&#13;
+Коммуникации:&#13;
+К участку  подведена ЛЭП состоящая из одной линии 15 кВт.&#13;
+При формировании понимания о необходимости увеличения потребляемой мощности- есть возможность устанавливать непосредственно на территории участка трансформаторные подстанции соответствующей мощности</Description>
+    <Address>Ленинградская обл. Тихвинский р-н Тихвин г.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <AgentBonus>
+        <Value>1</Value>
+        <Currency>rur</Currency>
+      </AgentBonus>
+      <Price>7280000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-330-68-20</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-330-68-20</Phone>
+      <Email>Futurekir@gmail.com</Email>
+      <FirstName>Кирилл</FirstName>
+      <LastName>Козырев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84629</ExternalId>
+    <Description>Дом со всеми удобствами, газифицирован, в 3 км от районного центра,  рядом с домом остановка общественного транспорта, плодоносящий сад и виноградник, хоз. постройки для содержания птицы.&#13;
+</Description>
+    <Address>другие Регионы России Ростовская область Рябовский хутор  д.28</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>4</FlatRoomsCount>
+    <TotalArea>170</TotalArea>
+    <AllRoomsArea>+80</AllRoomsArea>
+    <KitchenArea>12</KitchenArea>
+    <Building>
+      <FloorsCount>2</FloorsCount>
+      <BuildYear>1999</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>1500000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(901)-305-98-44</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(901)-305-98-44</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(901)-305-98-44</Phone>
+      <Email>al.surguchev@mail.ru</Email>
+      <FirstName>Алексей</FirstName>
+      <LastName>Сургучев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84637</ExternalId>
+    <Description>Предлагаем к продаже земельный участок сельскохозяйственного назначения площадью 1,05 га в деревне Ириновка Всеволожского р-на.&#13;
+&#13;
+Сухой ровный участок правильной формы на хороших грунтах, граничит с асфальтовой дорогой и елово-сосновым лесом, 10 км до Ладожского озера, 3 км. от Дороги Жизни, 30 км от СПб. Есть возможность подключения к центральному поселковому водопроводу и газу, электричество проходит по границе участка.&#13;
+&#13;
+Прекрасно подходит для ведения фермерского хозяйства. По соседству уже работают фермеры, есть новые садоводства и индивидуальная застройка, перспективное место.&#13;
+&#13;
+Цена 2 100 000 тысяч рублей.&#13;
+&#13;
+Звоните или пишете прямо сейчас! Успейте купить сегодня по выгодной цене!</Description>
+    <Address>Ленинградская обл. Всеволожский р-н Ириновка пос.</Address>
+    <CadastralNumber>47:07:0953004:197</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>2100000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(960)-244-17-86</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(960)-244-17-86</Phone>
+      <Email>i.baturo@gcn-spb.ru</Email>
+      <FirstName>Иван</FirstName>
+      <LastName>Батуро</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84654</ExternalId>
+    <Description>Прекрасное экологически чистое место Карельского перешейка. Замечательные хвойные леса,рядом озера Лебяжьи (большое и малое).Хорошая транспортная доступность,как на собственном авто,так и на общественном транспорте.Прекрасная плодородная земля на учатке.Сам участок граничит с лесополосой.&#13;
+Торг.</Description>
+    <Address>Ленинградская обл. Выборгский р-н Горьковское пос.</Address>
+    <CadastralNumber>47:01:17-69-008:0044</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>700000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-313-35-14</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-313-35-14</Phone>
+      <Email>sp196007@mail.ru</Email>
+      <FirstName>Сергей</FirstName>
+      <LastName>Жидяев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84670</ExternalId>
+    <Description>105 км от Петербурга, дорога асфальт, большой яблоневый сад, два парника. Пристроена к дому веранда. Земля разработана, удобрена. Новый забор вокруг усадьбы. От вокзала 10 минут пешком. Асфальтовая дорога до самого дома.</Description>
+    <Address>Новгородская обл. Чудовский р-н Чудово г Грузинское ш.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>35</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <BargainTerms>
+      <Price>1500000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-988-18-33</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-988-18-33</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-988-18-33</Phone>
+      <Email>Ludm2309@yandex.ru</Email>
+      <FirstName>Людмила</FirstName>
+      <LastName>Васильева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84671</ExternalId>
+    <Description>Продается  загородный дом для постоянного проживания. Расположен в лесном массиве, среди сосен и елей, на живописном рельефном участке. 3-х этажный дом построен на бетонном фундаменте, стены первого этажа- кирпич, второй  и третий брус, очень хорошее утепление – все сделано для себя!  Электричество 30кВт. Круглогодичный подъезд. В поселке развитая инфраструктура: магазины, банки, школа, детские сады, аптеки, поликлиника, торгово-развлекательный центр `Рощино и многое другое. В непосредственной близости находится горнолыжный курорт `Пухтолова гора. Хорошая транспортная доступность. Посёлок находится в 45км от КАД.&#13;
+</Description>
+    <Address>Ленинградская обл. Выборгский р-н Рощино пгт.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>300</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>29999000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-320-46-96</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-320-46-96</Phone>
+      <Email>stellatkach@inbox.ru</Email>
+      <FirstName>Стелла</FirstName>
+      <LastName>Ткач</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84673</ExternalId>
+    <Description>Двухэтажный дом с камином,скважина,электричество,баня,сарай,дровянник,компостный блок 2х3,фундамент ленточный с отмосткой. Погреб 2х2 с полками облицован кирпичом,плиты: электрическая 4-х комфорочная и газовая с баллонами.В доме на первом этаже:зимняя и летняя веранда,гостинная,спальня;на втором этаже 2 комнаты +"тёщина комната"+2 кладовки.Стены и потолок обиты вагонкой с водоотталкивающней пропиткой,пол-половая доска.Надёжная лестница на 2 этаж. Можно въехать и жить,всё сделано добротно,"под себя".Участок разработан,есть плодовые деревья. Будет хорошим приобретением как для пенсионеров,так и для семейных пар с детьми.Жить в таком доме-удовольствие.Чистый воздух,простор и природа вокруг,хорошие соседи.Дом в охраняемом садоводстве"Дружное" с общим забором,детей школьного возраста можно смело отпускать с друзьями допоздна. На территории садоводства есть магазин.Лес,озеро Орлинское-4 км.До ж/д "Дивенская" 20 минут пешком,а также от станции ходит автобус. Звоните,отвечу на все вопросы.&#13;
+Комментарий для агентов (клиенты этого не видят)	&#13;
+Реклама	выгружается в ГЦН и выгружается на др. сайты&#13;
+Загрузить изображения&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Двухэтажный дом с камином,скважина,электричество,баня,сарай,дровянник,компостный блок 2х3,фундамент ленточный с отмосткой. Погреб 2х2 с полками облицован кирпичом,плиты: электрическая 4-х комфорочная и газовая с баллонами.В доме на первом этаже:зимняя и летняя веранда,гостинная,спальня;на втором этаже 2 комнаты +"тёщина комната"+2 кладовки.Стены и потолок обиты вагонкой с водоотталкивающней пропиткой,пол-половая доска.Надёжная лестница на 2 этаж. Можно въехать и жить,всё сделано добротно,"под себя".Участок разработан,есть плодовые деревья. Будет хорошим приобретением как для пенсионеров,так и для семейных пар с детьми.Жить в таком доме-удовольствие.Чистый воздух,простор и природа вокруг,хорошие соседи.Дом в охраняемом садоводстве"Дружное" с общим забором,детей школьного возраста можно смело отпускать с друзьями допоздна. На территории садоводства есть магазин.Лес,озеро Орлинское-4 км.До ж/д "Дивенская" 20 минут пешком,а также от станции ходит автобус. Звоните,отвечу на все вопросы.&#13;
+Комментарий для агентов (клиенты этого не видят)	&#13;
+Реклама	выгружается в ГЦН и выгружается на др. сайты&#13;
+Загрузить изображения&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+Двухэтажный дом с камином,скважина,электричество,баня,сарай,дровянник,компостный блок 2х3,фундамент ленточный с отмосткой. Погреб 2х2 с полками облицован кирпичом,плиты: электрическая 4-х комфорочная и газовая с баллонами.В доме на первом этаже:зимняя и летняя веранда,гостинная,спальня;на втором этаже 2 комнаты +"тёщина комната"+2 кладовки.Стены и потолок обиты вагонкой с водоотталкивающней пропиткой,пол-половая доска.Надёжная лестница на 2 этаж. Можно въехать и жить,всё сделано добротно,"под себя".Участок разработан,есть плодовые деревья. Будет хорошим приобретением как для пенсионеров,так и для семейных пар с детьми.Жить в таком доме-удовольствие.Чистый воздух,простор и природа вокруг,хорошие соседи.Дом в охраняемом садоводстве"Дружное" с общим забором,детей школьного возраста можно смело отпускать с друзьями допоздна. На территории садоводства есть магазин.Лес,озеро Орлинское-4 км.До ж/д "Дивенская" 20 минут пешком,а также от станции ходит автобус. Звоните,отвечу на все вопросы.&#13;
+&#13;
+</Description>
+    <Address>Ленинградская обл. Лужский р-н Дивенская массив</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <TotalArea>105</TotalArea>
+    <AllRoomsArea>+90</AllRoomsArea>
+    <KitchenArea>15</KitchenArea>
+    <Building>
+      <FloorsCount>2</FloorsCount>
+    </Building>
+    <BargainTerms>
+      <Price>1650000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-217-88-57</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-217-88-57</Phone>
+      <Email>ir_bystrova@mail.ru</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Быстрова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84678</ExternalId>
+    <Description>Предлагаем к продаже участок 13 соток, ИЖС в деревне Борисово. &#13;
+&#13;
+Успейте купить сегодня по выгодной цене!&#13;
+&#13;
+Тихое место с развитой инфраструктурой, всего 40 мин. от города по хорошей трассе А-121 Сортавала, без пробок. Автобусная остановка в пешей доступности с поселком, регулярно курсируют автобусы до Санкт-Петербурга и ближайших поселений. &#13;
+&#13;
+В 200 метрах озеро - Борисовское! Там же 600-метровая береговая линия и пляж. Живописно, грибы и ягоды, можно рыбачить, свежий воздух. Детские и спортивные площадки, освещение по всему поселку, есть два магазина.&#13;
+&#13;
+15-20 минут до лучших курортов и парков отдыха: Лосевские пороги, Игора, Коробицыно, Вуокса. Веревочный парк Да Винчи и База отдыха Вороний Хутор в 2 км. Конный клуб Красный конь 9 км. &#13;
+&#13;
+Есть возможность подключить все необходимые коммуникации:&#13;
+&#13;
+- электричество 15 кВт, &#13;
+&#13;
+- зимний водопровод, скважина работает, &#13;
+&#13;
+- газ будет подведен в 2022 г. &#13;
+&#13;
+- дороги асфальтированная крошка.&#13;
+&#13;
+Цена 1 900 000 тысяч рублей. Возможна рассрочка и ипотека. &#13;
+&#13;
+Звоните или пишете прямо сейчас! Встречайте рассветы и закаты в своем доме!</Description>
+    <Address>Ленинградская обл. Приозерский р-н Борисово дер.</Address>
+    <CadastralNumber>47:03:1106002:254</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>1900000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(960)-244-17-86</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(960)-244-17-86</Phone>
+      <Email>i.baturo@gcn-spb.ru</Email>
+      <FirstName>Иван</FirstName>
+      <LastName>Батуро</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84677</ExternalId>
+    <Description>Продается отличный зимний дом с большим участком.Есть много стройматериалов.Отличное расположение,удобный подъезд .Недалеко город.Живописное место,лес,водоем.</Description>
+    <Address>Ленинградская обл. Лужский р-н Дивенская массив</Address>
+    <CadastralNumber>47-29;1001002;48</CadastralNumber>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <TotalArea>52</TotalArea>
+    <AllRoomsArea>+48</AllRoomsArea>
+    <KitchenArea>7</KitchenArea>
+    <Building>
+      <FloorsCount>2</FloorsCount>
+      <BuildYear>2000</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>1650000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(951)-684-75-47</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(951)-684-75-47</Phone>
+      <Email>marin-66@list.ru</Email>
+      <FirstName>Марина</FirstName>
+      <LastName>Калинина</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84679</ExternalId>
+    <Description>Продаю участок 3,6 гектара плодородной земли крестьянско-фермерского хозяйства. Проведены мелиоративные канавы. Подведено электричество 15 кВт. Подъезд по асфальту 900 метров плюс 250 метров грунтовка.</Description>
+    <Address>Ленинградская обл. Гатчинский р-н Бол. Верево дер.</Address>
+    <CadastralNumber>47:23:0259002:212</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>3300000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-331-29-05</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-331-29-05</Phone>
+      <Email>tiger30508@yandex.ru</Email>
+      <FirstName>Светлана</FirstName>
+      <LastName>Корнилова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84680</ExternalId>
+    <Description>Продаю участок 1,95 гектара ровного поля сельскохозяйственного назначения, категория: сельскохозяйственное производство. Проведены мелиоративные канавы. Подъезд асфальтирован по деревне, далее накатанная грунтовка метров 200.</Description>
+    <Address>Ленинградская обл. Гатчинский р-н Бол. Верево дер.</Address>
+    <CadastralNumber>47:23:0259002:45</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>1750000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-331-29-05</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-331-29-05</Phone>
+      <Email>tiger30508@yandex.ru</Email>
+      <FirstName>Светлана</FirstName>
+      <LastName>Корнилова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84681</ExternalId>
+    <Description>В продаже кирпичный дом oбщей площaдью 86 кв.м c мeбeлью и бытoвoй тeхникой, центpaльный вoдoпровoд и канализация, гopячая вoда, 4 кoмнaты (17+8+12+12) куxня 12 м2, окна cтеклoпaкеты , центральное  отопление , камин , на пoлу линолеум , пoдвал с высотой потолка 2 м ,веpaндa, зeмeльный учaсток 5 соток , огород, фруктовый сад, гараж на 2 автомобиля, баня. Дом находится в живописном месте, в окружении сосен,недалеко от реки ,кругом леса, много озер, хорошее место для грибников, рыболовов и охотников.</Description>
+    <Address>Псковская обл. Себежский р-н Идрица пос.  д.70</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>4</FlatRoomsCount>
+    <TotalArea>86</TotalArea>
+    <AllRoomsArea>+49</AllRoomsArea>
+    <KitchenArea>12</KitchenArea>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+      <BuildYear>2002</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>2800000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(901)-305-98-44</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(901)-305-98-44</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(901)-305-98-44</Phone>
+      <Email>al.surguchev@mail.ru</Email>
+      <FirstName>Алексей</FirstName>
+      <LastName>Сургучев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84682</ExternalId>
+    <Description>Стремитесь убежать из муравейника? &#13;
+Делайте это не задумываясь.&#13;
+Хотите из пыльных мест города переселиться ближе к природе, где чистый воздух, хорошая вода и размеренная жизнь, то это Ваш ВАРИАНТ!&#13;
+Клубный коттеджный поселок образцового содержания, который расположен на лесной опушке, рядом с бобровым заповедником подарит вам сказочную атмосферу и свою удивительную ауру!&#13;
+Благородство и культура царит в поселке.&#13;
+Приезжайте, посмотрите сами! &#13;
+Покупайте, не пожалеете! Звоните сейчас!&#13;
+</Description>
+    <Address>Ленинградская обл. Ломоносовский р-н Хутор близ Извары КП</Address>
+    <CadastralNumber>47:14:0803001:58</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>5500000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(904)-649-19-44</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(904)-649-19-44</Phone>
+      <Email>gr.irina178@gmail.com</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Григорьева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84683</ExternalId>
+    <Description>Большие участки и красивые дома!&#13;
+Почти готов!&#13;
+Хозяева уже выстроили гостевой дом+баню. Приступили к закладке большого дома по шикарному проекту. Проложили все нужные коммуникации и готовы передать добрым людям большой начиненый участок. &#13;
+Вы получите много простора в этом малонаселенном чистом поселке, где царит добрая соседская атмосфера. &#13;
+Неподалеку расположены  комфортабельные конные клубы и гольф клуб мирового уровня. Это даст Вам возможность получить  массу положительных эмоций и успокоительное Вам не потребуется.&#13;
+Здесь очень тихо и красиво. Вокруг лес. С идеальными дорогами, освещением и охраной чувствуешь себя в безопасности.&#13;
+Приезжайте и сами все посмотрите. &#13;
+Не теряйте времени! ЗВОНИТЕ СРАЗУ!&#13;
+</Description>
+    <Address>Ленинградская обл. Ломоносовский р-н Лопухинка пос.</Address>
+    <CadastralNumber>47:14:0803001:58 </CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea>300</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>2</FloorsCount>
+      <BuildYear>2018</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>5499000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(904)-649-19-44</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(904)-649-19-44</Phone>
+      <Email>gr.irina178@gmail.com</Email>
+      <FirstName>Ирина</FirstName>
+      <LastName>Григорьева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84687</ExternalId>
+    <Description> Участок (категория земель-земли нас. пунктов) ровный, сухой, межевание произведено. Электричество есть, на участок не заведено. Газификация до участка будет через год. Вода-на каждом участке свой колодец (глубина залегания воды от 10 до 20м) на участке не выкопан."Урожай-2".Очень развитая инфраструктура: магазины, школа, детский сад, отделения почты и банка и т.д. Соседи проживают круглогодично.     </Description>
+    <Address>Ленинградская обл. Гатчинский р-н Кобралово пос.</Address>
+    <CadastralNumber>47:23:0301010:61</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>1350000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-941-85-55</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-941-85-55</Phone>
+      <Email>vorobyovr@mail.ru</Email>
+      <FirstName>Руслан</FirstName>
+      <LastName>Воробьев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84695</ExternalId>
+    <Description>Уникальное предложение- комфортабельный частный дом на участке ИЖС в черте города (регистрация по месту проживания - Спб). Дом 188 кв.м. До ж/д ст.Старый Петергоф - 7 мин пешком, до остановки автобусов/маршруток в Спб - 5 мин.пешком, до КАД - два выезда в 3х минутах от дома. Вся городская инфраструктура в шаговой доступности (гимназия, лицей, школы, сады, "Лента", "Перекресток", "Магнит", "Дикси", банки и т.д.)Рядом, по улице, приватный чистый пруд для купания. В 5 минутах - парк Сергиевка (Усадьба Лехтенбергских). &#13;
+1 этаж - 94м: 4 спальни, гостиная, кухня, ванная 10м, разд.с/у, холл - 15м, котельная. "Евро" ремонт: натяжные потолки со встр. светильниками во всех помещениях, деревянные стеклопакеты.&#13;
+2 этаж - 94м, с высоким коньком - свободная планировка, без отделки. Под коньком можно сделать  третий этаж в 2,5м высотой. Произведена полная реконструкция и капитальный ремонт. К бетонному ленточному фундаменту добавлены сваи и двутавр, отсыпан заново подвал, реконструированы перекрытия.Дом очень тёплый.магистральный газ,&#13;
+электричество - 15 кВт. Своя скважина,септик на 10 человек (обслуживание - раз в 5-7 лет).Покупателю в подарок остаются часть мебели и бытовая техника в хорошем состоянии.&#13;
+ Участок ИЖС 8 соток разработан, плодоносящие слива, вишня, малина, яблони, груши, клубника, смородина.Дровяная русская баня, гараж 30 кв.м Имеются 2 доп. сотки, на которых можно установить детскую площадку или организовать парковку.  &#13;
+</Description>
+    <Address>Петродворцовый р-н Петергоф г. Дзержинского ул.</Address>
+    <CadastralNumber>78:40:0019344:3031</CadastralNumber>
+    <FlatRoomsCount>4</FlatRoomsCount>
+    <TotalArea>188</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>10900000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-985-91-41</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-086-54-07</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-985-91-41</Phone>
+      <Email>borom16@bk.ru</Email>
+      <FirstName>Евгения</FirstName>
+      <LastName>Троицкая</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84696</ExternalId>
+    <Description>Продается 3-х этажный (2 этажа и мансардный этаж) дом недалеко от большого озера в Шувалово-Озерки. В доме 6 комнат ,4 камина, 3 ванных комнаты с душевыми кабинами и туалетами, оборудованы 2 просторных летних сада с разных сторон дома на втором этаже, 2 веранды на первом этаже. Очень качественная деревянная лестница, качественная и дорогая отделка внутри дома. На участке есть баня, есть гостевой дом, 1- этажный полноценный, зимний с качественным ремонтом, есть дом для охраны, пригодный для постоянного проживания, так же имеется помещение с бассейном, двумя джакузи и душевой кабиной в помещении, есть гараж с подъемными воротами, на две машины, при въезде на территорию оборудована парковка с крышей на три машины. Есть складское помещение для хранения инструментов. На территории оборудован небольшой пруд, беседка, два вольера для собак, неподъёмный камин точно останется при продаже! Имеется собственный генератор, газ, вода, электричество 380 вт. </Description>
+    <Address>Санкт-Петербург г. Выборгский Береговая ул.  д.9</Address>
+    <CadastralNumber>78:36:0005442:53</CadastralNumber>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <TotalArea>400</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>3</FloorsCount>
+      <BuildYear>2006</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>75000000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-907-00-26</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-907-00-26</Phone>
+      <Email>9070026@bk.ru</Email>
+      <FirstName>Екатерина</FirstName>
+      <LastName>Никитина</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84704</ExternalId>
+    <Description>СНТ Союз.10 линия.Небольшое уютное садоводство. Круглогодичный подъезд. На участке два дома. Один готов полностью, второй требует внутренней отделки.  В доме есть сауна, душ. Участок ухожен, есть плодовые деревья, кусты ягод.Все в отличном состоянии. На территории посёлка работает медпункт по ОМС. По документам-это два участка Рядом есть небольшое озеро. </Description>
+    <Address>Ленинградская обл. Всеволожский р-н Лехтуси дер.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>6</FlatRoomsCount>
+    <TotalArea>180</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>3</FloorsCount>
+      <BuildYear>2010</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>6490000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-950-09-26</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-950-09-26</Phone>
+      <Email>nichvolodina@mail.ru</Email>
+      <FirstName>Елена</FirstName>
+      <LastName>Ничволодина</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84701</ExternalId>
+    <Description>Продается земля  с домом в частном секторе  Санкт Петербурга Красносельского района , в доме 4 комнаты, кухня, веранда, туалет, цвет, вода газ подведен к дому но не подключён. есть второй этаж. Участок в 10 минутах пешком от станции Лигово, городская прописка. Документы готовы. Собственник один взрослый. Звоните покажем. </Description>
+    <Address>Санкт-Петербург г. Красносельский Заводская 1 ул.</Address>
+    <CadastralNumber>78:8521в:11</CadastralNumber>
+    <FlatRoomsCount>4</FlatRoomsCount>
+    <TotalArea>143</TotalArea>
+    <AllRoomsArea>+8</AllRoomsArea>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>2</FloorsCount>
+      <BuildYear>1961</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>8750000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-253-02-51</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-253-02-51</Phone>
+      <Email>2530251@mail.ru</Email>
+      <FirstName>Наталия</FirstName>
+      <LastName>Руденко</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84702</ExternalId>
+    <Description>Прoдаeтcя учаcтoк 6 соток (ИЖС) с 1/2 дома 1961 г.п. Всего 12 сот на участке. С перспективой выкупа всей территории, если есть намерения примем участие в согласовании продажи всей территории!!! Пpекpаcнoе местo для дaчи или поcтoяннoгo пpоживания, ул. Ленинградская, д.17.&#13;
+Участок разработан,свет, вода, газ можно провести, мы не живем там, поэтому нет необходимости. От Кировска 15 минут, поселок МГА с развитой инфраструктурой,недалеко школа,магазины, в пешей доступности ж.д.станция.&#13;
+Электpички до стaнции MГА с мeтро "Рыбацкое" -40 минут,&#13;
+Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно дoеxать пo Mурманскoму шоccе.&#13;
+Документы готовы, земля в частной собственности.</Description>
+    <Address>Ленинградская обл. Кировский р-н Мга пгт.  д.17</Address>
+    <CadastralNumber>47:16:0801001:1858</CadastralNumber>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <TotalArea>80</TotalArea>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+      <BuildYear>1961</BuildYear>
+    </Building>
+    <BargainTerms>
+      <Price>900000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-907-00-26</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-907-00-26</Phone>
+      <Email>9070026@bk.ru</Email>
+      <FirstName>Екатерина</FirstName>
+      <LastName>Никитина</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84703</ExternalId>
+    <Description>Предлагается к продаже отличный участок в одном из самых экологически чистых районов Санкт-Петербурга, ИЖС, городская прописка, собственность, 17 соток (можно увеличить до 20). На участке газ, есть возможность подключения к водопроводу. Однородный социальный состав соседей. Магазины (Лента, Верный), школы, поликлиники, детские сады - развитая инфраструктура.</Description>
+    <Address>Петродворцовый р-н Петергоф г. Солнечная ул.  д.96</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>10900000</Price>
+      <MortgageAllowed>1</MortgageAllowed>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-918-52-57</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-918-52-57</Phone>
+      <Email>sobis99@yandex.ru</Email>
+      <FirstName>Юлия</FirstName>
+      <LastName>Егерева</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84705</ExternalId>
+    <Description>Ленинградская область Волосовский район. &#13;
+&#13;
+Бегуницкое сельское поселение д. Местаново&#13;
+Рядом Бегуницы со всеми магазинами, банками, поликлиника и, школами&#13;
+Участок 30 cоток&#13;
+Статус ЗЕМЛЯ НАСЕЛЕННЫХ ПУНКТОВ ( за дороги и пр. траты — платит государство)&#13;
+Документы готовы. </Description>
+    <Address>Ленинградская обл. Волосовский р-н Местаново дер.</Address>
+    <CadastralNumber/>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>750000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-253-02-51</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-253-02-51</Phone>
+      <Email>2530251@mail.ru</Email>
+      <FirstName>Наталия</FirstName>
+      <LastName>Руденко</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84706</ExternalId>
+    <Description>Прямая продажа, 15 км от Санкт-Петербурга продается участок 12 соток в Парголово (ориентировочно угол Норильской и Кабаловской улиц), ИЖС (категория земель - земли населенных пунктов для размещения индивидуального жилого дома. Санкт-Петербургская прописка. Межевание проведено. На публичной карте участок отмечен. Реальный раздел земельного участка был произведен в 2007 году (ранее  было капустное поле). Участок сухой, высокий, прямоугольной формы. На участке стоит бытовка, электрический столб со счетчиком (электричество - 15 КВт), поселок газифицирован, установлены  водопроводные колодцы и колодцы для центральной канализации. Сделана отсыпка участка  - завезено 300 м куб. песка, на участок завезена земля плодородная для формирования почвы на участке. Сделана подготовка под фундамент, под фундамент заведены трубы для канализации и гильзы под воду, электричество, коммуникации. Для подъезда к фундаменту по всем правилам сделана дорога для заезда тяжелых машин (с грузом до 50 тонн). Подготовлена площадка для фундамента размером 15Х18 кв.м, подготовка сделана под любой фундамент. У продавца подготовлен интересный в европейском стиле проект дома для этого участка.  Вокруг все собственники обустраиваются. Участок расположен в зеленой зоне. 15-20 минут  до Шуваловского парка с достопримечательностями: Церковь святых апостолов Петра и Павла в готическом стиле, озера, конный клуб, где можно совершать конные прогулки и экскурсии. В Парголово в наличии вся инфраструктура: магазины, аптеки, школа. Ж/д станция Парголово до нее от участка 10-15 минут пешком. Ходят автобусы: 397 до ул. Жени Егорова, маршрутка К-01 до метро Просвещения (15 минут и вы в городе). 1 собственник. Срочно. Документы готовы.</Description>
+    <Address>Санкт-Петербург г. Выборгский Парголово, Кабаловская ул.</Address>
+    <CadastralNumber>78:36:0013250:1356</CadastralNumber>
+    <FlatRoomsCount>0</FlatRoomsCount>
+    <TotalArea/>
+    <AllRoomsArea/>
+    <KitchenArea/>
+    <Building/>
+    <BargainTerms>
+      <Price>12800000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-211-97-28</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(911)-211-97-28</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(911)-211-97-28</Phone>
+      <Email>tte1954@mail.ru</Email>
+      <FirstName>Тамара</FirstName>
+      <LastName>Тихомирова</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
+  </object>
+  <object>
+    <ExternalId>84707</ExternalId>
+    <Description>Уютный жилой дом,готовый завтра стать Вашим круглогодичным местом проживания.Прекрасный участок с фруктовыми деревьями,отличной русской баней и гостевым домиком.800 метров до города Шлиссельбург.Рядом Ладога и лес.</Description>
+    <Address>Ленинградская обл. Кировский р-н Шлиссельбург г. Еловая ул.  д.18</Address>
+    <CadastralNumber>47:16:0110006:9</CadastralNumber>
+    <FlatRoomsCount>3</FlatRoomsCount>
+    <TotalArea>100</TotalArea>
+    <AllRoomsArea>+72</AllRoomsArea>
+    <KitchenArea>15</KitchenArea>
+    <Building>
+      <FloorsCount>2</FloorsCount>
+    </Building>
+    <BargainTerms>
+      <AgentBonus>
+        <Value>150</Value>
+        <Currency>rur</Currency>
+      </AgentBonus>
+      <Price>4150000</Price>
+      <Currency>rur</Currency>
+    </BargainTerms>
+    <Category>flatSale</Category>
+    <Category>flatSale</Category>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>(921)-313-35-14</Number>
+      </PhoneSchema>
+    </Phones>
+    <SubAgent>
+      <Phone>(921)-313-35-14</Phone>
+      <Email>sp196007@mail.ru</Email>
+      <FirstName>Сергей</FirstName>
+      <LastName>Жидяев</LastName>
+    </SubAgent>
+    <Category>flatSale</Category>
   </object>
 </feed>
