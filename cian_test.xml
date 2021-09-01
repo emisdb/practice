@@ -4193,6 +4193,11 @@
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
+    <Land>
+      <Area>6</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>gardening</Status>
+    </Land>
     <BargainTerms>
       <Price>1099000</Price>
       <Currency>rur</Currency>
@@ -4290,6 +4295,11 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
+    <Land>
+      <Area>12</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>30000000</Price>
       <Currency>rur</Currency>
@@ -4457,6 +4467,11 @@
       <FloorsCount>2</FloorsCount>
       <BuildYear>1999</BuildYear>
     </Building>
+    <Land>
+      <Area>15</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>1500000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -4567,6 +4582,11 @@
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
+    <Land>
+      <Area>15.7</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>1500000</Price>
       <Currency>rur</Currency>
@@ -4600,6 +4620,11 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
+    <Land>
+      <Area>24</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>29999000</Price>
       <Currency>rur</Currency>
@@ -4654,6 +4679,11 @@
     <Building>
       <FloorsCount>2</FloorsCount>
     </Building>
+    <Land>
+      <Area>14</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>gardening</Status>
+    </Land>
     <BargainTerms>
       <Price>1650000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -4741,6 +4771,11 @@
       <FloorsCount>2</FloorsCount>
       <BuildYear>2000</BuildYear>
     </Building>
+    <Land>
+      <Area>20</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>gardening</Status>
+    </Land>
     <BargainTerms>
       <Price>1650000</Price>
       <Currency>rur</Currency>
@@ -4838,6 +4873,11 @@
       <FloorsCount>1</FloorsCount>
       <BuildYear>2002</BuildYear>
     </Building>
+    <Land>
+      <Area>5</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>2800000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -4922,6 +4962,11 @@
       <FloorsCount>2</FloorsCount>
       <BuildYear>2018</BuildYear>
     </Building>
+    <Land>
+      <Area>26</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>suburbanNonProfitPartnership</Status>
+    </Land>
     <BargainTerms>
       <Price>5499000</Price>
       <Currency>rur</Currency>
@@ -4989,6 +5034,11 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
+    <Land>
+      <Area>8</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>10900000</Price>
       <Currency>rur</Currency>
@@ -5024,6 +5074,11 @@
       <FloorsCount>3</FloorsCount>
       <BuildYear>2006</BuildYear>
     </Building>
+    <Land>
+      <Area>26</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>75000000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -5056,6 +5111,11 @@
       <FloorsCount>3</FloorsCount>
       <BuildYear>2010</BuildYear>
     </Building>
+    <Land>
+      <Area>13</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>gardening</Status>
+    </Land>
     <BargainTerms>
       <Price>6490000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -5088,6 +5148,11 @@
       <FloorsCount>2</FloorsCount>
       <BuildYear>1961</BuildYear>
     </Building>
+    <Land>
+      <Area>9</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>8750000</Price>
       <Currency>rur</Currency>
@@ -5263,6 +5328,11 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <Building>
       <FloorsCount>2</FloorsCount>
     </Building>
+    <Land>
+      <Area>5</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>gardening</Status>
+    </Land>
     <BargainTerms>
       <AgentBonus>
         <Value>150</Value>
