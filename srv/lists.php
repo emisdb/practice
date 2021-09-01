@@ -149,6 +149,16 @@ return array(
 		6 => 'houseShareSale' ,
 		7 => 'townhouseSale' ,
 	),
+	'gcn_list_country_type_property'=>array(
+		2 => 'suburbanNonProfitPartnership',
+		3 => 'individualHousingConstruction',
+		4 => 'gardening' ,
+		5 => 'farm' ,
+		6 => 'privateFarm' ,
+		7 => 'suburbanNonProfitPartnership' ,
+		8 => 'industrialLand' ,
+		9 => 'privateFarm' ,
+	),
 );
 
 

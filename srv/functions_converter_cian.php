@@ -281,6 +281,12 @@ function workflow($arr_type,$row_res,$object,$document,$lists) {
                     $object->appendChild($document->createElement($key,conv_complex($row_res,$value[1])));
                     break;
                 case 3:
+                    if(!empty($value[2])) {
+//                        var_dump($value[2]);
+                        if(!in_array($row_res[$value[2][0]], $value[2][1]) ){
+                            continue;
+                        }
+                    }
                     set_fields($key,$value,$row_res,$object,$document,$lists);
                      break;
                 case 4:

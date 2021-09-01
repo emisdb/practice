@@ -162,6 +162,13 @@ return array(
 					array('FloorsCount'		=> array(0,"floors")),
 					array('BuildYear'		=> array(0,"year_build")),
 				)),
+				'Land'			=> array(3,array(
+					array('Area'		=> array(0,"area")),
+					array('AreaUnitType'		=> array(1,"sotka")),
+					array('Status'		=> array(5,"gcn_list_country_type_property","id_type_property")),
+				),
+					array('id_obj_type' , array(4,2,3))
+				),
 				'BargainTerms'				=> array(3,array(
 					array('Price'			=> array(0,"price")),
 					array('MortgageAllowed'	=> array(0,"hypothec")),
