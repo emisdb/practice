@@ -247,7 +247,7 @@
     <RoomsForSaleCount>2</RoomsForSaleCount>
     <RoomsCount>10</RoomsCount>
     <FlatRoomsCount>6</FlatRoomsCount>
-    <RoomArea>20.2+17.4</RoomArea>
+    <RoomArea>37.6</RoomArea>
     <TotalArea>259.9</TotalArea>
     <FloorNumber>3</FloorNumber>
     <KitchenArea>15.9</KitchenArea>
@@ -323,7 +323,7 @@
     <RoomsForSaleCount>1</RoomsForSaleCount>
     <RoomsCount>5</RoomsCount>
     <FlatRoomsCount>5</FlatRoomsCount>
-    <RoomArea>22.60</RoomArea>
+    <RoomArea>22.6</RoomArea>
     <TotalArea>131.6</TotalArea>
     <FloorNumber>1</FloorNumber>
     <KitchenArea>12.5</KitchenArea>
@@ -404,7 +404,7 @@
     <RoomsForSaleCount>2</RoomsForSaleCount>
     <RoomsCount>3</RoomsCount>
     <FlatRoomsCount>3</FlatRoomsCount>
-    <RoomArea/>
+    <RoomArea>10</RoomArea>
     <TotalArea>61</TotalArea>
     <FloorNumber>3</FloorNumber>
     <KitchenArea>10</KitchenArea>
