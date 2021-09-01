@@ -4156,11 +4156,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>6</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>gardening</Status>
-    </Land>
     <BargainTerms>
       <Price>350000</Price>
       <Currency>rur</Currency>
@@ -4221,11 +4216,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>400</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>farm</Status>
-    </Land>
     <BargainTerms>
       <Price>4200000</Price>
       <Currency>rur</Currency>
@@ -4258,11 +4248,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>15</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>gardening</Status>
-    </Land>
     <BargainTerms>
       <Price>150000</Price>
       <Currency>rur</Currency>
@@ -4318,11 +4303,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>6</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>industrialLand</Status>
-    </Land>
     <BargainTerms>
       <Price>1000000</Price>
       <Currency>rur</Currency>
@@ -4361,11 +4341,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>120</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>individualHousingConstruction</Status>
-    </Land>
     <BargainTerms>
       <Price>19950000</Price>
       <Currency>rur</Currency>
@@ -4415,11 +4390,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>82</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>individualHousingConstruction</Status>
-    </Land>
     <BargainTerms>
       <AgentBonus>
         <Value>1</Value>
@@ -4498,11 +4468,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>105</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>industrialLand</Status>
-    </Land>
     <BargainTerms>
       <Price>2100000</Price>
       <Currency>rur</Currency>
@@ -4532,11 +4497,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>6</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>gardening</Status>
-    </Land>
     <BargainTerms>
       <Price>700000</Price>
       <Currency>rur</Currency>
@@ -4705,11 +4665,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>13</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>individualHousingConstruction</Status>
-    </Land>
     <BargainTerms>
       <Price>1900000</Price>
       <Currency>rur</Currency>
@@ -4769,11 +4724,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>360</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>farm</Status>
-    </Land>
     <BargainTerms>
       <Price>3300000</Price>
       <Currency>rur</Currency>
@@ -4802,11 +4752,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>195</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>industrialLand</Status>
-    </Land>
     <BargainTerms>
       <Price>1750000</Price>
       <Currency>rur</Currency>
@@ -4878,11 +4823,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>26</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>suburbanNonProfitPartnership</Status>
-    </Land>
     <BargainTerms>
       <Price>5500000</Price>
       <Currency>rur</Currency>
@@ -4950,11 +4890,6 @@
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>7.69</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>privateFarm</Status>
-    </Land>
     <BargainTerms>
       <Price>1350000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -5151,11 +5086,6 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>17</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>individualHousingConstruction</Status>
-    </Land>
     <BargainTerms>
       <Price>10900000</Price>
       <MortgageAllowed>1</MortgageAllowed>
@@ -5191,11 +5121,6 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>30</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>individualHousingConstruction</Status>
-    </Land>
     <BargainTerms>
       <Price>750000</Price>
       <Currency>rur</Currency>
@@ -5224,11 +5149,6 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <AllRoomsArea/>
     <KitchenArea/>
     <Building/>
-    <Land>
-      <Area>12</Area>
-      <AreaUnitType>sotka</AreaUnitType>
-      <Status>individualHousingConstruction</Status>
-    </Land>
     <BargainTerms>
       <Price>12800000</Price>
       <Currency>rur</Currency>
