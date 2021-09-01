@@ -4155,6 +4155,7 @@
     <TotalArea>0</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>6</Area>
@@ -4190,6 +4191,7 @@
     <TotalArea>35</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
@@ -4225,6 +4227,7 @@
     <TotalArea>0</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>400</Area>
@@ -4262,6 +4265,7 @@
     <TotalArea>0</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>15</Area>
@@ -4294,6 +4298,7 @@
     <TotalArea>120</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>12</Area>
@@ -4327,6 +4332,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>6</Area>
@@ -4370,6 +4376,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>120</Area>
@@ -4424,6 +4431,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>82</Area>
@@ -4463,6 +4471,7 @@
     <TotalArea>170</TotalArea>
     <AllRoomsArea>+80</AllRoomsArea>
     <KitchenArea>12</KitchenArea>
+    <ShareAmount/>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>1999</BuildYear>
@@ -4512,6 +4521,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>105</Area>
@@ -4546,6 +4556,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>6</Area>
@@ -4579,6 +4590,7 @@
     <TotalArea>35</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
@@ -4619,6 +4631,7 @@
     <TotalArea>300</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>24</Area>
@@ -4676,6 +4689,7 @@
     <TotalArea>105</TotalArea>
     <AllRoomsArea>+90</AllRoomsArea>
     <KitchenArea>15</KitchenArea>
+    <ShareAmount/>
     <Building>
       <FloorsCount>2</FloorsCount>
     </Building>
@@ -4734,6 +4748,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>13</Area>
@@ -4767,6 +4782,7 @@
     <TotalArea>52</TotalArea>
     <AllRoomsArea>+48</AllRoomsArea>
     <KitchenArea>7</KitchenArea>
+    <ShareAmount/>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>2000</BuildYear>
@@ -4803,6 +4819,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>360</Area>
@@ -4836,6 +4853,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>195</Area>
@@ -4869,6 +4887,7 @@
     <TotalArea>86</TotalArea>
     <AllRoomsArea>+49</AllRoomsArea>
     <KitchenArea>12</KitchenArea>
+    <ShareAmount/>
     <Building>
       <FloorsCount>1</FloorsCount>
       <BuildYear>2002</BuildYear>
@@ -4917,6 +4936,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>26</Area>
@@ -4958,6 +4978,7 @@
     <TotalArea>300</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>2018</BuildYear>
@@ -4994,6 +5015,7 @@
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>7.69</Area>
@@ -5033,6 +5055,7 @@
     <TotalArea>188</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>8</Area>
@@ -5070,6 +5093,7 @@
     <TotalArea>400</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building>
       <FloorsCount>3</FloorsCount>
       <BuildYear>2006</BuildYear>
@@ -5107,6 +5131,7 @@
     <TotalArea>180</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building>
       <FloorsCount>3</FloorsCount>
       <BuildYear>2010</BuildYear>
@@ -5144,6 +5169,7 @@
     <TotalArea>143</TotalArea>
     <AllRoomsArea>+8</AllRoomsArea>
     <KitchenArea/>
+    <ShareAmount/>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>1961</BuildYear>
@@ -5184,6 +5210,7 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <TotalArea>80</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount>1/2</ShareAmount>
     <Building>
       <FloorsCount>1</FloorsCount>
       <BuildYear>1961</BuildYear>
@@ -5215,6 +5242,7 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>17</Area>
@@ -5255,6 +5283,7 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>30</Area>
@@ -5288,6 +5317,7 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
+    <ShareAmount/>
     <Building/>
     <Land>
       <Area>12</Area>
@@ -5325,6 +5355,7 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <TotalArea>100</TotalArea>
     <AllRoomsArea>+72</AllRoomsArea>
     <KitchenArea>15</KitchenArea>
+    <ShareAmount/>
     <Building>
       <FloorsCount>2</FloorsCount>
     </Building>
