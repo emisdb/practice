@@ -5215,6 +5215,11 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
       <FloorsCount>1</FloorsCount>
       <BuildYear>1961</BuildYear>
     </Building>
+    <Land>
+      <Area>12</Area>
+      <AreaUnitType>sotka</AreaUnitType>
+      <Status>individualHousingConstruction</Status>
+    </Land>
     <BargainTerms>
       <Price>900000</Price>
       <Currency>rur</Currency>
