@@ -159,6 +159,23 @@ return array(
 		8 => 'industrialLand' ,
 		9 => 'privateFarm' ,
 	),
+	'gcn_list_country_electro'=>array(
+		1 => 0,
+		2 => 0,
+		3 => 1,
+		4 => 4,
+	),
+	'gcn_list_country_water'=>array(
+		1 => 0,
+		2 => 1,
+		3 => 1,
+		4 => 1,
+		5 => 0,
+		6 => 1,
+		7 => 1,
+		8 => 1,
+	),
+//gcn_list_country_water
 );
 
 

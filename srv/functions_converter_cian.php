@@ -221,8 +221,27 @@ function query_builder($arr_type){
                 }
 
             }
-          }
-           foreach ($v_fields as $key => $v_field){
+        }
+        $whereor ="";
+        if(!empty($v_fields['config_where_or'])){
+            foreach ($v_fields['config_where_or'] as $v_field) {
+                if (empty($whereor)){
+                    $whereor = "(gcn.{$v_table}.{$v_field[0]} = {$v_field[1]}";
+                } else {
+                    $whereor.= " OR gcn.{$v_table}.{$v_field[0]} = {$v_field[1]}";
+                }
+
+            }
+            $whereor .= ")";
+            if (empty($where)){
+                $where = $whereor;
+            } else {
+                $where.= " AND ".$whereor;
+            }
+        }
+
+
+            foreach ($v_fields as $key => $v_field){
             if(substr($key, 0, 7) === "config_"){
                 continue;
             }
