@@ -4151,11 +4151,16 @@
     <Description>ж/д Назия. Останавливается "Ласточка." Свет без ограничений. Огорожен, оборудован въезд шириной 7 метров, ворота, электрическая колонка с питьевой водой. Нет соседей: с одной стороны пожарный водоём, с другой соседский огород. На север Ладожское озеро. На юг в получасе ходьбы большое озеро с рыбой. Богатый лес. Садоводство с1988 года. Магазины любые круглый год. Фермерское молоко, сметана, творог. Ладожская и Мурманская рыба разная и в любом виде. </Description>
     <Address>Ленинградская обл. Кировский р-н Назия пос.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>0</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>6</Area>
@@ -4187,13 +4192,22 @@
 </Description>
     <Address>Ленинградская обл. Выборгский р-н Чайка дер.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>2</FlatRoomsCount>
+    <BedroomsCount>2</BedroomsCount>
     <TotalArea>35</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>outdoors</WcLocationType>
+    <RepairType>cosmetic</RepairType>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>1</FloorsCount>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>6</Area>
@@ -4223,11 +4237,14 @@
     <Description>Земля сельхоз назначения 4.02 га. Расстояние от Санкт-Петербурга (автобус от пр. Обуховской обороны) 125 км. Время в пути 1 ч 35 мин. На участке 100 кубометров леса, имеется разрешение на спил.Рядом посёлок Новая Деревня.Живописное место. В 7 минутах ходьбы река Вуокса. В этих местах популярна охота и рыбалка. К участку подходит дорога. До курорта Игора 35-40 минут.</Description>
     <Address>Ленинградская обл. Приозерский р-н Новая Деревня дер.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>0</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>400</Area>
@@ -4261,11 +4278,14 @@
     <Description>Продается отличный участок в поселке городского типа Палкино. В поселке есть все как для постоянного проживания, так и для отдыха. Школа, детсад, поликлиника, больница, почта, сбербанк, школа. Торг </Description>
     <Address>Псковская обл. Палкинский р-н Палкино пгт.  д.11</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>0</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>15</Area>
@@ -4294,11 +4314,14 @@
     <Description>Озерки.В продаже отличный участок.Дом+ 12 соток в Выборгском районе С-Петербурга.Месторасположение Озерки и метро Удельная в пешей доступности, соответственно вся инфраструктура тоже В нескольких минутах пешком красивейшие Суздальские озёра и парк Сосновка.Очень живописное место.Частный дом.Все коммуникации,центральное отопление.Меридиальная улица в исторических районах Озерки и Шувалово.Рядом метро Озерки,700 метров.Железнодорожная платформа Озерки- около 350 м.Движение наземного общественного транспорта по улице отсутствует.Рядом все заведения по 50 направлениям(медицина,красота,бытовые и коммерческие услуги и многое др.)</Description>
     <Address>Санкт-Петербург г. Выборгский</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>120</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>12</Area>
@@ -4328,11 +4351,14 @@
     <Description>Электрический столб рядом с участком. Сухой, ровный, с плодородной землёй. Фундамент ленточный ширина 40 см, высота 80 см, мало заглублённый, бетон заводской М350,наполнитель-щебень гранитный, арматура стекловолоконная (композитная). Фундамент годится под любые стены: кирпич, блоки, каркас, бревно, брус.....сэндвич-панели? или монолит? что-то ещё? Просмотры в любое время. по дарению.</Description>
     <Address>Ленинградская обл. Всеволожский р-н Углово пос.</Address>
     <CadastralNumber>47:07:0953002:0090</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>6</Area>
@@ -4372,11 +4398,16 @@
 Документы готовы.</Description>
     <Address>Карелия Лахденпохский р-н Ласанен пос.</Address>
     <CadastralNumber>10:12:0051302:660</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>120</Area>
@@ -4427,11 +4458,15 @@
 При формировании понимания о необходимости увеличения потребляемой мощности- есть возможность устанавливать непосредственно на территории участка трансформаторные подстанции соответствующей мощности</Description>
     <Address>Ленинградская обл. Тихвинский р-н Тихвин г.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>82</Area>
@@ -4467,14 +4502,25 @@
 </Description>
     <Address>другие Регионы России Ростовская область Рябовский хутор  д.28</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>4</FlatRoomsCount>
+    <BedroomsCount>4</BedroomsCount>
     <TotalArea>170</TotalArea>
     <AllRoomsArea>+80</AllRoomsArea>
     <KitchenArea>12</KitchenArea>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasGas>1</HasGas>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>design</RepairType>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>1999</BuildYear>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>autonomousGas</HeatingType>
     </Building>
     <Land>
       <Area>15</Area>
@@ -4517,11 +4563,15 @@
 Звоните или пишете прямо сейчас! Успейте купить сегодня по выгодной цене!</Description>
     <Address>Ленинградская обл. Всеволожский р-н Ириновка пос.</Address>
     <CadastralNumber>47:07:0953004:197</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>105</Area>
@@ -4552,11 +4602,17 @@
 Торг.</Description>
     <Address>Ленинградская обл. Выборгский р-н Горьковское пос.</Address>
     <CadastralNumber>47:01:17-69-008:0044</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>outdoors</WcLocationType>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>6</Area>
@@ -4586,13 +4642,19 @@
     <Description>105 км от Петербурга, дорога асфальт, большой яблоневый сад, два парника. Пристроена к дому веранда. Земля разработана, удобрена. Новый забор вокруг усадьбы. От вокзала 10 минут пешком. Асфальтовая дорога до самого дома.</Description>
     <Address>Новгородская обл. Чудовский р-н Чудово г Грузинское ш.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>35</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>1</FloorsCount>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>15.7</Area>
@@ -4627,12 +4689,18 @@
 </Description>
     <Address>Ленинградская обл. Выборгский р-н Рощино пгт.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>300</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
-    <Building/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
+    <Building>
+      <MaterialType>brick</MaterialType>
+      <HeatingType>autonomousGas</HeatingType>
+    </Building>
     <Land>
       <Area>24</Area>
       <AreaUnitType>sotka</AreaUnitType>
@@ -4685,13 +4753,23 @@
 </Description>
     <Address>Ленинградская обл. Лужский р-н Дивенская массив</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>6</FlatRoomsCount>
+    <BedroomsCount>7</BedroomsCount>
     <TotalArea>105</TotalArea>
     <AllRoomsArea>+90</AllRoomsArea>
     <KitchenArea>15</KitchenArea>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>outdoors</WcLocationType>
+    <RepairType>cosmetic</RepairType>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>2</FloorsCount>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>fireplace</HeatingType>
     </Building>
     <Land>
       <Area>14</Area>
@@ -4744,11 +4822,14 @@
 Звоните или пишете прямо сейчас! Встречайте рассветы и закаты в своем доме!</Description>
     <Address>Ленинградская обл. Приозерский р-н Борисово дер.</Address>
     <CadastralNumber>47:03:1106002:254</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>13</Area>
@@ -4778,14 +4859,25 @@
     <Description>Продается отличный зимний дом с большим участком.Есть много стройматериалов.Отличное расположение,удобный подъезд .Недалеко город.Живописное место,лес,водоем.</Description>
     <Address>Ленинградская обл. Лужский р-н Дивенская массив</Address>
     <CadastralNumber>47-29;1001002;48</CadastralNumber>
-    <FlatRoomsCount>3</FlatRoomsCount>
+    <BedroomsCount>3</BedroomsCount>
     <TotalArea>52</TotalArea>
     <AllRoomsArea>+48</AllRoomsArea>
     <KitchenArea>7</KitchenArea>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>outdoors</WcLocationType>
+    <HasGas>1</HasGas>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>cosmetic</RepairType>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>2000</BuildYear>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>20</Area>
@@ -4815,11 +4907,15 @@
     <Description>Продаю участок 3,6 гектара плодородной земли крестьянско-фермерского хозяйства. Проведены мелиоративные канавы. Подведено электричество 15 кВт. Подъезд по асфальту 900 метров плюс 250 метров грунтовка.</Description>
     <Address>Ленинградская обл. Гатчинский р-н Бол. Верево дер.</Address>
     <CadastralNumber>47:23:0259002:212</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>360</Area>
@@ -4849,11 +4945,14 @@
     <Description>Продаю участок 1,95 гектара ровного поля сельскохозяйственного назначения, категория: сельскохозяйственное производство. Проведены мелиоративные канавы. Подъезд асфальтирован по деревне, далее накатанная грунтовка метров 200.</Description>
     <Address>Ленинградская обл. Гатчинский р-н Бол. Верево дер.</Address>
     <CadastralNumber>47:23:0259002:45</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>195</Area>
@@ -4883,14 +4982,25 @@
     <Description>В продаже кирпичный дом oбщей площaдью 86 кв.м c мeбeлью и бытoвoй тeхникой, центpaльный вoдoпровoд и канализация, гopячая вoда, 4 кoмнaты (17+8+12+12) куxня 12 м2, окна cтеклoпaкеты , центральное  отопление , камин , на пoлу линолеум , пoдвал с высотой потолка 2 м ,веpaндa, зeмeльный учaсток 5 соток , огород, фруктовый сад, гараж на 2 автомобиля, баня. Дом находится в живописном месте, в окружении сосен,недалеко от реки ,кругом леса, много озер, хорошее место для грибников, рыболовов и охотников.</Description>
     <Address>Псковская обл. Себежский р-н Идрица пос.  д.70</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>4</FlatRoomsCount>
+    <BedroomsCount>4</BedroomsCount>
     <TotalArea>86</TotalArea>
     <AllRoomsArea>+49</AllRoomsArea>
     <KitchenArea>12</KitchenArea>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>cosmetic</RepairType>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>1</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>1</FloorsCount>
       <BuildYear>2002</BuildYear>
+      <MaterialType>brick</MaterialType>
+      <HeatingType>centralGas</HeatingType>
     </Building>
     <Land>
       <Area>5</Area>
@@ -4932,11 +5042,18 @@
 </Description>
     <Address>Ленинградская обл. Ломоносовский р-н Хутор близ Извары КП</Address>
     <CadastralNumber>47:14:0803001:58</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <HasDrainage>1</HasDrainage>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>26</Area>
@@ -4974,14 +5091,24 @@
 </Description>
     <Address>Ленинградская обл. Ломоносовский р-н Лопухинка пос.</Address>
     <CadastralNumber>47:14:0803001:58 </CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea>300</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>no</RepairType>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>2018</BuildYear>
+      <MaterialType>foamConcreteBlock</MaterialType>
     </Building>
     <Land>
       <Area>26</Area>
@@ -5011,11 +5138,15 @@
     <Description> Участок (категория земель-земли нас. пунктов) ровный, сухой, межевание произведено. Электричество есть, на участок не заведено. Газификация до участка будет через год. Вода-на каждом участке свой колодец (глубина залегания воды от 10 до 20м) на участке не выкопан."Урожай-2".Очень развитая инфраструктура: магазины, школа, детский сад, отделения почты и банка и т.д. Соседи проживают круглогодично.     </Description>
     <Address>Ленинградская обл. Гатчинский р-н Кобралово пос.</Address>
     <CadastralNumber>47:23:0301010:61</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>7.69</Area>
@@ -5051,12 +5182,23 @@
 </Description>
     <Address>Петродворцовый р-н Петергоф г. Дзержинского ул.</Address>
     <CadastralNumber>78:40:0019344:3031</CadastralNumber>
-    <FlatRoomsCount>4</FlatRoomsCount>
+    <BedroomsCount>4</BedroomsCount>
     <TotalArea>188</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
-    <Building/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasGas>1</HasGas>
+    <HasDrainage>1</HasDrainage>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>1</HasGarage>
+    <HasPool>0</HasPool>
+    <Building>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>autonomousGas</HeatingType>
+    </Building>
     <Land>
       <Area>8</Area>
       <AreaUnitType>sotka</AreaUnitType>
@@ -5089,14 +5231,25 @@
     <Description>Продается 3-х этажный (2 этажа и мансардный этаж) дом недалеко от большого озера в Шувалово-Озерки. В доме 6 комнат ,4 камина, 3 ванных комнаты с душевыми кабинами и туалетами, оборудованы 2 просторных летних сада с разных сторон дома на втором этаже, 2 веранды на первом этаже. Очень качественная деревянная лестница, качественная и дорогая отделка внутри дома. На участке есть баня, есть гостевой дом, 1- этажный полноценный, зимний с качественным ремонтом, есть дом для охраны, пригодный для постоянного проживания, так же имеется помещение с бассейном, двумя джакузи и душевой кабиной в помещении, есть гараж с подъемными воротами, на две машины, при въезде на территорию оборудована парковка с крышей на три машины. Есть складское помещение для хранения инструментов. На территории оборудован небольшой пруд, беседка, два вольера для собак, неподъёмный камин точно останется при продаже! Имеется собственный генератор, газ, вода, электричество 380 вт. </Description>
     <Address>Санкт-Петербург г. Выборгский Береговая ул.  д.9</Address>
     <CadastralNumber>78:36:0005442:53</CadastralNumber>
-    <FlatRoomsCount>6</FlatRoomsCount>
+    <BedroomsCount>6</BedroomsCount>
     <TotalArea>400</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasGas>1</HasGas>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>euro</RepairType>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>1</HasGarage>
+    <HasPool>1</HasPool>
     <Building>
       <FloorsCount>3</FloorsCount>
       <BuildYear>2006</BuildYear>
+      <MaterialType>wood</MaterialType>
     </Building>
     <Land>
       <Area>26</Area>
@@ -5127,14 +5280,25 @@
     <Description>СНТ Союз.10 линия.Небольшое уютное садоводство. Круглогодичный подъезд. На участке два дома. Один готов полностью, второй требует внутренней отделки.  В доме есть сауна, душ. Участок ухожен, есть плодовые деревья, кусты ягод.Все в отличном состоянии. На территории посёлка работает медпункт по ОМС. По документам-это два участка Рядом есть небольшое озеро. </Description>
     <Address>Ленинградская обл. Всеволожский р-н Лехтуси дер.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>6</FlatRoomsCount>
+    <BedroomsCount>6</BedroomsCount>
     <TotalArea>180</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>outdoors</WcLocationType>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>cosmetic</RepairType>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>3</FloorsCount>
       <BuildYear>2010</BuildYear>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>13</Area>
@@ -5165,14 +5329,24 @@
     <Description>Продается земля  с домом в частном секторе  Санкт Петербурга Красносельского района , в доме 4 комнаты, кухня, веранда, туалет, цвет, вода газ подведен к дому но не подключён. есть второй этаж. Участок в 10 минутах пешком от станции Лигово, городская прописка. Документы готовы. Собственник один взрослый. Звоните покажем. </Description>
     <Address>Санкт-Петербург г. Красносельский Заводская 1 ул.</Address>
     <CadastralNumber>78:8521в:11</CadastralNumber>
-    <FlatRoomsCount>4</FlatRoomsCount>
+    <BedroomsCount>4</BedroomsCount>
     <TotalArea>143</TotalArea>
     <AllRoomsArea>+8</AllRoomsArea>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasGas>1</HasGas>
+    <HasSecurity>1</HasSecurity>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>2</FloorsCount>
       <BuildYear>1961</BuildYear>
+      <MaterialType>wood</MaterialType>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>9</Area>
@@ -5206,14 +5380,19 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
 Документы готовы, земля в частной собственности.</Description>
     <Address>Ленинградская обл. Кировский р-н Мга пгт.  д.17</Address>
     <CadastralNumber>47:16:0801001:1858</CadastralNumber>
-    <FlatRoomsCount>3</FlatRoomsCount>
+    <BedroomsCount>3</BedroomsCount>
     <TotalArea>80</TotalArea>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount>1/2</ShareAmount>
+    <WcLocationType>outdoors</WcLocationType>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>1</FloorsCount>
       <BuildYear>1961</BuildYear>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>12</Area>
@@ -5243,11 +5422,16 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <Description>Предлагается к продаже отличный участок в одном из самых экологически чистых районов Санкт-Петербурга, ИЖС, городская прописка, собственность, 17 соток (можно увеличить до 20). На участке газ, есть возможность подключения к водопроводу. Однородный социальный состав соседей. Магазины (Лента, Верный), школы, поликлиники, детские сады - развитая инфраструктура.</Description>
     <Address>Петродворцовый р-н Петергоф г. Солнечная ул.  д.96</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasGas>1</HasGas>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>17</Area>
@@ -5284,11 +5468,14 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
 Документы готовы. </Description>
     <Address>Ленинградская обл. Волосовский р-н Местаново дер.</Address>
     <CadastralNumber/>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>30</Area>
@@ -5318,11 +5505,17 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <Description>Прямая продажа, 15 км от Санкт-Петербурга продается участок 12 соток в Парголово (ориентировочно угол Норильской и Кабаловской улиц), ИЖС (категория земель - земли населенных пунктов для размещения индивидуального жилого дома. Санкт-Петербургская прописка. Межевание проведено. На публичной карте участок отмечен. Реальный раздел земельного участка был произведен в 2007 году (ранее  было капустное поле). Участок сухой, высокий, прямоугольной формы. На участке стоит бытовка, электрический столб со счетчиком (электричество - 15 КВт), поселок газифицирован, установлены  водопроводные колодцы и колодцы для центральной канализации. Сделана отсыпка участка  - завезено 300 м куб. песка, на участок завезена земля плодородная для формирования почвы на участке. Сделана подготовка под фундамент, под фундамент заведены трубы для канализации и гильзы под воду, электричество, коммуникации. Для подъезда к фундаменту по всем правилам сделана дорога для заезда тяжелых машин (с грузом до 50 тонн). Подготовлена площадка для фундамента размером 15Х18 кв.м, подготовка сделана под любой фундамент. У продавца подготовлен интересный в европейском стиле проект дома для этого участка.  Вокруг все собственники обустраиваются. Участок расположен в зеленой зоне. 15-20 минут  до Шуваловского парка с достопримечательностями: Церковь святых апостолов Петра и Павла в готическом стиле, озера, конный клуб, где можно совершать конные прогулки и экскурсии. В Парголово в наличии вся инфраструктура: магазины, аптеки, школа. Ж/д станция Парголово до нее от участка 10-15 минут пешком. Ходят автобусы: 397 до ул. Жени Егорова, маршрутка К-01 до метро Просвещения (15 минут и вы в городе). 1 собственник. Срочно. Документы готовы.</Description>
     <Address>Санкт-Петербург г. Выборгский Парголово, Кабаловская ул.</Address>
     <CadastralNumber>78:36:0013250:1356</CadastralNumber>
-    <FlatRoomsCount>0</FlatRoomsCount>
+    <BedroomsCount>0</BedroomsCount>
     <TotalArea/>
     <AllRoomsArea/>
     <KitchenArea/>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <HasGas>1</HasGas>
+    <HasBathhouse>0</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building/>
     <Land>
       <Area>12</Area>
@@ -5356,13 +5549,23 @@ Oт гоpoдa Сaнкт-Петербург 50км. До пгт. MГA можно 
     <Description>Уютный жилой дом,готовый завтра стать Вашим круглогодичным местом проживания.Прекрасный участок с фруктовыми деревьями,отличной русской баней и гостевым домиком.800 метров до города Шлиссельбург.Рядом Ладога и лес.</Description>
     <Address>Ленинградская обл. Кировский р-н Шлиссельбург г. Еловая ул.  д.18</Address>
     <CadastralNumber>47:16:0110006:9</CadastralNumber>
-    <FlatRoomsCount>3</FlatRoomsCount>
+    <BedroomsCount>3</BedroomsCount>
     <TotalArea>100</TotalArea>
     <AllRoomsArea>+72</AllRoomsArea>
     <KitchenArea>15</KitchenArea>
     <ShareAmount/>
+    <HasElectricity>1</HasElectricity>
+    <HasWater>1</HasWater>
+    <WcLocationType>indoors</WcLocationType>
+    <HasDrainage>1</HasDrainage>
+    <RepairType>cosmetic</RepairType>
+    <HasBathhouse>1</HasBathhouse>
+    <HasGarage>0</HasGarage>
+    <HasPool>0</HasPool>
     <Building>
       <FloorsCount>2</FloorsCount>
+      <MaterialType>brick</MaterialType>
+      <HeatingType>stove</HeatingType>
     </Building>
     <Land>
       <Area>5</Area>

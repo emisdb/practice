@@ -159,56 +159,23 @@ return array(
 		8 => 'industrialLand' ,
 		9 => 'privateFarm' ,
 	),
-	'gcn_list_country_electro'=>array(
-		1 => 0,
-		2 => 0,
-		3 => 1,
-		4 => 1,
-	),
-	'gcn_list_country_water'=>array(
-		1 => 0,
-		2 => 1,
-		3 => 1,
-		4 => 1,
-		5 => 0,
-		6 => 1,
-		7 => 1,
-		8 => 1,
-	),
-	'gcn_list_country_wc'=>array(
-		2 => '',
+	'id_wc'=>array(
+		2 => 'free',
 		3 => 'indoors',
 		4 => 'indoors',
 		5 => 'outdoors',
 		6 => 'indoors',
 	),
-	'gcn_list_country_gas'=>array(
-		1 => 0,
-		2 => 0,
-		3 => 0,
-		4 => 1,
-	),
-	'gcn_list_farm_sewerage'=>array(
-		1 => 0,
-		2 => 1,
-		3 => 1,
-		4 => 0,
-	),
-	'gcn_list_country_interior'=>array(
+	'id_interior'=>array(
 		2 => 'cosmetic',
 		3 => 'cosmetic',
 		4 => 'cosmetic',
 		5 => 'design',
 		6 => 'cosmetic',
 		7 => 'euro',
-		8 => 'no',
+		8 => 'no',	
 	),
-	'gcn_list_country_security'=>array(
-		1 => 0,
-		2 => 1,
-		3 => 0,
-	),
-	'gcn_list_country_walls'=>array(
+	'id_wall_mater'=>array(
 		2 => 'brick',
 		3 => 'foamConcreteBlock',
 		4 => 'wood',
@@ -223,7 +190,7 @@ return array(
 		13 => 'aerocreteBlock',
 		14 => 'wood',
 	),
-	'gcn_list_country_heat'=>array(
+	'id_head'=>array(
 		2 => 'no',
 		3 => 'stove',
 		4 => 'centralGas',
@@ -231,13 +198,44 @@ return array(
 		6 => 'diesel',
 		7 => 'solidFuelBoiler',
 		8 => 'electric',
-		9 => '',
+		9 => 'free',
 		10 => 'autonomousGas',
 		11 => 'stove',
 		12 => 'electric',
-		13 => '',
+		13 => 'free',
 	),
-
+	'Comm_id_cont'=>array(
+		2 => 'typical',
+		3 => 'design',
+		4 => 'cosmeticRepairsRequired',
+		5 => 'majorRepairsRequired',
+		7 => 'cosmeticRepairsRequired',
+		8 => 'cosmeticRepairsRequired',
+		9 => 'majorRepairsRequired',	
+	),
+	'Comm_id_entry'=>array(
+		2 => 'separateFromYard',
+		3 => 'separateFromStreet',
+		4 => 'commonFromYard',
+		6 => 'commonFromStreet',
+		7 => 'commonFromStreet',
+		23 => 'separateFromStreet',
+	),
+	'Comm_id_parking'=>array(
+		2 => 'ground',
+		3 => 'free',
+		4 => 'free',
+		5 => 'free',
+		6 => 'free',
+		7 => 'open',	
+	),
+	'Comm_id_property'=>array(
+		2 => 'owned',
+		3 => 'free',
+		4 => 'rent',
+		5 => 'rent',
+		6 => 'free',
+	),
 );
 
 
