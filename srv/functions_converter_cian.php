@@ -25,6 +25,8 @@ function conv_cian($value, $field)
             $thisfield = floatval($value);
             if ($thisfield>0) return $thisfield*1000 ;
             return 0;
+        case "FloorNumber":
+            return  intval($value);
         case "RoomArea":
             $strings = explode("+", $value );
             $result =0;

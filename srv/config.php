@@ -232,12 +232,12 @@ return array(
 				'Address'			 => array(2,array( 'id_reg','str_reg','str_dept', 'str_district', 'str_street', 'house_number', 'house_korpus', 'house_letter' )),
 				"ConditionType"	 	 => array(5,'gcn_list_comm_type_cond','id_cont'),
 				"InputType"	 	 	=> array(5,'gcn_list_comm_type_enter','id_entry'),
+				"FloorNumber"		 => array(0,'floor_text'),
 //				"AllRoomsArea"		 => array(0,'s_rooms'),
-//				"KitchenArea"		 => array(0,'s_kitchen'),
 //				"ShareAmount"		 => array(0,'fraction'),
 				'Building'			=> array(3,array(
 					array('FloorsCount'		=> array(0,"floors")),
-					"TotalArea"			 => array(0,'s_all'),
+					array("TotalArea"	 => array(0,'s_all')),
 //					array('BuildYear'		=> array(0,"year_build")),
 				)),
 				'Land'			=> array(3,array(
