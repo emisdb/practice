@@ -1,5 +1,6 @@
 <?php
 return array(
+
 	'room_sale'=>array(
 //		"SELECT * FROM gcn_rooms, gcn_rooms_ext
 // WHERE  gcn_rooms_ext.adv_for_emls =1 AND gcn_rooms.id = gcn_rooms_ext.id AND objects_status = 0 AND removal_request = '1';";
@@ -218,23 +219,25 @@ return array(
 			),
 
 	),
+
 //	"SELECT * FROM gcn_comm, gcn_comm_ext WHERE  gcn_comm_ext.adv_for_emls =1 AND gcn_comm.id = gcn_comm_ext.id AND objects_status = 0  AND removal_request = '1' LIMIT 0,600;";
 
 	'comm_sale'=>array(
 		'gcn_comm'	=>
 			array(
-//				'Category'			 => array(5,'gcn_list_object','id_obj_type'),
+				'Category'			 => array(5,'gcn_list_type_object_comm','id_type'),
+				'SubCategory'		 => array(0,'str_postr'),
 				'ExternalId'		 => array(0,'id'),
 				'Description'		 => array(0,'comment_for_clients') ,
 				'Address'			 => array(2,array( 'id_reg','str_reg','str_dept', 'str_district', 'str_street', 'house_number', 'house_korpus', 'house_letter' )),
-//				"CadastralNumber"	 => array(0,'cadastral_number'),
-//				"FlatRoomsCount"	 => array(0,'amount_rooms'),
-//				"TotalArea"			 => array(0,'s_total'),
+				"ConditionType"	 	 => array(5,'gcn_list_comm_type_cond','id_cont'),
+				"InputType"	 	 	=> array(5,'gcn_list_comm_type_enter','id_entry'),
 //				"AllRoomsArea"		 => array(0,'s_rooms'),
 //				"KitchenArea"		 => array(0,'s_kitchen'),
 //				"ShareAmount"		 => array(0,'fraction'),
 				'Building'			=> array(3,array(
 					array('FloorsCount'		=> array(0,"floors")),
+					"TotalArea"			 => array(0,'s_all'),
 //					array('BuildYear'		=> array(0,"year_build")),
 				)),
 				'Land'			=> array(3,array(
@@ -245,7 +248,7 @@ return array(
 //					array('id_obj_type' , array(4,2,3,6))
 				),
 				'BargainTerms'				=> array(3,array(
-//					array('Price'			=> array(0,"price")),
+					array('Price'			=> array(0,"price_s")),
 //					array('MortgageAllowed'	=> array(0,"hypothec")),
 					array('Currency'		=> array(1,"rur")),
 					array('AgentBonus'			=> array(3,array(
@@ -280,9 +283,9 @@ return array(
 			),
 
 	),
+/*
 
 
-	/*
 
 	 *
 	 *

@@ -237,6 +237,33 @@ return array(
 		12 => 'electric',
 		13 => '',
 	),
+	'gcn_list_type_object_comm'=>array(
+		1 => '',
+		2 => 'buildingSale',
+		3 => 'freeAppointmentObjectSale',
+		5 => 'commercialLandSale' ,
+		6 => 'freeAppointmentObjectSale' ,
+		7 => 'freeAppointmentObjectSale' ,
+		8 => 'buildingSale' ,
+		9 => 'garageSale' ,
+	),
+	'gcn_list_comm_type_cond'=>array(
+		2 => 'typical',
+		3 => 'design',
+		4 => 'cosmeticRepairsRequired',
+		5 => 'majorRepairsRequired',
+		7 => 'cosmeticRepairsRequired',
+		8 => 'cosmeticRepairsRequired',
+		9 => 'majorRepairsRequired',
+	),
+	'gcn_list_comm_type_enter'=>array(
+		2 => 'separateFromYard',
+		3 => 'separateFromStreet',
+		4 => 'commonFromYard',
+		6 => 'commonFromStreet',
+		7 => 'commonFromStreet',
+		23 => 'separateFromStreet',
+	),
 
 );
 

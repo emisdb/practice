@@ -61,11 +61,62 @@ function conv_cian($value, $field)
             return htmlspecialchars($value);
     }
 }
-
 /**
  * Специфические значения от ЦИАН
  *
- * @param $value array
+ * @param $row array
+ * @param $field array
+ * @return string
+ */
+function comm_type($row){
+    $result = "";
+    switch($row['id_type']){
+        case 1:
+            return "buildingSale";
+        case 2:
+            return 'buildingSale';
+        case 8:
+            return 'buildingSale';
+        case 5:
+            return 'commercialLandSale';
+        case 9:
+            return 'garageSale';
+        default:
+            $vals = explode(",", $row['str_postr'] );
+            $tot =0;
+            if(count($vals)>0){
+                if(in_array(2,$vals)){
+                    $tot =1;
+                }
+                if(in_array(4,$vals)){
+                    $tot +=2;
+                }
+                if(in_array(3,$vals)){
+                    $tot +=4;
+                }
+                if(in_array(6,$vals)){
+                    $tot += 8;
+                 }
+                if($tot == 1){
+                    return 'officeSale';
+                } elseif ($tot == 2){
+                    return 'warehouseSale';
+                } elseif ($tot == 4){
+                    return 'industrySale';
+                } elseif ($tot == 8){
+                    return 'shoppingAreaSale';
+                } else {
+               return 'freeAppointmentObjectSale';
+                }
+            } else{
+                return 'freeAppointmentObjectSale';
+            }
+    }
+}
+/**
+ * Специфические значения от ЦИАН
+ *
+ * @param $row array
  * @param $field array
  * @return string
  */
@@ -185,13 +236,27 @@ function set_fields($key,$value,$row_res,$object,$document,$lists){
         }
     }
 }
-/**
- * Специфические значения от ЦИАН
- *
- * @param $value array
- * @param $field array
- * @return string
- */
+
+function query_builder_photo($block_type, $id){
+    $id_base = 1;
+    switch ($block_type){
+        case 'room_sale' :
+            $id_base = 2;
+            break;
+        case 'flat_sale' :
+            $id_base = 1;
+            break;
+        case 'house_sale' :
+            $id_base = 3;
+            break;
+        case 'comm_sale' :
+            $id_base = 5;
+            break;
+
+    }
+    return "SELECT photo_file FROM gcn_foto WHERE id_object = {$id} AND id_base = {$id_base} AND photo_status = 1 ORDER BY photo_sorting ASC;";
+
+}
 function query_builder($arr_type){
     $values = array();
     $from = "";
@@ -282,11 +347,18 @@ function query_builder($arr_type){
 function workflow($arr_type,$row_res,$object,$document,$lists) {
     foreach ($arr_type as $valu){
         foreach ($valu as $key => $value) {
+            if($key === "SubCategory"){
+                continue;
+            }
             if(substr($key, 0, 7) === "config_"){
                 continue;
             }
             if ($value[1] == "is_part") {
                 $object->appendChild($document->createElement("Category",$row_res['is_part'] ? "flatShareSale" : "flatSale"));
+                continue;
+            }
+            if ($value[1] == "gcn_list_type_object_comm") {
+                $object->appendChild($document->createElement("Category",comm_type($row_res)));
                 continue;
             }
             switch ($value[0]){

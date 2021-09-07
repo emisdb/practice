@@ -211,7 +211,7 @@ return array(
 		5 => 'majorRepairsRequired',
 		7 => 'cosmeticRepairsRequired',
 		8 => 'cosmeticRepairsRequired',
-		9 => 'majorRepairsRequired',	
+		9 => 'majorRepairsRequired',
 	),
 	'Comm_id_entry'=>array(
 		2 => 'separateFromYard',
