@@ -27,6 +27,8 @@ function conv_cian($value, $field)
             return 0;
         case "FloorNumber":
             return  intval($value);
+        case "Email":
+            return $value."@gcn-spb.ru";
         case "RoomArea":
             $strings = explode("+", $value );
             $result =0;
@@ -451,5 +453,31 @@ function workflow($arr_type,$row_res,$object,$document,$lists) {
             }
         }
      }
+}
+
+function is_photo($url) {
+    $Headers = @get_headers($url);
+// проверяем ли ответ от сервера с кодом 200 - ОК
+//if(preg_match("|200|", $Headers[0])) { // - немного дольше :)
+ //   var_dump($Headers);
+    if(strpos( $Headers[0],'200')) {
+       return true;
+    } else {
+        return false;
+    }
+}
+function does_url_exists($url) {
+    $ch = curl_init($url);
+    curl_setopt($ch, CURLOPT_NOBODY, true);
+    curl_exec($ch);
+    $code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    if ($code == 200) {
+        $status = true;
+    } else {
+        $status = false;
+    }
+    curl_close($ch);
+    return $status;
 }
 ?>

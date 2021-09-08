@@ -1,6 +1,15 @@
 <?php
 return array(
-
+	'agents'=>array(
+		'gcn_kadr'	=>
+			array(
+				'config_where'		=> array(array('agent_is_active', 1),array('id_role', 3)),
+				'Phone' 		=> array(0,"phone"),
+				'Email' 		=> array(0,"email_api"),
+				'FirstName' 	=> array(0,"name"),
+				'LastName' 		=> array(0,"lastname"),
+				),
+		),
 	'room_sale'=>array(
 //		"SELECT * FROM gcn_rooms, gcn_rooms_ext
 // WHERE  gcn_rooms_ext.adv_for_emls =1 AND gcn_rooms.id = gcn_rooms_ext.id AND objects_status = 0 AND removal_request = '1';";
@@ -65,7 +74,7 @@ return array(
 				)),
 				'SubAgent'			=> array(3,array(
 					array('Phone' 		=> array(0,"phone")),
-					array('Email' 		=> array(0,"email1")),
+					array('Email' 		=> array(0,"email_api")),
 					array('FirstName' 	=> array(0,"name")),
 					array('LastName' 	=> array(0,"lastname")),
 				)),
@@ -137,7 +146,7 @@ return array(
 				)),
 				'SubAgent'			=> array(3,array(
 					array('Phone' 		=> array(0,"phone")),
-					array('Email' 		=> array(0,"email1")),
+					array('Email' 		=> array(0,"email_api")),
 					array('FirstName' 	=> array(0,"name")),
 					array('LastName' 	=> array(0,"lastname")),
 				)),
@@ -212,7 +221,7 @@ return array(
 				)),
 				'SubAgent'			=> array(3,array(
 					array('Phone' 		=> array(0,"phone")),
-					array('Email' 		=> array(0,"email1")),
+					array('Email' 		=> array(0,"email_api")),
 					array('FirstName' 	=> array(0,"name")),
 					array('LastName' 	=> array(0,"lastname")),
 				)),
@@ -230,15 +239,16 @@ return array(
 				'ExternalId'		 => array(0,'id'),
 				'Description'		 => array(0,'comment_for_clients') ,
 				'Address'			 => array(2,array( 'id_reg','str_reg','str_dept', 'str_district', 'str_street', 'house_number', 'house_korpus', 'house_letter' )),
+				'TotalArea'	 		=> array(0,'s_all'),
 				"ConditionType"	 	 => array(5,'gcn_list_comm_type_cond','id_cont'),
 				"InputType"	 	 	=> array(5,'gcn_list_comm_type_enter','id_entry'),
 				"FloorNumber"		 => array(0,'floor_text'),
-//				"AllRoomsArea"		 => array(0,'s_rooms'),
-//				"ShareAmount"		 => array(0,'fraction'),
+				"HasHeating"		 => array(5,'gcn_hasno','id_heat'),
 				'Building'			=> array(3,array(
+					array('CeilingHeight'	=> array(0,"s_ceiling")),
 					array('FloorsCount'		=> array(0,"floors")),
-					array("TotalArea"	 => array(0,'s_all')),
-//					array('BuildYear'		=> array(0,"year_build")),
+					array("TotalArea"	 	=> array(0,'s_all')),
+					array('StatusType'		=> array(5,"gcn_list_comm_status_object","id_status_object")),
 				)),
 				'Land'			=> array(3,array(
 					array('Area'		=> array(0,"area")),
@@ -276,7 +286,7 @@ return array(
 				)),
 				'SubAgent'			=> array(3,array(
 					array('Phone' 		=> array(0,"phone")),
-					array('Email' 		=> array(0,"email1")),
+					array('Email' 		=> array(0,"email_api")),
 					array('FirstName' 	=> array(0,"name")),
 					array('LastName' 	=> array(0,"lastname")),
 				)),

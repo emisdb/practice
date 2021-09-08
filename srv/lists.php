@@ -264,6 +264,31 @@ return array(
 		7 => 'commonFromStreet',
 		23 => 'separateFromStreet',
 	),
+	'gcn_hasno'=>array(
+		1 => 0,
+		2 => 1,
+		3 => 0,
+	),
+	'gcn_list_comm_status_object'=>array(
+		1 => 'operational',
+		2 => 'underConstruction',
+
+	),
+	'Comm_id_parking'=>array(
+		2 => 'ground',
+		3 => 'free',
+		4 => 'free',
+		5 => 'free',
+		6 => 'free',
+		7 => 'open',
+	),
+	'Comm_id_property'=>array(
+		2 => 'owned',
+		3 => 'free',
+		4 => 'rent',
+		5 => 'rent',
+		6 => 'free',
+	),
 
 );
 
